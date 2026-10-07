@@ -1,5 +1,17 @@
 # vertex-business-sales-analysis
 Interactive 3-page Power BI dashboard analysing sales, profitability and customer behaviour (Jan 2024 - May 2026). 
+
+## Dashboard Preview
+
+### Overview
+![Overview](Screenshot2026-10-07-1.png)
+
+### Profitability Analysis
+![Profitability Analysis](Screenshot2026-10-07-2.png)
+
+### Customer and Product Analysis
+![Customer and Product Analysis](screenshot2026-10-07-3.png)
+
 ---
 
 ## 1. Objective
