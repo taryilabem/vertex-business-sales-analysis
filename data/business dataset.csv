@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Year,Month,State,State_Code,Product,Product_Category,Sales_Channel,Customer_Segment,Payment_Method,Customer_Age,Quantity,Unit_Price,Discount_Percent,Discount_Amount,Sales,Cost,Profit,Profit_Margin_Percent,Returned_Quantity,Shipping_Cost,Tax,Net_Sales,Order_Status,Quarter,Month_Number,Age Group,Discount Band
+ORD-00001,5/10/2026,2026,May,Rhode Island,RI,Printer,Electronics,Online,Small Business,PayPal,19,7,289.42,0,0,2025.94,1490.76,535.18,26.42,0,61.65,83.12,1964.29,Completed,Q2,5,18-24,No Discount
+ORD-00002,2/17/2025,2025,February,Mississippi,MS,Tablet,Electronics,Online,Consumer,Credit Card,33,6,447.76,0,0,2686.56,1229.4,1457.16,54.24,0,36.99,113.73,2649.57,Completed,Q1,2,25-34,No Discount
+ORD-00003,5/25/2026,2026,May,Iowa,IA,Monitor,Electronics,Retail Store,Corporate,Credit Card,43,5,465.55,0,0,2327.75,1057.68,1270.07,54.56,0,50.06,137.97,2277.69,Completed,Q2,5,35-44,No Discount
+ORD-00004,4/1/2024,2024,April,Alaska,AK,Printer,Electronics,Retail Store,Consumer,Debit Card,21,14,133.07,0,0,1862.98,950.38,912.6,48.99,0,39.01,93.89,1823.97,Completed,Q2,4,18-24,No Discount
+ORD-00005,12/30/2025,2025,December,New Hampshire,NH,Smartphone,Electronics,Retail Store,Consumer,Digital Wallet,35,15,1213.64,0,0,18204.6,9369.44,8835.16,48.53,0,31.03,1081.97,18173.57,Completed,Q4,12,35-44,No Discount
+ORD-00006,3/2/2026,2026,March,Washington,WA,Office Chair,Furniture,Online,Consumer,Debit Card,28,15,180.6,0,0,2709,1233.03,1475.97,54.48,0,36.59,148.11,2672.41,Completed,Q1,3,25-34,No Discount
+ORD-00007,11/5/2025,2025,November,Kentucky,KY,Headphones,Accessories,Wholesale,Corporate,Digital Wallet,41,12,209.28,15,376.7,2134.66,1646.67,487.99,22.86,0,10.08,118.58,2124.58,Completed,Q4,11,35-44,Medium
+ORD-00008,11/14/2025,2025,November,Oregon,OR,Monitor,Electronics,Retail Store,Small Business,Debit Card,32,14,236.21,10,330.69,2976.25,2275.74,700.51,23.54,0,25.49,125.07,2950.76,Completed,Q4,11,25-34,Low
+ORD-00009,7/7/2025,2025,July,Iowa,IA,Mouse,Accessories,Retail Store,Consumer,Bank Transfer,53,13,64.91,0,0,843.83,632.45,211.38,25.05,0,37.83,65.63,806,Completed,Q3,7,45-54,No Discount
+ORD-00010,11/29/2025,2025,November,Illinois,IL,Bookshelf,Furniture,Wholesale,Small Business,PayPal,75,5,181.65,15,136.24,772.01,649.59,122.42,15.86,0,76.4,51.7,695.61,Completed,Q4,11,65+,Medium
+ORD-00011,8/18/2024,2024,August,Nevada,NV,Keyboard,Accessories,Marketplace,Consumer,PayPal,68,13,25.08,15,48.91,277.13,147.47,129.67,46.79,0,38.39,14.16,238.74,Completed,Q3,8,65+,Medium
+ORD-00012,10/25/2025,2025,October,Tennessee,TN,Tablet,Electronics,Marketplace,Consumer,Debit Card,54,1,706.96,0,0,706.96,377.37,329.59,46.62,0,60.7,53.46,646.26,Completed,Q4,10,45-54,No Discount
+ORD-00013,3/21/2024,2024,March,Wisconsin,WI,Headphones,Accessories,Online,Enterprise,Debit Card,72,1,48.59,5,2.43,46.16,32.78,13.38,28.99,0,40.82,3.12,5.34,Completed,Q1,3,65+,Low
+ORD-00014,7/21/2024,2024,July,Arkansas,AR,Bookshelf,Furniture,Online,Consumer,Bank Transfer,23,2,235.79,5,23.58,448,295.59,152.41,34.02,0,71.82,25.11,376.18,Completed,Q3,7,18-24,Low
+ORD-00015,10/21/2025,2025,October,Kansas,KS,Monitor,Electronics,Online,Consumer,PayPal,18,4,560.47,5,112.09,2129.79,1137.85,991.94,46.57,0,35.94,184.94,2093.85,Completed,Q4,10,18-24,Low
+ORD-00016,4/17/2025,2025,April,Hawaii,HI,Tablet,Electronics,Online,Corporate,PayPal,22,10,398.56,20,797.12,3188.48,2473.02,715.46,22.44,0,84.7,281.45,3103.78,Completed,Q2,4,18-24,Medium
+ORD-00017,1/9/2024,2024,January,Oregon,OR,Backpack,Accessories,Online,Small Business,Bank Transfer,37,6,141.32,10,84.79,763.13,561.21,201.91,26.46,0,17.93,64.81,745.2,Completed,Q1,1,35-44,Low
+ORD-00018,4/8/2024,2024,April,Ohio,OH,Keyboard,Accessories,Marketplace,Consumer,Credit Card,37,3,100.27,5,15.04,285.77,157.63,128.14,44.84,0,23.98,16.08,261.79,Completed,Q2,4,35-44,Low
+ORD-00019,7/13/2024,2024,July,Delaware,DE,Bookshelf,Furniture,Wholesale,Corporate,Credit Card,44,7,203.99,0,0,1427.93,920.53,507.4,35.53,0,43.94,121.81,1383.99,Completed,Q3,7,35-44,No Discount
+ORD-00020,3/8/2026,2026,March,North Dakota,ND,Office Chair,Furniture,Retail Store,Corporate,Bank Transfer,63,3,218.98,5,32.85,624.09,462.24,161.86,25.93,0,84.56,39.63,539.53,Completed,Q1,3,55-64,Low
+ORD-00021,6/10/2026,2026,June,Colorado,CO,Monitor,Electronics,Online,Enterprise,Debit Card,20,3,634.33,20,380.6,1522.39,903.66,618.73,40.64,0,20.27,81.33,1502.12,Completed,Q2,6,18-24,Medium
+ORD-00022,1/4/2026,2026,January,Louisiana,LA,Keyboard,Accessories,Marketplace,Enterprise,Credit Card,50,15,57.38,20,172.14,688.56,427.1,261.46,37.97,0,75.19,53.05,613.37,Completed,Q1,1,45-54,Medium
+ORD-00023,9/2/2024,2024,September,Florida,FL,Backpack,Accessories,Online,Consumer,Bank Transfer,25,9,135.31,5,60.89,1156.9,580.8,576.1,49.8,0,55.23,57.51,1101.67,Completed,Q3,9,25-34,Low
+ORD-00024,6/1/2026,2026,June,Virginia,VA,Tablet,Electronics,Online,Consumer,Credit Card,69,6,625.88,0,0,3755.28,1882.01,1873.27,49.88,2,52.27,155.94,3703.01,Returned,Q2,6,65+,No Discount
+ORD-00025,2/21/2026,2026,February,Tennessee,TN,Desk,Furniture,Online,Consumer,Debit Card,52,12,618.9,20,1485.36,5941.44,4462.75,1478.69,24.89,0,20.55,359.86,5920.89,Completed,Q1,2,45-54,Medium
+ORD-00026,10/17/2025,2025,October,South Carolina,SC,Printer,Electronics,Marketplace,Corporate,Credit Card,26,15,422.17,0,0,6332.55,4404.5,1928.05,30.45,0,19.75,278.91,6312.8,Completed,Q4,10,25-34,No Discount
+ORD-00027,10/2/2025,2025,October,Idaho,ID,Office Chair,Furniture,Online,Consumer,Credit Card,39,9,356.17,5,160.28,3045.25,1738.61,1306.64,42.91,0,64.03,206.22,2981.22,Completed,Q4,10,35-44,Low
+ORD-00028,3/16/2024,2024,March,New Hampshire,NH,Bookshelf,Furniture,Retail Store,Consumer,Credit Card,43,12,195.98,0,0,2351.76,1089.9,1261.86,53.66,0,61.29,149.83,2290.47,Completed,Q1,3,35-44,No Discount
+ORD-00029,7/4/2025,2025,July,Montana,MT,Office Chair,Furniture,Online,Corporate,PayPal,18,6,140.67,5,42.2,801.82,392.43,409.39,51.06,0,55.07,52.24,746.75,Completed,Q3,7,18-24,Low
+ORD-00030,1/16/2024,2024,January,California,CA,Printer,Electronics,Online,Corporate,Credit Card,60,11,342.59,10,376.85,3391.64,2537.95,853.69,25.17,0,15.28,273.23,3376.36,Completed,Q1,1,55-64,Low
+ORD-00031,4/14/2026,2026,April,Oregon,OR,Tablet,Electronics,Wholesale,Corporate,Credit Card,25,12,428.07,0,0,5136.84,2342.47,2794.37,54.4,0,59.64,223.76,5077.2,Completed,Q2,4,25-34,No Discount
+ORD-00032,8/24/2025,2025,August,New Hampshire,NH,Mouse,Accessories,Online,Consumer,Debit Card,27,2,87.75,5,8.78,166.72,129.79,36.93,22.15,0,69.28,9.02,97.44,Completed,Q3,8,25-34,Low
+ORD-00033,7/10/2024,2024,July,Oregon,OR,Keyboard,Accessories,Retail Store,Small Business,Credit Card,52,8,63.75,15,76.5,433.5,324.06,109.44,25.25,0,59.39,33.38,374.11,Completed,Q3,7,45-54,Medium
+ORD-00034,5/30/2026,2026,May,South Dakota,SD,Laptop,Electronics,Retail Store,Small Business,Credit Card,48,1,2064.18,0,0,2064.18,1581.82,482.36,23.37,0,33.39,181.32,2030.79,Completed,Q2,5,45-54,No Discount
+ORD-00035,1/1/2025,2025,January,Maine,ME,Mouse,Accessories,Online,Consumer,PayPal,56,5,73.14,10,36.57,329.13,260.09,69.04,20.98,0,12.3,21.3,316.83,Completed,Q1,1,55-64,Low
+ORD-00036,5/12/2024,2024,May,Indiana,IN,Mouse,Accessories,Wholesale,Corporate,PayPal,59,9,116.71,10,105.04,945.35,686.97,258.38,27.33,0,11.73,70.95,933.62,Completed,Q2,5,55-64,Low
+ORD-00037,3/5/2026,2026,March,Florida,FL,Smartphone,Electronics,Wholesale,Consumer,Credit Card,23,13,1485.97,0,0,19317.61,13874.37,5443.24,28.18,0,83.88,1500.38,19233.73,Completed,Q1,3,18-24,No Discount
+ORD-00038,3/20/2025,2025,March,New Mexico,NM,Monitor,Electronics,Online,Small Business,Credit Card,58,14,335.22,0,0,4693.08,2129.47,2563.61,54.63,0,9.5,215.6,4683.58,Completed,Q1,3,55-64,No Discount
+ORD-00039,1/21/2025,2025,January,Rhode Island,RI,Laptop,Electronics,Retail Store,Enterprise,Debit Card,64,8,1271.43,0,0,10171.44,6041.74,4129.7,40.6,0,83.23,689.63,10088.21,Completed,Q1,1,55-64,No Discount
+ORD-00040,7/31/2024,2024,July,Massachusetts,MA,Desk,Furniture,Marketplace,Consumer,Debit Card,20,2,732.5,0,0,1465,764.07,700.93,47.85,0,84.67,109.65,1380.33,Completed,Q3,7,18-24,No Discount
+ORD-00041,1/12/2024,2024,January,Kansas,KS,Bookshelf,Furniture,Marketplace,Consumer,Debit Card,45,5,123.09,0,0,615.45,315.16,300.29,48.79,0,33.27,42.58,582.18,Completed,Q1,1,45-54,No Discount
+ORD-00042,1/9/2026,2026,January,Oregon,OR,Keyboard,Accessories,Marketplace,Corporate,Debit Card,68,4,72.98,5,14.6,277.32,157.47,119.86,43.22,0,11.1,24.13,266.22,Completed,Q1,1,65+,Low
+ORD-00043,3/25/2025,2025,March,California,CA,Keyboard,Accessories,Online,Small Business,Debit Card,42,8,50.55,0,0,404.4,290.15,114.25,28.25,1,35.14,31.33,369.26,Returned,Q1,3,35-44,No Discount
+ORD-00044,3/5/2026,2026,March,Michigan,MI,Backpack,Accessories,Retail Store,Consumer,Credit Card,70,5,47.4,0,0,237,174.28,62.72,26.46,0,84.98,21.29,152.02,Completed,Q1,3,65+,No Discount
+ORD-00045,7/18/2025,2025,July,Minnesota,MN,Office Chair,Furniture,Marketplace,Small Business,Credit Card,51,14,313.73,0,0,4392.22,2374.7,2017.52,45.93,0,75.26,341.93,4316.96,Completed,Q3,7,45-54,No Discount
+ORD-00046,7/4/2025,2025,July,Nevada,NV,Headphones,Accessories,Wholesale,Corporate,Bank Transfer,64,12,175.24,10,210.29,1892.59,1618.02,274.57,14.51,0,68.35,131.53,1824.24,Completed,Q3,7,55-64,Low
+ORD-00047,5/2/2026,2026,May,Minnesota,MN,Office Chair,Furniture,Retail Store,Small Business,Digital Wallet,69,2,385.42,0,0,770.84,496.94,273.9,35.53,0,40,65.68,730.84,Completed,Q2,5,65+,No Discount
+ORD-00048,11/30/2024,2024,November,Pennsylvania,PA,Laptop,Electronics,Retail Store,Corporate,Bank Transfer,23,4,2134.38,0,0,8537.52,6214.38,2323.14,27.21,0,10.3,361.08,8527.22,Completed,Q4,11,18-24,No Discount
+ORD-00049,2/12/2024,2024,February,Alaska,AK,Backpack,Accessories,Online,Consumer,Credit Card,49,15,46.65,0,0,699.75,475.99,223.76,31.98,0,60.72,42.39,639.03,Completed,Q1,2,45-54,No Discount
+ORD-00050,4/2/2024,2024,April,Arizona,AZ,Backpack,Accessories,Marketplace,Corporate,Credit Card,43,2,136.83,0,0,273.66,139.13,134.53,49.16,0,14.65,17.25,259.01,Completed,Q2,4,35-44,No Discount
+ORD-00051,3/18/2024,2024,March,Virginia,VA,Smartphone,Electronics,Online,Consumer,Credit Card,18,6,955.2,0,0,5731.2,4231.24,1499.96,26.17,0,9.89,308.59,5721.31,Completed,Q1,3,18-24,No Discount
+ORD-00052,5/16/2026,2026,May,Delaware,DE,Laptop,Electronics,Online,Consumer,Debit Card,68,10,1529.88,10,1529.88,13768.92,9566.61,4202.31,30.52,0,9.99,652.47,13758.93,Completed,Q2,5,65+,Low
+ORD-00053,9/14/2025,2025,September,Connecticut,CT,Monitor,Electronics,Marketplace,Small Business,Credit Card,74,6,587.59,0,0,3525.54,1868.59,1656.95,47,0,35.18,144.56,3490.36,Completed,Q3,9,65+,No Discount
+ORD-00054,3/26/2024,2024,March,Kentucky,KY,Bookshelf,Furniture,Online,Consumer,Bank Transfer,64,4,274.01,0,0,1096.04,727.89,368.15,33.59,0,51.74,84.22,1044.3,Completed,Q1,3,55-64,No Discount
+ORD-00055,1/3/2025,2025,January,Delaware,DE,Headphones,Accessories,Retail Store,Consumer,Credit Card,38,2,273.91,0,0,547.82,336.59,211.23,38.56,0,79.7,22.12,468.12,Completed,Q1,1,35-44,No Discount
+ORD-00056,5/17/2025,2025,May,Colorado,CO,Desk,Furniture,Retail Store,Small Business,Credit Card,48,8,639.34,15,767.21,4347.51,2437.05,1910.46,43.94,0,37.83,387.45,4309.68,Completed,Q2,5,45-54,Medium
+ORD-00057,4/12/2025,2025,April,Colorado,CO,Smartphone,Electronics,Marketplace,Small Business,Bank Transfer,62,8,720.8,10,576.64,5189.76,4156.91,1032.85,19.9,0,47.8,331.27,5141.96,Completed,Q2,4,55-64,Low
+ORD-00058,11/21/2024,2024,November,Utah,UT,Office Chair,Furniture,Marketplace,Small Business,Credit Card,53,12,436.59,0,0,5239.08,3413.28,1825.8,34.85,0,51.5,250,5187.58,Completed,Q4,11,45-54,No Discount
+ORD-00059,9/15/2024,2024,September,Illinois,IL,Backpack,Accessories,Online,Consumer,Credit Card,26,12,38.24,0,0,458.88,310.16,148.72,32.41,0,16.11,18.42,442.77,Completed,Q3,9,25-34,No Discount
+ORD-00060,7/3/2025,2025,July,Hawaii,HI,Headphones,Accessories,Retail Store,Consumer,Digital Wallet,57,12,255.96,0,0,3071.52,2327.81,743.71,24.21,2,19.5,133.07,3052.02,Returned,Q3,7,55-64,No Discount
+ORD-00061,4/11/2026,2026,April,Michigan,MI,Tablet,Electronics,Wholesale,Small Business,Bank Transfer,62,3,769.7,0,0,2309.1,1659.8,649.3,28.12,0,46.85,133.79,2262.25,Completed,Q2,4,55-64,No Discount
+ORD-00062,2/5/2025,2025,February,Tennessee,TN,Keyboard,Accessories,Wholesale,Corporate,Debit Card,19,6,96.72,0,0,580.32,345.17,235.15,40.52,0,33.43,34.57,546.89,Completed,Q1,2,18-24,No Discount
+ORD-00063,9/7/2025,2025,September,Indiana,IN,Office Chair,Furniture,Online,Corporate,Debit Card,56,3,263.11,0,0,789.33,391.48,397.85,50.4,0,54.61,52.63,734.72,Completed,Q3,9,55-64,No Discount
+ORD-00064,6/5/2024,2024,June,Nebraska,NE,Printer,Electronics,Online,Consumer,Credit Card,30,14,402.7,0,0,5637.8,3865.51,1772.29,31.44,0,65.37,254.52,5572.43,Completed,Q2,6,25-34,No Discount
+ORD-00065,5/26/2026,2026,May,New Mexico,NM,Printer,Electronics,Online,Consumer,Bank Transfer,43,15,176.97,0,0,2654.55,1870.72,783.83,29.53,0,52.88,181.24,2601.67,Completed,Q2,5,35-44,No Discount
+ORD-00066,3/9/2024,2024,March,Texas,TX,Backpack,Accessories,Wholesale,Enterprise,Debit Card,42,7,59.56,0,0,416.92,317.94,98.98,23.74,0,51.9,27.22,365.02,Completed,Q1,3,35-44,No Discount
+ORD-00067,4/7/2026,2026,April,North Carolina,NC,Headphones,Accessories,Retail Store,Consumer,Digital Wallet,46,5,245.42,10,122.71,1104.39,613.96,490.43,44.41,0,53.54,67.6,1050.85,Completed,Q2,4,45-54,Low
+ORD-00068,10/23/2024,2024,October,Indiana,IN,Headphones,Accessories,Marketplace,Corporate,Credit Card,32,14,296.06,0,0,4144.84,3010.7,1134.14,27.36,0,29.92,212.92,4114.92,Completed,Q4,10,25-34,No Discount
+ORD-00069,11/4/2024,2024,November,Massachusetts,MA,Keyboard,Accessories,Online,Small Business,Credit Card,44,15,76.69,0,0,1150.35,845.46,304.89,26.5,0,42.26,73.67,1108.09,Completed,Q4,11,35-44,No Discount
+ORD-00070,5/25/2026,2026,May,Kentucky,KY,Backpack,Accessories,Marketplace,Consumer,PayPal,38,5,51.52,15,38.64,218.96,146.73,72.23,32.99,0,55.58,8.9,163.38,Completed,Q2,5,35-44,Medium
+ORD-00071,4/28/2026,2026,April,Wisconsin,WI,Bookshelf,Furniture,Marketplace,Consumer,Debit Card,73,13,116.46,0,0,1513.98,830.97,683.01,45.11,0,36.79,92.87,1477.19,Completed,Q2,4,65+,No Discount
+ORD-00072,3/4/2025,2025,March,Maine,ME,Laptop,Electronics,Online,Small Business,PayPal,21,3,1282.26,0,0,3846.78,2396.73,1450.05,37.7,0,37.06,261.51,3809.72,Completed,Q1,3,18-24,No Discount
+ORD-00073,2/24/2024,2024,February,Alabama,AL,Headphones,Accessories,Marketplace,Consumer,Credit Card,74,12,207.44,10,248.93,2240.35,1924.33,316.02,14.11,0,74.36,135.32,2165.99,Completed,Q1,2,65+,Low
+ORD-00074,3/18/2025,2025,March,Arizona,AZ,Headphones,Accessories,Retail Store,Corporate,Credit Card,73,3,188.06,5,28.21,535.97,298.23,237.75,44.36,0,24.45,40.79,511.52,Completed,Q1,3,65+,Low
+ORD-00075,6/30/2026,2026,June,Virginia,VA,Backpack,Accessories,Retail Store,Corporate,Credit Card,53,2,68.11,0,0,136.22,65.14,71.08,52.18,0,7.12,6.68,129.1,Completed,Q2,6,45-54,No Discount
+ORD-00076,3/22/2024,2024,March,New Hampshire,NH,Tablet,Electronics,Marketplace,Small Business,Debit Card,26,2,418.63,0,0,837.26,386.22,451.04,53.87,0,32.62,65.89,804.64,Completed,Q1,3,25-34,No Discount
+ORD-00077,5/16/2026,2026,May,North Dakota,ND,Office Chair,Furniture,Marketplace,Small Business,Credit Card,26,8,493.44,20,789.5,3158.02,2390.03,767.98,24.32,0,43.78,207.24,3114.24,Completed,Q2,5,25-34,Medium
+ORD-00078,8/24/2024,2024,August,South Carolina,SC,Smartphone,Electronics,Retail Store,Consumer,PayPal,38,10,892.79,0,0,8927.9,4523.36,4404.54,49.33,0,6.47,765.25,8921.43,Completed,Q3,8,35-44,No Discount
+ORD-00079,2/10/2024,2024,February,Tennessee,TN,Printer,Electronics,Online,Corporate,PayPal,51,7,435.3,0,0,3047.1,1511.99,1535.11,50.38,0,26.32,233.44,3020.78,Completed,Q1,2,45-54,No Discount
+ORD-00080,3/31/2026,2026,March,Idaho,ID,Keyboard,Accessories,Online,Enterprise,Debit Card,68,10,84.39,0,0,843.9,478.3,365.6,43.32,0,19.75,37.57,824.15,Completed,Q1,3,65+,No Discount
+ORD-00081,2/17/2026,2026,February,Montana,MT,Office Chair,Furniture,Online,Consumer,PayPal,75,3,247.76,15,111.49,631.79,431.77,200.02,31.66,0,15.8,40.55,615.99,Completed,Q1,2,65+,Medium
+ORD-00082,4/11/2025,2025,April,Oklahoma,OK,Printer,Electronics,Retail Store,Consumer,Debit Card,60,2,346.8,5,34.68,658.92,420.67,238.25,36.16,0,33.12,39.96,625.8,Completed,Q2,4,55-64,Low
+ORD-00083,1/25/2024,2024,January,South Carolina,SC,Mouse,Accessories,Online,Small Business,Bank Transfer,34,14,87.94,0,0,1231.16,595.91,635.25,51.6,0,69.59,108.47,1161.57,Completed,Q1,1,25-34,No Discount
+ORD-00084,4/2/2026,2026,April,Georgia,GA,Keyboard,Accessories,Retail Store,Consumer,Digital Wallet,42,15,142.55,10,213.82,1924.42,1427.06,497.36,25.84,0,72.94,101,1851.48,Completed,Q2,4,35-44,Low
+ORD-00085,5/3/2025,2025,May,Idaho,ID,Backpack,Accessories,Marketplace,Consumer,PayPal,68,7,150.28,5,52.6,999.36,637.66,361.71,36.19,0,14.64,76.5,984.72,Completed,Q2,5,65+,Low
+ORD-00086,5/12/2025,2025,May,West Virginia,WV,Headphones,Accessories,Retail Store,Small Business,Bank Transfer,62,3,54.27,0,0,162.81,117.8,45.01,27.65,0,52.7,8.38,110.11,Completed,Q2,5,55-64,No Discount
+ORD-00087,3/15/2026,2026,March,North Dakota,ND,Monitor,Electronics,Retail Store,Corporate,Debit Card,59,8,449.04,0,0,3592.32,2553.92,1038.4,28.91,0,55.07,302.83,3537.25,Completed,Q1,3,55-64,No Discount
+ORD-00088,11/6/2024,2024,November,Utah,UT,Smartphone,Electronics,Retail Store,Enterprise,Credit Card,70,2,644.75,15,193.42,1096.08,920.19,175.89,16.05,2,9.21,48.7,1086.87,Returned,Q4,11,65+,Medium
+ORD-00089,9/28/2024,2024,September,Utah,UT,Keyboard,Accessories,Marketplace,Enterprise,Bank Transfer,67,7,89.75,0,0,628.25,434.53,193.72,30.84,0,42.38,34.46,585.87,Completed,Q3,9,65+,No Discount
+ORD-00090,10/19/2024,2024,October,Arkansas,AR,Smartphone,Electronics,Online,Consumer,Digital Wallet,23,1,899.16,0,0,899.16,441.55,457.61,50.89,0,68.84,47.61,830.32,Completed,Q4,10,18-24,No Discount
+ORD-00091,11/14/2024,2024,November,Rhode Island,RI,Headphones,Accessories,Marketplace,Corporate,PayPal,63,4,83.43,0,0,333.72,194.4,139.32,41.75,0,23.45,27.21,310.27,Completed,Q4,11,55-64,No Discount
+ORD-00092,8/13/2024,2024,August,Georgia,GA,Backpack,Accessories,Retail Store,Consumer,Digital Wallet,59,5,137.41,0,0,687.05,528.89,158.16,23.02,0,79.22,61.66,607.83,Completed,Q3,8,55-64,No Discount
+ORD-00093,4/29/2026,2026,April,Ohio,OH,Smartphone,Electronics,Wholesale,Consumer,Bank Transfer,73,8,685.66,10,548.53,4936.75,2531.49,2405.27,48.72,0,73.81,310.38,4862.94,Completed,Q2,4,65+,Low
+ORD-00094,6/24/2025,2025,June,Arizona,AZ,Backpack,Accessories,Marketplace,Enterprise,Bank Transfer,22,8,135.24,15,162.29,919.63,749.36,170.27,18.52,0,25.21,37.02,894.42,Completed,Q2,6,18-24,Medium
+ORD-00095,3/29/2025,2025,March,West Virginia,WV,Mouse,Accessories,Marketplace,Consumer,Bank Transfer,51,2,119.1,0,0,238.2,144.97,93.23,39.14,0,70.97,13.67,167.23,Completed,Q1,3,45-54,No Discount
+ORD-00096,1/18/2026,2026,January,South Carolina,SC,Backpack,Accessories,Wholesale,Corporate,Bank Transfer,44,11,61.89,15,102.12,578.67,465.5,113.17,19.56,0,60.8,42.83,517.87,Completed,Q1,1,35-44,Medium
+ORD-00097,1/7/2024,2024,January,Pennsylvania,PA,Tablet,Electronics,Marketplace,Enterprise,Debit Card,31,10,821.4,0,0,8214,4604.68,3609.32,43.94,0,17.86,664.5,8196.14,Completed,Q1,1,25-34,No Discount
+ORD-00098,10/21/2024,2024,October,Illinois,IL,Tablet,Electronics,Online,Consumer,Credit Card,47,8,613.9,0,0,4911.2,3237.57,1673.63,34.08,0,67.39,222.72,4843.81,Completed,Q4,10,45-54,No Discount
+ORD-00099,8/20/2024,2024,August,Connecticut,CT,Mouse,Accessories,Marketplace,Consumer,PayPal,29,13,112.86,10,146.72,1320.46,744.36,576.1,43.63,0,80.78,63.8,1239.68,Completed,Q3,8,25-34,Low
+ORD-00100,6/24/2026,2026,June,Michigan,MI,Laptop,Electronics,Retail Store,Consumer,Credit Card,24,14,2008.14,20,5622.79,22491.17,21640.15,851.02,3.78,0,15.41,1752.36,22475.76,Completed,Q2,6,18-24,Medium
+ORD-00101,2/2/2024,2024,February,New Hampshire,NH,Backpack,Accessories,Online,Corporate,Bank Transfer,32,10,118.83,0,0,1188.3,718.47,469.83,39.54,0,13.18,98.28,1175.12,Completed,Q1,2,25-34,No Discount
+ORD-00102,6/2/2026,2026,June,New Hampshire,NH,Backpack,Accessories,Marketplace,Small Business,Credit Card,37,3,47.07,20,28.24,112.97,70.58,42.38,37.52,0,80.49,6.89,32.48,Completed,Q2,6,35-44,Medium
+ORD-00103,3/28/2025,2025,March,Colorado,CO,Monitor,Electronics,Marketplace,Consumer,Bank Transfer,44,13,288.08,0,0,3745.04,2758.15,986.89,26.35,0,50.02,238.1,3695.02,Completed,Q1,3,35-44,No Discount
+ORD-00104,3/5/2025,2025,March,Delaware,DE,Tablet,Electronics,Online,Consumer,Credit Card,20,2,544.9,10,108.98,980.82,715.62,265.2,27.04,0,7.6,84.39,973.22,Completed,Q1,3,18-24,Low
+ORD-00105,1/3/2026,2026,January,Maryland,MD,Keyboard,Accessories,Online,Consumer,PayPal,25,6,91.7,0,0,550.2,276.79,273.41,49.69,0,31.07,38.25,519.13,Completed,Q1,1,25-34,No Discount
+ORD-00106,3/12/2024,2024,March,Hawaii,HI,Laptop,Electronics,Retail Store,Corporate,Debit Card,39,6,2167.11,0,0,13002.66,8833.28,4169.38,32.07,0,67.39,545.86,12935.27,Completed,Q1,3,35-44,No Discount
+ORD-00107,2/4/2025,2025,February,Mississippi,MS,Keyboard,Accessories,Online,Corporate,Credit Card,50,12,99.77,10,119.72,1077.52,759.87,317.65,29.48,0,31.12,70.99,1046.4,Completed,Q1,2,45-54,Low
+ORD-00108,8/11/2025,2025,August,South Dakota,SD,Laptop,Electronics,Online,Consumer,Credit Card,20,14,1637.8,5,1146.46,21782.74,16533.68,5249.06,24.1,0,58.63,1907.68,21724.11,Completed,Q3,8,18-24,Low
+ORD-00109,2/12/2026,2026,February,Colorado,CO,Keyboard,Accessories,Retail Store,Corporate,Credit Card,37,8,169.96,10,135.97,1223.71,971.59,252.13,20.6,0,70.19,53.85,1153.52,Completed,Q1,2,35-44,Low
+ORD-00110,1/24/2025,2025,January,Kansas,KS,Printer,Electronics,Wholesale,Corporate,PayPal,68,10,320.03,0,0,3200.3,2205.62,994.68,31.08,0,57.02,204.7,3143.28,Completed,Q1,1,65+,No Discount
+ORD-00111,1/19/2026,2026,January,Maine,ME,Bookshelf,Furniture,Online,Consumer,Bank Transfer,20,3,294.2,0,0,882.6,403.25,479.35,54.31,0,31.59,59.24,851.01,Completed,Q1,1,18-24,No Discount
+ORD-00112,1/24/2026,2026,January,Nevada,NV,Mouse,Accessories,Wholesale,Consumer,Credit Card,45,12,42.06,0,0,504.72,387.15,117.57,23.29,0,72.7,36.06,432.02,Completed,Q1,1,45-54,No Discount
+ORD-00113,5/31/2024,2024,May,Utah,UT,Printer,Electronics,Retail Store,Corporate,PayPal,68,2,131.17,0,0,262.34,193.67,68.67,26.18,0,38.74,14.12,223.6,Completed,Q2,5,65+,No Discount
+ORD-00114,8/24/2024,2024,August,Idaho,ID,Monitor,Electronics,Retail Store,Small Business,Credit Card,22,4,544.72,15,326.83,1852.05,1109.69,742.35,40.08,0,82.71,90.84,1769.34,Completed,Q3,8,18-24,Medium
+ORD-00115,11/13/2024,2024,November,Pennsylvania,PA,Keyboard,Accessories,Online,Consumer,PayPal,54,4,114.81,5,22.96,436.28,231.44,204.84,46.95,0,82.55,23.08,353.73,Completed,Q4,11,45-54,Low
+ORD-00116,2/27/2025,2025,February,California,CA,Laptop,Electronics,Retail Store,Consumer,Credit Card,18,10,1205.08,0,0,12050.8,6097.95,5952.85,49.4,0,31.96,981.47,12018.84,Completed,Q1,2,18-24,No Discount
+ORD-00117,2/14/2026,2026,February,California,CA,Printer,Electronics,Retail Store,Small Business,Credit Card,73,9,183.7,5,82.66,1570.64,938.61,632.02,40.24,0,67.54,118.22,1503.1,Completed,Q1,2,65+,Low
+ORD-00118,9/11/2025,2025,September,Nevada,NV,Desk,Furniture,Retail Store,Consumer,Digital Wallet,22,5,250.09,15,187.57,1062.88,578.94,483.94,45.53,0,41.18,92.15,1021.7,Completed,Q3,9,18-24,Medium
+ORD-00119,11/21/2025,2025,November,North Carolina,NC,Laptop,Electronics,Online,Consumer,Digital Wallet,60,11,2154.65,0,0,23701.15,13192.84,10508.31,44.34,0,51.41,1249.32,23649.74,Completed,Q4,11,55-64,No Discount
+ORD-00120,3/3/2025,2025,March,Wyoming,WY,Bookshelf,Furniture,Retail Store,Consumer,Credit Card,49,2,134.5,0,0,269,180.83,88.17,32.78,0,12.51,19.81,256.49,Completed,Q1,3,45-54,No Discount
+ORD-00121,5/9/2025,2025,May,Pennsylvania,PA,Office Chair,Furniture,Online,Corporate,Bank Transfer,44,10,526.18,0,0,5261.8,2791.75,2470.05,46.94,0,74.17,412.66,5187.63,Completed,Q2,5,35-44,No Discount
+ORD-00122,3/24/2026,2026,March,Delaware,DE,Keyboard,Accessories,Marketplace,Corporate,Digital Wallet,50,5,153.16,5,38.29,727.51,432.7,294.81,40.52,0,53.4,40.67,674.11,Completed,Q1,3,45-54,Low
+ORD-00123,11/18/2025,2025,November,South Dakota,SD,Keyboard,Accessories,Wholesale,Consumer,Credit Card,58,2,41.91,0,0,83.82,46.76,37.06,44.21,0,69.63,6.55,14.19,Completed,Q4,11,55-64,No Discount
+ORD-00124,12/30/2024,2024,December,Minnesota,MN,Monitor,Electronics,Wholesale,Consumer,Debit Card,50,15,182.71,5,137.03,2603.62,1784.83,818.78,31.45,0,35.43,175.55,2568.19,Completed,Q4,12,45-54,Low
+ORD-00125,10/17/2024,2024,October,Wisconsin,WI,Laptop,Electronics,Online,Consumer,PayPal,45,10,1768.68,10,1768.68,15918.12,10879.98,5038.14,31.65,0,81.12,1310.99,15837,Completed,Q4,10,45-54,Low
+ORD-00126,10/26/2025,2025,October,New Hampshire,NH,Mouse,Accessories,Retail Store,Consumer,PayPal,38,15,71.03,0,0,1065.45,672.63,392.82,36.87,0,62.24,70.39,1003.21,Completed,Q4,10,35-44,No Discount
+ORD-00127,12/1/2024,2024,December,Minnesota,MN,Backpack,Accessories,Retail Store,Small Business,Credit Card,70,15,150.51,0,0,2257.65,1372.95,884.7,39.19,0,18.31,159.99,2239.34,Completed,Q4,12,65+,No Discount
+ORD-00128,10/30/2025,2025,October,Virginia,VA,Backpack,Accessories,Wholesale,Corporate,Credit Card,61,2,109.34,0,0,218.68,168.89,49.79,22.77,0,46.8,10.09,171.88,Completed,Q4,10,55-64,No Discount
+ORD-00129,6/27/2026,2026,June,Georgia,GA,Bookshelf,Furniture,Online,Consumer,Bank Transfer,59,8,147.42,20,235.87,943.49,718.9,224.59,23.8,0,49.02,39.79,894.47,Completed,Q2,6,55-64,Medium
+ORD-00130,5/20/2024,2024,May,Washington,WA,Backpack,Accessories,Retail Store,Small Business,Bank Transfer,66,9,59.65,5,26.84,510.01,272.55,237.46,46.56,0,77.47,40.03,432.54,Completed,Q2,5,65+,Low
+ORD-00131,10/19/2024,2024,October,Montana,MT,Backpack,Accessories,Online,Small Business,Bank Transfer,52,9,117.29,0,0,1055.61,692.35,363.26,34.41,0,51.93,51.09,1003.68,Completed,Q4,10,45-54,No Discount
+ORD-00132,11/3/2025,2025,November,Utah,UT,Smartphone,Electronics,Online,Consumer,Credit Card,42,12,1124.07,0,0,13488.84,8909.74,4579.1,33.95,0,55.56,578.98,13433.28,Completed,Q4,11,35-44,No Discount
+ORD-00133,9/19/2024,2024,September,Alaska,AK,Monitor,Electronics,Wholesale,Consumer,Debit Card,49,1,517.27,0,0,517.27,291,226.27,43.74,0,53.26,29.41,464.01,Completed,Q3,9,45-54,No Discount
+ORD-00134,1/13/2026,2026,January,Rhode Island,RI,Printer,Electronics,Retail Store,Corporate,Debit Card,44,6,259.44,0,0,1556.64,736.15,820.49,52.71,0,10.41,124.56,1546.23,Completed,Q1,1,35-44,No Discount
+ORD-00135,2/14/2026,2026,February,New York,NY,Office Chair,Furniture,Marketplace,Corporate,Debit Card,40,3,259.46,0,0,778.38,363.72,414.66,53.27,0,34.04,69.88,744.34,Completed,Q1,2,35-44,No Discount
+ORD-00136,9/20/2024,2024,September,New Jersey,NJ,Printer,Electronics,Retail Store,Consumer,Digital Wallet,34,15,361.28,0,0,5419.2,3396.88,2022.32,37.32,0,41.03,421.66,5378.17,Completed,Q3,9,25-34,No Discount
+ORD-00137,10/9/2025,2025,October,Kansas,KS,Tablet,Electronics,Wholesale,Enterprise,Credit Card,37,8,509.56,0,0,4076.48,2826.1,1250.38,30.67,0,24.49,299.94,4051.99,Completed,Q4,10,35-44,No Discount
+ORD-00138,3/31/2025,2025,March,Colorado,CO,Desk,Furniture,Wholesale,Consumer,Bank Transfer,19,2,625.76,0,0,1251.52,611.77,639.75,51.12,0,32.33,73.9,1219.19,Completed,Q1,3,18-24,No Discount
+ORD-00139,3/24/2025,2025,March,Nebraska,NE,Keyboard,Accessories,Online,Consumer,Debit Card,29,7,118.09,0,0,826.63,586.47,240.16,29.05,0,50.33,49.23,776.3,Completed,Q1,3,25-34,No Discount
+ORD-00140,2/11/2024,2024,February,Washington,WA,Laptop,Electronics,Retail Store,Corporate,PayPal,19,14,1592.23,10,2229.12,20062.1,15842.59,4219.5,21.03,0,11.47,1206.72,20050.63,Completed,Q1,2,18-24,Low
+ORD-00141,4/10/2025,2025,April,Nebraska,NE,Smartphone,Electronics,Marketplace,Corporate,Digital Wallet,69,13,1053.92,15,2055.14,11645.82,10337.51,1308.31,11.23,0,53.5,911.17,11592.32,Completed,Q2,4,65+,Medium
+ORD-00142,6/20/2026,2026,June,Arizona,AZ,Monitor,Electronics,Online,Consumer,Credit Card,48,9,192.13,0,0,1729.17,823.76,905.41,52.36,0,14.76,120.55,1714.41,Completed,Q2,6,45-54,No Discount
+ORD-00143,10/19/2025,2025,October,Indiana,IN,Printer,Electronics,Online,Small Business,Credit Card,19,2,126.72,5,12.67,240.77,126.76,114.01,47.35,0,67.46,15.17,173.31,Completed,Q4,10,18-24,Low
+ORD-00144,9/9/2024,2024,September,Hawaii,HI,Smartphone,Electronics,Retail Store,Consumer,Debit Card,21,5,629.2,0,0,3146,1730.55,1415.45,44.99,0,60.37,135.64,3085.63,Completed,Q3,9,18-24,No Discount
+ORD-00145,7/5/2025,2025,July,Arkansas,AR,Bookshelf,Furniture,Wholesale,Corporate,Credit Card,52,12,283.41,10,340.09,3060.83,2343.32,717.51,23.44,0,37.38,222.53,3023.45,Completed,Q3,7,45-54,Low
+ORD-00146,4/1/2024,2024,April,Connecticut,CT,Backpack,Accessories,Retail Store,Consumer,Debit Card,75,7,155.3,0,0,1087.1,661.87,425.23,39.12,0,25.79,84.81,1061.31,Completed,Q2,4,65+,No Discount
+ORD-00147,3/5/2024,2024,March,Rhode Island,RI,Office Chair,Furniture,Online,Small Business,PayPal,69,5,205.51,20,205.51,822.04,627.82,194.22,23.63,0,48.84,51.56,773.2,Completed,Q1,3,65+,Medium
+ORD-00148,6/29/2025,2025,June,Montana,MT,Printer,Electronics,Online,Small Business,Debit Card,73,4,262.84,15,157.7,893.66,609.25,284.4,31.82,0,15.65,40.31,878.01,Completed,Q2,6,65+,Medium
+ORD-00149,5/8/2024,2024,May,Florida,FL,Keyboard,Accessories,Wholesale,Consumer,Credit Card,66,12,169.2,10,203.04,1827.36,1466.54,360.82,19.75,0,35.91,114.22,1791.45,Completed,Q2,5,65+,Low
+ORD-00150,5/4/2026,2026,May,Iowa,IA,Laptop,Electronics,Retail Store,Consumer,Bank Transfer,52,5,1565.89,0,0,7829.45,3621.49,4207.96,53.75,0,57.72,627.19,7771.73,Completed,Q2,5,45-54,No Discount
+ORD-00151,10/6/2025,2025,October,Mississippi,MS,Laptop,Electronics,Retail Store,Consumer,Debit Card,47,4,2189.06,10,875.62,7880.62,5851.38,2029.24,25.75,0,18.93,354,7861.69,Completed,Q4,10,45-54,Low
+ORD-00152,11/15/2024,2024,November,New York,NY,Headphones,Accessories,Retail Store,Consumer,Debit Card,21,8,273.71,10,218.97,1970.71,1436.73,533.98,27.1,0,21.45,90.79,1949.26,Completed,Q4,11,18-24,Low
+ORD-00153,6/17/2024,2024,June,Indiana,IN,Keyboard,Accessories,Marketplace,Corporate,Bank Transfer,49,4,74.94,0,0,299.76,231.83,67.93,22.66,0,51.59,23.2,248.17,Completed,Q2,6,45-54,No Discount
+ORD-00154,8/13/2024,2024,August,New York,NY,Tablet,Electronics,Online,Consumer,Digital Wallet,37,9,396,0,0,3564,2250.77,1313.23,36.85,0,18.09,191.35,3545.91,Completed,Q3,8,35-44,No Discount
+ORD-00155,10/14/2024,2024,October,Massachusetts,MA,Tablet,Electronics,Retail Store,Consumer,Digital Wallet,38,14,686.45,15,1441.55,8168.76,7009.27,1159.49,14.19,0,25.18,635.14,8143.58,Completed,Q4,10,35-44,Medium
+ORD-00156,8/25/2024,2024,August,Delaware,DE,Headphones,Accessories,Wholesale,Corporate,Credit Card,69,11,181.71,0,0,1998.81,1255.36,743.45,37.19,0,13.64,148.44,1985.17,Completed,Q3,8,65+,No Discount
+ORD-00157,8/29/2025,2025,August,Nebraska,NE,Smartphone,Electronics,Retail Store,Consumer,Debit Card,56,5,884.09,5,221.02,4199.43,2730.77,1468.65,34.97,0,50.2,312.62,4149.23,Completed,Q3,8,55-64,Low
+ORD-00158,5/7/2024,2024,May,Utah,UT,Keyboard,Accessories,Retail Store,Consumer,Debit Card,60,12,150.82,10,180.98,1628.86,1406.78,222.07,13.63,0,37.12,130.31,1591.74,Completed,Q2,5,55-64,Low
+ORD-00159,2/8/2025,2025,February,Missouri,MO,Mouse,Accessories,Wholesale,Corporate,Credit Card,31,13,52.32,0,0,680.16,423.72,256.44,37.7,0,72.2,55.52,607.96,Completed,Q1,2,25-34,No Discount
+ORD-00160,2/21/2025,2025,February,Indiana,IN,Keyboard,Accessories,Wholesale,Corporate,Bank Transfer,41,6,155.51,15,139.96,793.1,726.66,66.44,8.38,0,40.89,60.36,752.21,Completed,Q1,2,35-44,Medium
+ORD-00161,3/15/2026,2026,March,Ohio,OH,Mouse,Accessories,Wholesale,Consumer,Credit Card,31,14,18.05,0,0,252.7,179.94,72.76,28.79,0,52.06,16.19,200.64,Completed,Q1,3,25-34,No Discount
+ORD-00162,1/10/2026,2026,January,Arizona,AZ,Headphones,Accessories,Retail Store,Corporate,PayPal,36,2,196.91,5,19.69,374.13,255.47,118.65,31.71,0,30.77,26.87,343.36,Completed,Q1,1,35-44,Low
+ORD-00163,4/18/2024,2024,April,Michigan,MI,Headphones,Accessories,Wholesale,Enterprise,Credit Card,69,3,254.53,0,0,763.59,380.77,382.82,50.13,0,39.72,33.93,723.87,Completed,Q2,4,65+,No Discount
+ORD-00164,4/20/2025,2025,April,Wisconsin,WI,Backpack,Accessories,Wholesale,Enterprise,Digital Wallet,28,1,113.53,5,5.68,107.85,69.68,38.18,35.4,0,59.87,9.66,47.98,Completed,Q2,4,25-34,Low
+ORD-00165,8/24/2025,2025,August,Rhode Island,RI,Keyboard,Accessories,Retail Store,Consumer,Debit Card,68,13,76.85,10,99.9,899.14,642.71,256.44,28.52,0,60.81,77.76,838.33,Completed,Q3,8,65+,Low
+ORD-00166,6/30/2025,2025,June,Maine,ME,Mouse,Accessories,Retail Store,Small Business,Bank Transfer,56,1,34.54,0,0,34.54,26.23,8.31,24.07,0,55.49,1.47,-20.95,Completed,Q2,6,55-64,No Discount
+ORD-00167,10/2/2025,2025,October,Wyoming,WY,Monitor,Electronics,Wholesale,Consumer,Credit Card,61,12,285.86,0,0,3430.32,2394.2,1036.12,30.2,0,81.53,149.04,3348.79,Completed,Q4,10,55-64,No Discount
+ORD-00168,8/7/2024,2024,August,Tennessee,TN,Desk,Furniture,Online,Consumer,Bank Transfer,60,6,735.66,0,0,4413.96,3216.81,1197.15,27.12,0,17.51,364.83,4396.45,Completed,Q3,8,55-64,No Discount
+ORD-00169,9/6/2024,2024,September,Maryland,MD,Smartphone,Electronics,Retail Store,Consumer,Credit Card,24,6,1260.45,15,1134.41,6428.3,3457.68,2970.62,46.21,0,82.07,437.18,6346.23,Completed,Q3,9,18-24,Medium
+ORD-00170,10/27/2025,2025,October,Massachusetts,MA,Mouse,Accessories,Retail Store,Consumer,Bank Transfer,38,2,118.04,0,0,236.08,162.73,73.35,31.07,0,32.06,13.09,204.02,Completed,Q4,10,35-44,No Discount
+ORD-00171,3/20/2025,2025,March,Idaho,ID,Keyboard,Accessories,Online,Consumer,Credit Card,58,7,63.9,5,22.36,424.94,281.75,143.19,33.7,1,73.81,32.35,351.13,Returned,Q1,3,55-64,Low
+ORD-00172,6/25/2024,2024,June,Rhode Island,RI,Desk,Furniture,Retail Store,Consumer,Debit Card,68,5,456.28,0,0,2281.4,1526.67,754.73,33.08,0,12.81,189.58,2268.59,Completed,Q2,6,65+,No Discount
+ORD-00173,8/10/2025,2025,August,Rhode Island,RI,Desk,Furniture,Online,Corporate,Bank Transfer,63,3,441.77,10,132.53,1192.78,684.46,508.32,42.62,0,18.18,67.4,1174.6,Completed,Q3,8,55-64,Low
+ORD-00174,1/13/2026,2026,January,Michigan,MI,Headphones,Accessories,Marketplace,Small Business,Bank Transfer,20,9,102.09,5,45.94,872.87,641.09,231.78,26.55,0,49.2,39.02,823.67,Completed,Q1,1,18-24,Low
+ORD-00175,4/6/2024,2024,April,Delaware,DE,Tablet,Electronics,Retail Store,Small Business,Debit Card,41,11,543.6,0,0,5979.6,4221.31,1758.29,29.4,0,21.3,395.65,5958.3,Completed,Q2,4,35-44,No Discount
+ORD-00176,6/12/2024,2024,June,Nevada,NV,Keyboard,Accessories,Online,Consumer,PayPal,20,14,55.36,0,0,775.04,389.17,385.87,49.79,0,68.46,43.28,706.58,Completed,Q2,6,18-24,No Discount
+ORD-00177,10/9/2024,2024,October,Vermont,VT,Monitor,Electronics,Online,Enterprise,Credit Card,71,8,274.95,15,329.94,1869.66,1464.75,404.91,21.66,0,40.23,132.31,1829.43,Completed,Q4,10,65+,Medium
+ORD-00178,6/7/2025,2025,June,Maine,ME,Keyboard,Accessories,Wholesale,Consumer,Digital Wallet,72,5,100.23,5,25.06,476.09,330.48,145.61,30.59,0,75.55,29.22,400.54,Completed,Q2,6,65+,Low
+ORD-00179,6/20/2025,2025,June,Nebraska,NE,Office Chair,Furniture,Online,Consumer,Bank Transfer,36,14,210.19,10,294.27,2648.39,1506.19,1142.21,43.13,0,70.53,177.55,2577.86,Completed,Q2,6,35-44,Low
+ORD-00180,1/29/2025,2025,January,Utah,UT,Keyboard,Accessories,Marketplace,Corporate,Credit Card,50,6,64.42,10,38.65,347.87,216.69,131.18,37.71,0,61.96,28.28,285.91,Completed,Q1,1,45-54,Low
+ORD-00181,11/22/2025,2025,November,Massachusetts,MA,Monitor,Electronics,Marketplace,Small Business,Credit Card,52,7,468.48,5,163.97,3115.39,1857.05,1258.34,40.39,0,42.7,277.13,3072.69,Completed,Q4,11,45-54,Low
+ORD-00182,6/11/2026,2026,June,North Carolina,NC,Printer,Electronics,Wholesale,Consumer,PayPal,21,7,146.46,0,0,1025.22,683.05,342.17,33.38,3,27.34,73.96,997.88,Returned,Q2,6,18-24,No Discount
+ORD-00183,5/22/2024,2024,May,Missouri,MO,Desk,Furniture,Online,Consumer,Credit Card,68,14,552.3,15,1159.83,6572.37,4073.41,2498.96,38.02,0,9.73,558.27,6562.64,Completed,Q2,5,65+,Medium
+ORD-00184,9/7/2024,2024,September,North Carolina,NC,Desk,Furniture,Online,Consumer,Debit Card,37,14,396.32,15,832.27,4716.21,3497.73,1218.48,25.84,0,83.14,214.76,4633.07,Completed,Q3,9,35-44,Medium
+ORD-00185,2/27/2025,2025,February,Wisconsin,WI,Keyboard,Accessories,Wholesale,Enterprise,Credit Card,31,3,158.04,20,94.82,379.3,342.6,36.7,9.68,0,72.16,33.79,307.14,Completed,Q1,2,25-34,Medium
+ORD-00186,9/27/2025,2025,September,Florida,FL,Backpack,Accessories,Wholesale,Consumer,Bank Transfer,69,6,44.64,0,0,267.84,126.57,141.27,52.74,0,8.69,18.31,259.15,Completed,Q3,9,65+,No Discount
+ORD-00187,3/31/2026,2026,March,Missouri,MO,Backpack,Accessories,Online,Consumer,Bank Transfer,72,4,36.26,15,21.76,123.28,107.26,16.03,13,0,32.23,11.03,91.05,Completed,Q1,3,65+,Medium
+ORD-00188,3/7/2025,2025,March,Kansas,KS,Laptop,Electronics,Online,Corporate,Digital Wallet,26,15,2012.4,5,1509.3,28676.7,16097.03,12579.67,43.87,0,44.07,2204.62,28632.63,Completed,Q1,3,25-34,Low
+ORD-00189,2/4/2024,2024,February,Florida,FL,Printer,Electronics,Wholesale,Small Business,PayPal,69,15,316.63,0,0,4749.45,3564.57,1184.88,24.95,0,16,270.91,4733.45,Completed,Q1,2,65+,No Discount
+ORD-00190,8/19/2024,2024,August,New Hampshire,NH,Desk,Furniture,Marketplace,Corporate,Bank Transfer,19,7,544.58,0,0,3812.06,1846.54,1965.52,51.56,0,44.01,276.8,3768.05,Completed,Q3,8,18-24,No Discount
+ORD-00191,12/12/2024,2024,December,Mississippi,MS,Smartphone,Electronics,Wholesale,Corporate,PayPal,59,9,524.48,0,0,4720.32,2186.09,2534.23,53.69,0,77.59,245.19,4642.73,Completed,Q4,12,55-64,No Discount
+ORD-00192,4/2/2024,2024,April,Alabama,AL,Keyboard,Accessories,Retail Store,Corporate,Debit Card,60,4,94.36,0,0,377.44,234.19,143.25,37.95,0,5.61,19.23,371.83,Completed,Q2,4,55-64,No Discount
+ORD-00193,5/14/2026,2026,May,Maryland,MD,Tablet,Electronics,Online,Small Business,PayPal,38,11,583.23,0,0,6415.53,3475.17,2940.36,45.83,0,27.76,519.08,6387.77,Completed,Q2,5,35-44,No Discount
+ORD-00194,2/10/2024,2024,February,Rhode Island,RI,Bookshelf,Furniture,Online,Corporate,Credit Card,70,15,229.69,0,0,3445.35,1999.03,1446.32,41.98,0,37.88,294.17,3407.47,Completed,Q1,2,65+,No Discount
+ORD-00195,3/20/2025,2025,March,Vermont,VT,Tablet,Electronics,Online,Small Business,Digital Wallet,37,8,783.78,15,940.54,5329.7,2825.96,2503.74,46.98,0,71.37,224,5258.33,Completed,Q1,3,35-44,Medium
+ORD-00196,11/19/2024,2024,November,Louisiana,LA,Smartphone,Electronics,Retail Store,Corporate,Debit Card,19,12,577.08,0,0,6924.96,5173.68,1751.28,25.29,0,30.69,536.63,6894.27,Completed,Q4,11,18-24,No Discount
+ORD-00197,7/20/2024,2024,July,New Hampshire,NH,Keyboard,Accessories,Online,Corporate,Credit Card,46,6,123.59,0,0,741.54,371.46,370.08,49.91,0,56.03,57.13,685.51,Completed,Q3,7,45-54,No Discount
+ORD-00198,6/30/2026,2026,June,Pennsylvania,PA,Monitor,Electronics,Marketplace,Small Business,PayPal,48,11,430.27,0,0,4732.97,3031.35,1701.62,35.95,0,14.84,321.52,4718.13,Completed,Q2,6,45-54,No Discount
+ORD-00199,2/11/2025,2025,February,Missouri,MO,Bookshelf,Furniture,Wholesale,Small Business,PayPal,49,3,223.28,0,0,669.84,421.35,248.49,37.1,0,52.22,34.37,617.62,Completed,Q1,2,45-54,No Discount
+ORD-00200,6/4/2024,2024,June,Arizona,AZ,Monitor,Electronics,Retail Store,Small Business,Credit Card,45,10,598.14,0,0,5981.4,2745.75,3235.65,54.1,0,47.07,392.28,5934.33,Completed,Q2,6,45-54,No Discount
+ORD-00201,7/14/2024,2024,July,Oregon,OR,Bookshelf,Furniture,Online,Small Business,Digital Wallet,66,10,195.33,5,97.66,1855.64,1289.53,566.11,30.51,0,10.74,112.23,1844.9,Completed,Q3,7,65+,Low
+ORD-00202,7/29/2025,2025,July,Wisconsin,WI,Desk,Furniture,Retail Store,Consumer,Credit Card,20,1,743.18,0,0,743.18,375.48,367.7,49.48,0,23.28,66.05,719.9,Completed,Q3,7,18-24,No Discount
+ORD-00203,10/27/2025,2025,October,Hawaii,HI,Printer,Electronics,Online,Consumer,Debit Card,54,2,180.81,0,0,361.62,180.28,181.34,50.15,0,15.4,29.57,346.22,Completed,Q4,10,45-54,No Discount
+ORD-00204,5/18/2026,2026,May,Tennessee,TN,Tablet,Electronics,Retail Store,Corporate,Digital Wallet,21,13,604.5,0,0,7858.5,6028.84,1829.66,23.28,0,35.84,448.09,7822.66,Completed,Q2,5,18-24,No Discount
+ORD-00205,5/3/2025,2025,May,California,CA,Office Chair,Furniture,Retail Store,Corporate,Bank Transfer,61,3,478.47,0,0,1435.41,1037.58,397.83,27.72,0,19.17,93.84,1416.24,Completed,Q2,5,55-64,No Discount
+ORD-00206,5/18/2024,2024,May,Massachusetts,MA,Tablet,Electronics,Retail Store,Consumer,PayPal,35,3,340.48,0,0,1021.44,734.96,286.48,28.05,0,67.59,78.37,953.85,Completed,Q2,5,35-44,No Discount
+ORD-00207,1/30/2026,2026,January,South Carolina,SC,Desk,Furniture,Wholesale,Corporate,Bank Transfer,28,5,264.35,0,0,1321.75,831.64,490.11,37.08,0,82.12,112.97,1239.63,Completed,Q1,1,25-34,No Discount
+ORD-00208,9/2/2024,2024,September,Vermont,VT,Tablet,Electronics,Online,Small Business,Credit Card,61,4,766.24,0,0,3064.96,1414.09,1650.87,53.86,0,80.93,201.2,2984.03,Completed,Q3,9,55-64,No Discount
+ORD-00209,5/13/2026,2026,May,Utah,UT,Printer,Electronics,Retail Store,Consumer,Debit Card,68,14,318.53,10,445.94,4013.48,2575.58,1437.9,35.83,0,44.39,276.38,3969.09,Completed,Q2,5,65+,Low
+ORD-00210,3/22/2024,2024,March,Indiana,IN,Backpack,Accessories,Retail Store,Corporate,PayPal,49,3,134.86,0,0,404.58,196.65,207.93,51.39,0,40.13,33.32,364.45,Completed,Q1,3,45-54,No Discount
+ORD-00211,7/28/2025,2025,July,Delaware,DE,Monitor,Electronics,Marketplace,Corporate,Debit Card,27,15,474.5,10,711.75,6405.75,4994.04,1411.71,22.04,0,7.44,535.54,6398.31,Completed,Q3,7,25-34,Low
+ORD-00212,7/22/2024,2024,July,Tennessee,TN,Office Chair,Furniture,Wholesale,Consumer,Credit Card,18,15,531.7,20,1595.1,6380.4,4117.07,2263.33,35.47,4,28.57,259.78,6351.83,Returned,Q3,7,18-24,Medium
+ORD-00213,7/2/2025,2025,July,Oklahoma,OK,Keyboard,Accessories,Wholesale,Consumer,Bank Transfer,63,9,144.18,10,129.76,1167.86,946.16,221.69,18.98,0,12.09,75.19,1155.77,Completed,Q3,7,55-64,Low
+ORD-00214,2/17/2025,2025,February,Indiana,IN,Printer,Electronics,Online,Consumer,Debit Card,57,13,360.19,15,702.37,3980.1,2218.86,1761.24,44.25,0,46.81,218.82,3933.29,Completed,Q1,2,55-64,Medium
+ORD-00215,6/10/2024,2024,June,Kentucky,KY,Bookshelf,Furniture,Wholesale,Small Business,Credit Card,73,13,112.6,5,73.19,1390.61,760.69,629.92,45.3,0,37.1,75.96,1353.51,Completed,Q2,6,65+,Low
+ORD-00216,1/2/2026,2026,January,Nebraska,NE,Desk,Furniture,Retail Store,Small Business,Debit Card,40,13,304.99,5,198.24,3766.63,2252.36,1514.27,40.2,0,14.83,318.03,3751.8,Completed,Q1,1,35-44,Low
+ORD-00217,1/10/2024,2024,January,New York,NY,Mouse,Accessories,Wholesale,Corporate,PayPal,30,2,70.26,10,14.05,126.47,101.38,25.09,19.84,0,49.2,8.35,77.27,Completed,Q1,1,25-34,Low
+ORD-00218,4/10/2025,2025,April,Minnesota,MN,Headphones,Accessories,Retail Store,Consumer,Bank Transfer,43,15,254.18,0,0,3812.7,2657.65,1155.05,30.29,0,5.01,249.95,3807.69,Completed,Q2,4,35-44,No Discount
+ORD-00219,10/20/2024,2024,October,Louisiana,LA,Desk,Furniture,Marketplace,Corporate,Debit Card,44,12,374.01,10,448.81,4039.31,2488.08,1551.23,38.4,0,33.82,216.18,4005.49,Completed,Q4,10,35-44,Low
+ORD-00220,3/27/2025,2025,March,North Dakota,ND,Tablet,Electronics,Wholesale,Small Business,Debit Card,44,8,841.46,20,1346.34,5385.34,3227.61,2157.74,40.07,0,44.51,319.79,5340.83,Completed,Q1,3,35-44,Medium
+ORD-00221,6/24/2026,2026,June,Missouri,MO,Headphones,Accessories,Online,Consumer,Bank Transfer,36,8,87.53,10,70.02,630.22,534.81,95.4,15.14,0,28.84,28.53,601.38,Completed,Q2,6,35-44,Low
+ORD-00222,10/19/2024,2024,October,Maine,ME,Tablet,Electronics,Online,Consumer,Digital Wallet,24,9,575.26,0,0,5177.34,2519.41,2657.93,51.34,0,66.66,207.84,5110.68,Completed,Q4,10,18-24,No Discount
+ORD-00223,1/10/2026,2026,January,South Dakota,SD,Smartphone,Electronics,Wholesale,Small Business,Credit Card,26,11,1140.22,10,1254.24,11288.18,8324.97,2963.21,26.25,0,65.32,471.81,11222.86,Completed,Q1,1,25-34,Low
+ORD-00224,9/19/2024,2024,September,Mississippi,MS,Headphones,Accessories,Online,Small Business,Digital Wallet,74,12,53.57,10,64.28,578.56,331.54,247.02,42.7,0,27.99,33.78,550.57,Completed,Q3,9,65+,Low
+ORD-00225,2/23/2024,2024,February,Wisconsin,WI,Desk,Furniture,Retail Store,Consumer,Bank Transfer,20,5,188.38,15,141.28,800.62,684.41,116.2,14.51,0,80.91,33.28,719.71,Completed,Q1,2,18-24,Medium
+ORD-00226,1/17/2024,2024,January,Washington,WA,Desk,Furniture,Marketplace,Consumer,PayPal,57,10,680.26,0,0,6802.6,4582.16,2220.44,32.64,0,66.92,535,6735.68,Completed,Q1,1,55-64,No Discount
+ORD-00227,3/5/2026,2026,March,Nevada,NV,Mouse,Accessories,Retail Store,Consumer,Debit Card,69,5,53.61,0,0,268.05,122.18,145.87,54.42,0,66.85,17.66,201.2,Completed,Q1,3,65+,No Discount
+ORD-00228,1/7/2025,2025,January,Idaho,ID,Backpack,Accessories,Retail Store,Enterprise,Bank Transfer,57,11,33.07,10,36.38,327.39,236.46,90.93,27.77,0,21.57,15.59,305.82,Completed,Q1,1,55-64,Low
+ORD-00229,6/5/2024,2024,June,Arizona,AZ,Keyboard,Accessories,Online,Corporate,Bank Transfer,28,10,98.44,5,49.22,935.18,764.65,170.53,18.23,0,47.46,67.85,887.72,Completed,Q2,6,25-34,Low
+ORD-00230,10/4/2024,2024,October,Iowa,IA,Tablet,Electronics,Online,Consumer,Credit Card,21,10,341.52,10,341.52,3073.68,1892.02,1181.66,38.44,0,83.53,203.98,2990.15,Completed,Q4,10,18-24,Low
+ORD-00231,5/5/2025,2025,May,Washington,WA,Tablet,Electronics,Wholesale,Enterprise,Credit Card,69,9,721.24,15,973.67,5517.49,4437.02,1080.47,19.58,0,16.78,222.86,5500.71,Completed,Q2,5,65+,Medium
+ORD-00232,9/4/2024,2024,September,South Dakota,SD,Backpack,Accessories,Online,Enterprise,Debit Card,31,13,61.45,15,119.83,679.02,613.17,65.86,9.7,0,79.29,52.99,599.73,Completed,Q3,9,25-34,Medium
+ORD-00233,6/1/2025,2025,June,Georgia,GA,Monitor,Electronics,Retail Store,Consumer,Credit Card,52,11,576.52,10,634.17,5707.55,4640.55,1067,18.69,0,81.85,284.5,5625.7,Completed,Q2,6,45-54,Low
+ORD-00234,4/11/2026,2026,April,West Virginia,WV,Headphones,Accessories,Marketplace,Corporate,Credit Card,68,2,159.33,5,15.93,302.73,151.08,151.64,50.09,0,83.49,14.99,219.24,Completed,Q2,4,65+,Low
+ORD-00235,5/4/2024,2024,May,New Hampshire,NH,Backpack,Accessories,Marketplace,Enterprise,Debit Card,60,7,157.05,0,0,1099.35,804.61,294.74,26.81,0,29.8,56.73,1069.55,Completed,Q2,5,55-64,No Discount
+ORD-00236,7/5/2024,2024,July,Rhode Island,RI,Laptop,Electronics,Marketplace,Small Business,Bank Transfer,41,5,1683.98,0,0,8419.9,4780.98,3638.92,43.22,0,23.29,603.86,8396.61,Completed,Q3,7,35-44,No Discount
+ORD-00237,5/21/2026,2026,May,Tennessee,TN,Tablet,Electronics,Marketplace,Small Business,Credit Card,72,9,528.66,0,0,4757.94,3545.77,1212.17,25.48,0,77.11,226.91,4680.83,Completed,Q2,5,65+,No Discount
+ORD-00238,5/13/2025,2025,May,Nebraska,NE,Smartphone,Electronics,Retail Store,Corporate,Debit Card,35,4,1117.22,10,446.89,4021.99,3365.43,656.56,16.32,0,51.17,232.7,3970.82,Completed,Q2,5,35-44,Low
+ORD-00239,5/10/2026,2026,May,Vermont,VT,Printer,Electronics,Retail Store,Consumer,PayPal,22,10,211.35,15,317.02,1796.48,1630.66,165.82,9.23,0,72.19,139.39,1724.29,Completed,Q2,5,18-24,Medium
+ORD-00240,10/4/2024,2024,October,Alabama,AL,Laptop,Electronics,Marketplace,Consumer,Digital Wallet,24,11,1656.11,5,910.86,17306.35,10767.75,6538.6,37.78,0,72.17,816.7,17234.18,Completed,Q4,10,18-24,Low
+ORD-00241,11/22/2024,2024,November,Washington,WA,Bookshelf,Furniture,Marketplace,Consumer,Bank Transfer,56,4,345.18,0,0,1380.72,714.58,666.14,48.25,0,19.89,78.12,1360.83,Completed,Q4,11,55-64,No Discount
+ORD-00242,5/8/2025,2025,May,Virginia,VA,Tablet,Electronics,Online,Consumer,Digital Wallet,41,3,579.5,0,0,1738.5,1256.63,481.87,27.72,0,63.14,136.81,1675.36,Completed,Q2,5,35-44,No Discount
+ORD-00243,4/14/2026,2026,April,Tennessee,TN,Printer,Electronics,Retail Store,Corporate,Credit Card,71,13,230.21,0,0,2992.73,1473.01,1519.72,50.78,0,5,182.04,2987.73,Completed,Q2,4,65+,No Discount
+ORD-00244,4/4/2026,2026,April,Colorado,CO,Office Chair,Furniture,Marketplace,Consumer,Credit Card,53,3,250.7,15,112.81,639.28,351.33,287.96,45.04,0,29.81,48.96,609.47,Completed,Q2,4,45-54,Medium
+ORD-00245,6/27/2026,2026,June,Washington,WA,Keyboard,Accessories,Retail Store,Consumer,Credit Card,33,11,135.46,0,0,1490.06,732.17,757.89,50.86,0,84.96,89.83,1405.1,Completed,Q2,6,25-34,No Discount
+ORD-00246,11/5/2024,2024,November,Michigan,MI,Office Chair,Furniture,Retail Store,Corporate,Credit Card,39,10,354.13,0,0,3541.3,1907.97,1633.33,46.12,0,26.51,252.93,3514.79,Completed,Q4,11,35-44,No Discount
+ORD-00247,7/13/2025,2025,July,Kentucky,KY,Printer,Electronics,Online,Small Business,Bank Transfer,32,1,158.96,10,15.9,143.06,80.56,62.5,43.69,0,40.91,6.86,102.15,Completed,Q3,7,25-34,Low
+ORD-00248,6/9/2026,2026,June,New York,NY,Bookshelf,Furniture,Wholesale,Consumer,Credit Card,69,9,353.65,0,0,3182.85,2279.98,902.87,28.37,0,32.63,180.72,3150.22,Completed,Q2,6,65+,No Discount
+ORD-00249,7/28/2025,2025,July,Arizona,AZ,Laptop,Electronics,Wholesale,Corporate,Debit Card,36,1,1614.1,0,0,1614.1,813.19,800.91,49.62,0,63.76,95.58,1550.34,Completed,Q3,7,35-44,No Discount
+ORD-00250,2/22/2025,2025,February,Texas,TX,Printer,Electronics,Online,Small Business,Digital Wallet,70,4,286.31,5,57.26,1087.98,704.73,383.24,35.23,0,47.74,72.93,1040.24,Completed,Q1,2,65+,Low
+ORD-00251,10/9/2024,2024,October,Alabama,AL,Office Chair,Furniture,Retail Store,Consumer,Digital Wallet,40,3,427.2,0,0,1281.6,632.43,649.17,50.65,0,17.58,71.12,1264.02,Completed,Q4,10,35-44,No Discount
+ORD-00252,1/22/2024,2024,January,Alaska,AK,Headphones,Accessories,Wholesale,Small Business,Credit Card,50,3,202.47,15,91.11,516.3,470.15,46.15,8.94,0,24.8,24.85,491.5,Completed,Q1,1,45-54,Medium
+ORD-00253,5/5/2024,2024,May,Wisconsin,WI,Tablet,Electronics,Retail Store,Consumer,Debit Card,65,5,857.75,10,428.88,3859.88,2502.46,1357.41,35.17,0,67.7,209.54,3792.18,Completed,Q2,5,65+,Low
+ORD-00254,12/26/2025,2025,December,South Dakota,SD,Monitor,Electronics,Online,Consumer,Debit Card,46,13,623.89,10,811.06,7299.51,5612.93,1686.59,23.11,0,67.48,578.58,7232.03,Completed,Q4,12,45-54,Low
+ORD-00255,12/3/2024,2024,December,Maryland,MD,Headphones,Accessories,Marketplace,Enterprise,Credit Card,43,10,157.03,0,0,1570.3,1209.64,360.66,22.97,0,37.29,120.75,1533.01,Completed,Q4,12,35-44,No Discount
+ORD-00256,12/31/2025,2025,December,Maryland,MD,Keyboard,Accessories,Retail Store,Consumer,PayPal,56,3,105.1,0,0,315.3,171.8,143.5,45.51,0,82.48,22.13,232.82,Completed,Q4,12,55-64,No Discount
+ORD-00257,1/20/2024,2024,January,Nebraska,NE,Desk,Furniture,Online,Consumer,PayPal,26,15,535.48,5,401.61,7630.59,5315.22,2315.37,30.34,0,34.86,520.28,7595.73,Completed,Q1,1,25-34,Low
+ORD-00258,1/14/2026,2026,January,North Carolina,NC,Desk,Furniture,Retail Store,Consumer,Credit Card,73,3,279.23,0,0,837.69,419.76,417.93,49.89,0,63.92,70.49,773.77,Completed,Q1,1,65+,No Discount
+ORD-00259,9/1/2025,2025,September,Michigan,MI,Printer,Electronics,Online,Consumer,PayPal,59,7,266.53,0,0,1865.71,1116.78,748.93,40.14,0,36.92,152.97,1828.79,Completed,Q3,9,55-64,No Discount
+ORD-00260,6/24/2024,2024,June,New York,NY,Desk,Furniture,Wholesale,Corporate,Bank Transfer,26,4,366.42,10,146.57,1319.11,1101.9,217.21,16.47,0,25.7,81.42,1293.41,Completed,Q2,6,25-34,Low
+ORD-00261,9/4/2024,2024,September,Nebraska,NE,Mouse,Accessories,Online,Corporate,PayPal,50,13,88.59,0,0,1151.67,593.98,557.69,48.42,0,64.1,46.86,1087.57,Completed,Q3,9,45-54,No Discount
+ORD-00262,10/25/2024,2024,October,Virginia,VA,Office Chair,Furniture,Online,Consumer,Debit Card,36,10,435.08,5,217.54,4133.26,2811.86,1321.4,31.97,0,31.64,348.22,4101.62,Completed,Q4,10,35-44,Low
+ORD-00263,11/14/2024,2024,November,Oklahoma,OK,Backpack,Accessories,Retail Store,Consumer,PayPal,60,8,126.57,20,202.51,810.05,553.05,256.99,31.73,0,39.2,40.75,770.85,Completed,Q4,11,55-64,Medium
+ORD-00264,1/3/2025,2025,January,Missouri,MO,Bookshelf,Furniture,Marketplace,Enterprise,Bank Transfer,53,11,100.85,0,0,1109.35,729.93,379.42,34.2,0,61.44,68.09,1047.91,Completed,Q1,1,45-54,No Discount
+ORD-00265,9/10/2025,2025,September,Wyoming,WY,Tablet,Electronics,Marketplace,Consumer,Bank Transfer,41,11,440.05,5,242.03,4598.52,2499.48,2099.04,45.65,0,37.61,291.9,4560.91,Completed,Q3,9,35-44,Low
+ORD-00266,7/25/2024,2024,July,Arkansas,AR,Tablet,Electronics,Online,Small Business,Credit Card,24,6,515.71,0,0,3094.26,1556.27,1537.99,49.7,0,19.85,226.53,3074.41,Completed,Q3,7,18-24,No Discount
+ORD-00267,8/17/2025,2025,August,Arizona,AZ,Printer,Electronics,Online,Consumer,Credit Card,62,8,214.98,5,85.99,1633.85,918.59,715.26,43.78,0,11.13,136.64,1622.72,Completed,Q3,8,55-64,Low
+ORD-00268,5/13/2026,2026,May,Virginia,VA,Bookshelf,Furniture,Wholesale,Corporate,Debit Card,58,1,174.16,0,0,174.16,130.3,43.86,25.18,0,71.31,10,102.85,Completed,Q2,5,55-64,No Discount
+ORD-00269,3/27/2024,2024,March,California,CA,Mouse,Accessories,Marketplace,Small Business,Bank Transfer,65,6,61.12,0,0,366.72,220.59,146.13,39.85,0,62.75,21.72,303.97,Completed,Q1,3,65+,No Discount
+ORD-00270,9/3/2024,2024,September,Minnesota,MN,Laptop,Electronics,Online,Small Business,Bank Transfer,75,6,1569.41,0,0,9416.46,5310.19,4106.27,43.61,0,63.59,791.77,9352.87,Completed,Q3,9,65+,No Discount
+ORD-00271,4/24/2024,2024,April,Georgia,GA,Tablet,Electronics,Online,Corporate,PayPal,60,7,409.48,0,0,2866.36,1542.99,1323.37,46.17,0,64.95,196.62,2801.41,Completed,Q2,4,55-64,No Discount
+ORD-00272,4/25/2025,2025,April,Florida,FL,Laptop,Electronics,Retail Store,Corporate,PayPal,65,2,1123.2,0,0,2246.4,1416.14,830.26,36.96,0,6.77,196.01,2239.63,Completed,Q2,4,65+,No Discount
+ORD-00273,4/11/2026,2026,April,Wisconsin,WI,Office Chair,Furniture,Marketplace,Corporate,Digital Wallet,66,13,340.28,0,0,4423.64,3298.15,1125.49,25.44,0,45.62,269.68,4378.02,Completed,Q2,4,65+,No Discount
+ORD-00274,6/20/2025,2025,June,Kentucky,KY,Backpack,Accessories,Wholesale,Consumer,Bank Transfer,74,10,58.85,0,0,588.5,266.76,321.74,54.67,0,47.85,48.14,540.65,Completed,Q2,6,65+,No Discount
+ORD-00275,5/13/2025,2025,May,Michigan,MI,Keyboard,Accessories,Online,Consumer,Debit Card,57,3,104.14,15,46.86,265.56,231.58,33.98,12.79,0,11.06,15.77,254.5,Completed,Q2,5,55-64,Medium
+ORD-00276,1/18/2025,2025,January,Louisiana,LA,Monitor,Electronics,Online,Consumer,Bank Transfer,30,9,363.02,10,326.72,2940.46,2384.44,556.02,18.91,0,83.54,183.85,2856.92,Completed,Q1,1,25-34,Low
+ORD-00277,11/30/2024,2024,November,Vermont,VT,Desk,Furniture,Online,Enterprise,Credit Card,69,3,434.44,0,0,1303.32,746.72,556.6,42.71,0,34.57,82.39,1268.75,Completed,Q4,11,65+,No Discount
+ORD-00278,4/23/2025,2025,April,Hawaii,HI,Mouse,Accessories,Wholesale,Consumer,Credit Card,53,1,84.48,0,0,84.48,55.63,28.85,34.14,0,13.29,3.58,71.19,Completed,Q2,4,45-54,No Discount
+ORD-00279,9/6/2024,2024,September,Delaware,DE,Keyboard,Accessories,Retail Store,Corporate,Debit Card,26,4,130.01,0,0,520.04,349.2,170.84,32.85,0,64.38,25.22,455.66,Completed,Q3,9,25-34,No Discount
+ORD-00280,3/17/2025,2025,March,Nevada,NV,Desk,Furniture,Marketplace,Small Business,PayPal,28,4,552.86,15,331.72,1879.72,1390.43,489.3,26.03,0,29.55,114.19,1850.17,Completed,Q1,3,25-34,Medium
+ORD-00281,9/7/2025,2025,September,Kansas,KS,Headphones,Accessories,Online,Consumer,Credit Card,68,12,150.46,10,180.55,1624.97,1256.82,368.15,22.66,0,51.77,75.86,1573.2,Completed,Q3,9,65+,Low
+ORD-00282,10/19/2025,2025,October,Montana,MT,Bookshelf,Furniture,Marketplace,Corporate,Debit Card,75,3,255.31,15,114.89,651.04,505.52,145.52,22.35,0,26.56,32.26,624.48,Completed,Q4,10,65+,Medium
+ORD-00283,5/17/2026,2026,May,Virginia,VA,Backpack,Accessories,Wholesale,Consumer,Bank Transfer,25,7,136.81,20,191.53,766.14,679.58,86.56,11.3,0,64.83,36.41,701.31,Completed,Q2,5,25-34,Medium
+ORD-00284,7/28/2025,2025,July,Alabama,AL,Office Chair,Furniture,Online,Consumer,Bank Transfer,57,12,474.46,0,0,5693.52,3815,1878.52,32.99,0,76.83,480.57,5616.69,Completed,Q3,7,55-64,No Discount
+ORD-00285,4/13/2024,2024,April,New Hampshire,NH,Bookshelf,Furniture,Wholesale,Consumer,Bank Transfer,27,13,341.94,0,0,4445.22,2139.59,2305.63,51.87,3,79.69,355.92,4365.53,Returned,Q2,4,25-34,No Discount
+ORD-00286,11/5/2025,2025,November,Arizona,AZ,Backpack,Accessories,Retail Store,Consumer,Credit Card,52,11,154.95,0,0,1704.45,1207.83,496.62,29.14,0,30.02,123.94,1674.43,Completed,Q4,11,45-54,No Discount
+ORD-00287,2/18/2025,2025,February,Michigan,MI,Desk,Furniture,Wholesale,Corporate,Bank Transfer,36,15,202.19,0,0,3032.85,1370.13,1662.72,54.82,0,38.19,182.33,2994.66,Completed,Q1,2,35-44,No Discount
+ORD-00288,7/26/2025,2025,July,Missouri,MO,Printer,Electronics,Retail Store,Small Business,PayPal,22,9,172.61,0,0,1553.49,1005.05,548.44,35.3,0,79.33,88.7,1474.16,Completed,Q3,7,18-24,No Discount
+ORD-00289,10/22/2025,2025,October,California,CA,Monitor,Electronics,Marketplace,Corporate,Bank Transfer,73,9,516.1,0,0,4644.9,3545.16,1099.74,23.68,0,33.99,386.37,4610.91,Completed,Q4,10,65+,No Discount
+ORD-00290,10/3/2024,2024,October,Minnesota,MN,Backpack,Accessories,Retail Store,Consumer,PayPal,29,6,156.65,0,0,939.9,471.41,468.49,49.85,0,52.94,46.02,886.96,Completed,Q4,10,25-34,No Discount
+ORD-00291,1/23/2026,2026,January,Michigan,MI,Desk,Furniture,Wholesale,Small Business,Credit Card,20,1,190.91,5,9.55,181.36,129.99,51.38,28.33,0,69.22,15.97,112.14,Completed,Q1,1,18-24,Low
+ORD-00292,3/30/2024,2024,March,Nevada,NV,Headphones,Accessories,Retail Store,Consumer,PayPal,46,4,112.02,0,0,448.08,311.14,136.94,30.56,0,52.53,33.67,395.55,Completed,Q1,3,45-54,No Discount
+ORD-00293,12/21/2025,2025,December,South Carolina,SC,Mouse,Accessories,Retail Store,Small Business,Bank Transfer,26,7,84.2,0,0,589.4,455.1,134.3,22.79,0,35.04,47.15,554.36,Completed,Q4,12,25-34,No Discount
+ORD-00294,7/30/2024,2024,July,Ohio,OH,Monitor,Electronics,Online,Corporate,PayPal,66,15,470.93,10,706.4,6357.56,3324.22,3033.33,47.71,0,10.36,564.34,6347.2,Completed,Q3,7,65+,Low
+ORD-00295,12/15/2024,2024,December,Kentucky,KY,Mouse,Accessories,Online,Corporate,Bank Transfer,54,10,58.7,0,0,587,355.02,231.98,39.52,0,13.08,28.4,573.92,Completed,Q4,12,45-54,No Discount
+ORD-00296,3/15/2026,2026,March,Maryland,MD,Monitor,Electronics,Wholesale,Enterprise,Debit Card,45,8,310.83,0,0,2486.64,1636.44,850.2,34.19,0,6.64,202.24,2480,Completed,Q1,3,45-54,No Discount
+ORD-00297,9/28/2025,2025,September,Wisconsin,WI,Printer,Electronics,Online,Enterprise,Credit Card,72,2,461.33,0,0,922.66,678.47,244.19,26.47,0,11.62,59.26,911.04,Completed,Q3,9,65+,No Discount
+ORD-00298,10/28/2024,2024,October,Hawaii,HI,Tablet,Electronics,Wholesale,Consumer,PayPal,48,14,578.58,0,0,8100.12,3653.45,4446.67,54.9,0,75.03,502.91,8025.09,Completed,Q4,10,45-54,No Discount
+ORD-00299,4/4/2026,2026,April,New Mexico,NM,Mouse,Accessories,Wholesale,Consumer,Debit Card,72,9,35.03,5,15.76,299.51,211.29,88.22,29.45,0,73.98,16.68,225.53,Completed,Q2,4,65+,Low
+ORD-00300,2/1/2024,2024,February,Rhode Island,RI,Laptop,Electronics,Marketplace,Consumer,Credit Card,35,9,1536.21,0,0,13825.89,8426.18,5399.71,39.06,0,33.91,1147.41,13791.98,Completed,Q1,2,35-44,No Discount
+ORD-00301,3/17/2026,2026,March,Kansas,KS,Bookshelf,Furniture,Retail Store,Small Business,Credit Card,71,1,150.89,10,15.09,135.8,93.3,42.5,31.29,0,46.03,11.34,89.77,Completed,Q1,3,65+,Low
+ORD-00302,7/4/2025,2025,July,Arkansas,AR,Tablet,Electronics,Marketplace,Small Business,Credit Card,39,8,335.57,0,0,2684.56,1454.9,1229.66,45.8,0,19.63,218.22,2664.93,Completed,Q3,7,35-44,No Discount
+ORD-00303,12/12/2025,2025,December,New York,NY,Desk,Furniture,Retail Store,Consumer,Bank Transfer,69,10,324.1,0,0,3241,1551.52,1689.48,52.13,0,72.61,258.62,3168.39,Completed,Q4,12,65+,No Discount
+ORD-00304,10/13/2024,2024,October,Missouri,MO,Keyboard,Accessories,Online,Small Business,Credit Card,53,13,65.8,5,42.77,812.63,554.38,258.25,31.78,0,35.12,41.93,777.51,Completed,Q4,10,45-54,Low
+ORD-00305,6/29/2026,2026,June,North Carolina,NC,Laptop,Electronics,Online,Consumer,Credit Card,66,7,2133.05,0,0,14931.35,7741.73,7189.62,48.15,0,77.67,946.7,14853.68,Completed,Q2,6,65+,No Discount
+ORD-00306,12/1/2025,2025,December,Nevada,NV,Keyboard,Accessories,Online,Corporate,Debit Card,47,7,117.52,15,123.4,699.24,472.21,227.04,32.47,0,43.06,51.55,656.18,Completed,Q4,12,45-54,Medium
+ORD-00307,4/28/2026,2026,April,Massachusetts,MA,Bookshelf,Furniture,Retail Store,Corporate,Digital Wallet,64,15,248.05,0,0,3720.75,2443.37,1277.38,34.33,0,73.24,321.54,3647.51,Completed,Q2,4,55-64,No Discount
+ORD-00308,1/8/2026,2026,January,Alabama,AL,Tablet,Electronics,Wholesale,Consumer,Credit Card,57,13,552.69,0,0,7184.97,4675.59,2509.38,34.93,0,18.88,423.82,7166.09,Completed,Q1,1,55-64,No Discount
+ORD-00309,5/18/2024,2024,May,Tennessee,TN,Monitor,Electronics,Retail Store,Corporate,Credit Card,68,5,441.53,5,110.38,2097.27,1670.35,426.92,20.36,0,10.29,85.9,2086.98,Completed,Q2,5,65+,Low
+ORD-00310,8/14/2024,2024,August,Delaware,DE,Keyboard,Accessories,Retail Store,Consumer,Credit Card,19,8,70.54,15,84.65,479.67,303.39,176.29,36.75,0,59.28,26.8,420.39,Completed,Q3,8,18-24,Medium
+ORD-00311,10/19/2024,2024,October,Pennsylvania,PA,Bookshelf,Furniture,Marketplace,Small Business,Credit Card,36,10,177.3,0,0,1773,1194.61,578.39,32.62,0,32.75,109.54,1740.25,Completed,Q4,10,35-44,No Discount
+ORD-00312,11/26/2025,2025,November,Ohio,OH,Headphones,Accessories,Retail Store,Consumer,Debit Card,64,15,256.99,20,770.97,3083.88,2929.18,154.7,5.02,0,20.88,148.78,3063,Completed,Q4,11,55-64,Medium
+ORD-00313,8/10/2025,2025,August,Kansas,KS,Headphones,Accessories,Online,Consumer,Debit Card,27,3,277.44,0,0,832.32,503.9,328.42,39.46,0,65.09,64.67,767.23,Completed,Q3,8,25-34,No Discount
+ORD-00314,5/31/2024,2024,May,Maine,ME,Monitor,Electronics,Wholesale,Small Business,Credit Card,29,12,183.23,15,329.81,1868.95,1170.45,698.5,37.37,0,73.49,108.1,1795.46,Completed,Q2,5,25-34,Medium
+ORD-00315,3/27/2024,2024,March,Minnesota,MN,Printer,Electronics,Online,Consumer,Debit Card,50,3,397.29,0,0,1191.87,705.45,486.42,40.81,0,14.59,91.47,1177.28,Completed,Q1,3,45-54,No Discount
+ORD-00316,9/6/2024,2024,September,Pennsylvania,PA,Mouse,Accessories,Online,Small Business,PayPal,35,10,76.28,0,0,762.8,570.42,192.38,25.22,0,63.64,55.63,699.16,Completed,Q3,9,35-44,No Discount
+ORD-00317,1/8/2026,2026,January,Massachusetts,MA,Tablet,Electronics,Retail Store,Corporate,Bank Transfer,70,9,509.69,15,688.08,3899.13,2189.49,1709.64,43.85,0,67.4,175.21,3831.73,Completed,Q1,1,65+,Medium
+ORD-00318,3/18/2025,2025,March,Oregon,OR,Headphones,Accessories,Marketplace,Consumer,Credit Card,30,1,194.66,5,9.73,184.93,127.23,57.7,31.2,0,22.84,15.47,162.09,Completed,Q1,3,25-34,Low
+ORD-00319,1/1/2026,2026,January,Delaware,DE,Desk,Furniture,Marketplace,Consumer,Digital Wallet,54,15,425.8,0,0,6387,3118.01,3268.99,51.18,0,46.89,325.18,6340.11,Completed,Q1,1,45-54,No Discount
+ORD-00320,4/12/2026,2026,April,Washington,WA,Laptop,Electronics,Online,Corporate,Bank Transfer,43,6,1868.73,0,0,11212.38,6343.63,4868.75,43.42,0,69.46,632.48,11142.92,Completed,Q2,4,35-44,No Discount
+ORD-00321,6/14/2024,2024,June,Illinois,IL,Laptop,Electronics,Retail Store,Corporate,Bank Transfer,73,15,1187.61,0,0,17814.15,11405.26,6408.89,35.98,0,67.52,958.19,17746.63,Completed,Q2,6,65+,No Discount
+ORD-00322,1/6/2024,2024,January,Ohio,OH,Tablet,Electronics,Wholesale,Consumer,Debit Card,34,15,641.09,0,0,9616.35,5621.3,3995.05,41.54,0,57.51,851.6,9558.84,Completed,Q1,1,25-34,No Discount
+ORD-00323,1/18/2025,2025,January,Indiana,IN,Bookshelf,Furniture,Online,Corporate,Bank Transfer,57,3,103.65,0,0,310.95,176.32,134.63,43.3,0,37.26,25.4,273.69,Completed,Q1,1,55-64,No Discount
+ORD-00324,11/22/2024,2024,November,Mississippi,MS,Laptop,Electronics,Online,Consumer,Debit Card,33,10,1437.12,0,0,14371.2,7785.93,6585.27,45.82,0,28.04,974.6,14343.16,Completed,Q4,11,25-34,No Discount
+ORD-00325,3/4/2025,2025,March,Nevada,NV,Printer,Electronics,Online,Corporate,PayPal,73,8,156.38,0,0,1251.04,864.96,386.08,30.86,0,22.64,105.47,1228.4,Completed,Q1,3,65+,No Discount
+ORD-00326,4/12/2024,2024,April,Utah,UT,Monitor,Electronics,Retail Store,Corporate,Debit Card,40,2,533.63,0,0,1067.26,755.32,311.94,29.23,0,40.51,90.38,1026.75,Completed,Q2,4,35-44,No Discount
+ORD-00327,9/25/2025,2025,September,California,CA,Desk,Furniture,Online,Consumer,Bank Transfer,65,10,465.27,10,465.27,4187.43,2836.88,1350.55,32.25,0,29.68,287.48,4157.75,Completed,Q3,9,65+,Low
+ORD-00328,10/12/2025,2025,October,Arizona,AZ,Mouse,Accessories,Wholesale,Corporate,Credit Card,65,3,39.56,0,0,118.68,79.69,38.99,32.85,0,80.74,7.12,37.94,Completed,Q4,10,65+,No Discount
+ORD-00329,5/29/2025,2025,May,Hawaii,HI,Backpack,Accessories,Marketplace,Consumer,Debit Card,40,11,86.03,15,141.95,804.38,482.43,321.95,40.02,0,22.81,44.53,781.57,Completed,Q2,5,35-44,Medium
+ORD-00330,8/24/2024,2024,August,New Jersey,NJ,Keyboard,Accessories,Retail Store,Corporate,Bank Transfer,51,14,137.26,0,0,1921.64,928.31,993.33,51.69,0,57.94,134.75,1863.7,Completed,Q3,8,45-54,No Discount
+ORD-00331,4/3/2025,2025,April,Georgia,GA,Monitor,Electronics,Online,Small Business,Digital Wallet,66,14,243.67,15,511.71,2899.67,2578.09,321.58,11.09,0,9.05,121.7,2890.62,Completed,Q2,4,65+,Medium
+ORD-00332,7/5/2024,2024,July,Louisiana,LA,Monitor,Electronics,Retail Store,Consumer,Bank Transfer,44,10,324.02,5,162.01,3078.19,1883.32,1194.87,38.82,0,48.54,165.49,3029.65,Completed,Q3,7,35-44,Low
+ORD-00333,9/19/2024,2024,September,Iowa,IA,Headphones,Accessories,Online,Corporate,Credit Card,22,13,64.23,10,83.5,751.49,597.74,153.75,20.46,0,23.09,60.77,728.4,Completed,Q3,9,18-24,Low
+ORD-00334,3/6/2026,2026,March,Montana,MT,Printer,Electronics,Online,Corporate,Credit Card,53,14,226.3,10,316.82,2851.38,1479.32,1372.06,48.12,0,40.37,161.73,2811.01,Completed,Q1,3,45-54,Low
+ORD-00335,2/25/2026,2026,February,Washington,WA,Printer,Electronics,Online,Consumer,Credit Card,22,13,466.11,0,0,6059.43,3262.99,2796.44,46.15,0,37.68,448.31,6021.75,Completed,Q1,2,18-24,No Discount
+ORD-00336,4/15/2025,2025,April,Oklahoma,OK,Monitor,Electronics,Wholesale,Consumer,Digital Wallet,64,4,342.06,15,205.24,1163,749.94,413.07,35.52,0,37.9,60.51,1125.1,Completed,Q2,4,55-64,Medium
+ORD-00337,5/27/2024,2024,May,Iowa,IA,Keyboard,Accessories,Wholesale,Small Business,Debit Card,26,14,49.23,0,0,689.22,328.8,360.42,52.29,0,84.18,28.6,605.04,Completed,Q2,5,25-34,No Discount
+ORD-00338,8/2/2025,2025,August,Tennessee,TN,Bookshelf,Furniture,Marketplace,Small Business,PayPal,19,13,269.12,5,174.93,3323.63,2711.76,611.87,18.41,0,39.75,207.14,3283.88,Completed,Q3,8,18-24,Low
+ORD-00339,5/13/2026,2026,May,Mississippi,MS,Laptop,Electronics,Marketplace,Consumer,Digital Wallet,34,1,1795.81,0,0,1795.81,867.11,928.7,51.71,0,46.89,94.6,1748.92,Completed,Q2,5,25-34,No Discount
+ORD-00340,12/13/2024,2024,December,North Carolina,NC,Backpack,Accessories,Online,Corporate,Bank Transfer,62,10,132.89,15,199.33,1129.56,643.11,486.46,43.07,0,83.33,83.24,1046.23,Completed,Q4,12,55-64,Medium
+ORD-00341,7/13/2024,2024,July,Arizona,AZ,Tablet,Electronics,Wholesale,Corporate,PayPal,59,12,693.65,0,0,8323.8,4784.3,3539.5,42.52,0,6.47,526.09,8317.33,Completed,Q3,7,55-64,No Discount
+ORD-00342,4/24/2026,2026,April,South Carolina,SC,Laptop,Electronics,Wholesale,Corporate,Credit Card,43,13,1745.55,5,1134.61,21557.54,16572.47,4985.07,23.12,0,63.73,1230.2,21493.81,Completed,Q2,4,35-44,Low
+ORD-00343,1/12/2024,2024,January,Missouri,MO,Smartphone,Electronics,Online,Corporate,Credit Card,71,2,535.68,10,107.14,964.22,652.77,311.45,32.3,0,58.83,73.49,905.39,Completed,Q1,1,65+,Low
+ORD-00344,11/1/2025,2025,November,Nebraska,NE,Smartphone,Electronics,Wholesale,Consumer,Bank Transfer,31,4,1071.62,5,214.32,4072.16,2636.58,1435.58,35.25,0,12.19,285.24,4059.97,Completed,Q4,11,25-34,Low
+ORD-00345,11/27/2024,2024,November,North Dakota,ND,Mouse,Accessories,Online,Small Business,Digital Wallet,35,15,91.32,5,68.49,1301.31,1023.36,277.95,21.36,0,59.11,96.27,1242.2,Completed,Q4,11,35-44,Low
+ORD-00346,10/24/2025,2025,October,Pennsylvania,PA,Monitor,Electronics,Online,Consumer,Credit Card,40,8,491.06,0,0,3928.48,2341.3,1587.18,40.4,0,59.77,334.45,3868.71,Completed,Q4,10,35-44,No Discount
+ORD-00347,7/11/2025,2025,July,Indiana,IN,Bookshelf,Furniture,Online,Consumer,Bank Transfer,60,2,374.7,0,0,749.4,558.38,191.02,25.49,0,28.06,41.17,721.34,Completed,Q3,7,55-64,No Discount
+ORD-00348,10/13/2024,2024,October,North Carolina,NC,Office Chair,Furniture,Online,Corporate,Credit Card,48,8,159.6,15,191.52,1085.28,921.58,163.7,15.08,0,49.25,87.49,1036.03,Completed,Q4,10,45-54,Medium
+ORD-00349,4/16/2026,2026,April,Michigan,MI,Smartphone,Electronics,Retail Store,Consumer,Credit Card,33,7,780.66,0,0,5464.62,3955.34,1509.28,27.62,0,37.38,242.53,5427.24,Completed,Q2,4,25-34,No Discount
+ORD-00350,7/11/2025,2025,July,Ohio,OH,Printer,Electronics,Retail Store,Consumer,Debit Card,52,2,240.96,5,24.1,457.82,325.36,132.47,28.93,0,15.66,32.79,442.16,Completed,Q3,7,45-54,Low
+ORD-00351,12/29/2024,2024,December,California,CA,Backpack,Accessories,Wholesale,Small Business,Bank Transfer,45,6,143.47,20,172.16,688.66,413.65,275.01,39.93,0,58.9,53.97,629.76,Completed,Q4,12,45-54,Medium
+ORD-00352,5/26/2026,2026,May,Washington,WA,Office Chair,Furniture,Marketplace,Consumer,Credit Card,56,3,534.3,0,0,1602.9,1031.04,571.86,35.68,0,11.88,68.69,1591.02,Completed,Q2,5,55-64,No Discount
+ORD-00353,2/17/2026,2026,February,Idaho,ID,Bookshelf,Furniture,Retail Store,Small Business,Credit Card,69,6,244.42,0,0,1466.52,808.88,657.64,44.84,0,76.83,118.05,1389.69,Completed,Q1,2,65+,No Discount
+ORD-00354,9/19/2024,2024,September,Washington,WA,Headphones,Accessories,Retail Store,Corporate,Credit Card,30,14,222.45,0,0,3114.3,2369.11,745.19,23.93,0,63.59,268.47,3050.71,Completed,Q3,9,25-34,No Discount
+ORD-00355,7/19/2025,2025,July,Missouri,MO,Desk,Furniture,Online,Corporate,Debit Card,60,14,611.06,0,0,8554.84,4894.29,3660.55,42.79,0,68.2,478.21,8486.64,Completed,Q3,7,55-64,No Discount
+ORD-00356,6/21/2025,2025,June,Washington,WA,Keyboard,Accessories,Wholesale,Corporate,Credit Card,32,3,50.74,5,7.61,144.61,118.62,25.99,17.97,0,33.38,8.68,111.23,Completed,Q2,6,25-34,Low
+ORD-00357,8/4/2024,2024,August,Virginia,VA,Headphones,Accessories,Retail Store,Consumer,PayPal,66,4,154.93,0,0,619.72,372,247.72,39.97,0,63.44,28.98,556.28,Completed,Q3,8,65+,No Discount
+ORD-00358,10/11/2025,2025,October,South Dakota,SD,Mouse,Accessories,Online,Corporate,Credit Card,43,1,106.16,0,0,106.16,61.5,44.66,42.07,0,63.75,5.35,42.41,Completed,Q4,10,35-44,No Discount
+ORD-00359,3/11/2024,2024,March,Arkansas,AR,Laptop,Electronics,Retail Store,Small Business,PayPal,45,3,1349.13,0,0,4047.39,2529.17,1518.22,37.51,0,52.42,191.92,3994.97,Completed,Q1,3,45-54,No Discount
+ORD-00360,7/12/2025,2025,July,New Hampshire,NH,Monitor,Electronics,Marketplace,Consumer,PayPal,61,14,426.12,10,596.57,5369.11,3839.43,1529.68,28.49,0,11.41,342.77,5357.7,Completed,Q3,7,55-64,Low
+ORD-00361,6/13/2025,2025,June,Idaho,ID,Printer,Electronics,Online,Consumer,PayPal,54,10,242.78,20,485.56,1942.24,1234.44,707.8,36.44,0,8.22,117.06,1934.02,Completed,Q2,6,45-54,Medium
+ORD-00362,6/25/2025,2025,June,Louisiana,LA,Office Chair,Furniture,Wholesale,Corporate,Bank Transfer,70,11,528.73,0,0,5816.03,4294.43,1521.6,26.16,0,23.14,397.49,5792.89,Completed,Q2,6,65+,No Discount
+ORD-00363,11/22/2025,2025,November,Iowa,IA,Smartphone,Electronics,Online,Consumer,Credit Card,21,2,648.75,0,0,1297.5,676.5,621,47.86,0,8.87,105.13,1288.63,Completed,Q4,11,18-24,No Discount
+ORD-00364,5/30/2026,2026,May,Louisiana,LA,Printer,Electronics,Retail Store,Consumer,Credit Card,45,10,475.44,10,475.44,4278.96,3078.6,1200.36,28.05,0,81.64,286.93,4197.32,Completed,Q2,5,45-54,Low
+ORD-00365,6/27/2024,2024,June,New York,NY,Tablet,Electronics,Retail Store,Corporate,Credit Card,24,7,288.73,10,202.11,1819,1098.49,720.51,39.61,0,48.44,106.76,1770.56,Completed,Q2,6,18-24,Low
+ORD-00366,5/28/2026,2026,May,New Hampshire,NH,Backpack,Accessories,Online,Small Business,Credit Card,37,12,107.74,0,0,1292.88,800.12,492.76,38.11,0,35.62,105.96,1257.26,Completed,Q2,5,35-44,No Discount
+ORD-00367,11/21/2025,2025,November,Washington,WA,Printer,Electronics,Online,Consumer,PayPal,58,9,335.09,5,150.79,2865.02,2312.32,552.7,19.29,0,12.84,120.91,2852.18,Completed,Q4,11,55-64,Low
+ORD-00368,4/22/2024,2024,April,Michigan,MI,Headphones,Accessories,Retail Store,Consumer,Digital Wallet,58,8,258.96,0,0,2071.68,1572.79,498.89,24.08,4,14.86,136.58,2056.82,Returned,Q2,4,55-64,No Discount
+ORD-00369,3/1/2026,2026,March,Oklahoma,OK,Keyboard,Accessories,Marketplace,Corporate,Digital Wallet,73,13,47.1,0,0,612.3,333.3,279,45.57,0,18.59,26.19,593.71,Completed,Q1,3,65+,No Discount
+ORD-00370,8/19/2024,2024,August,Nebraska,NE,Keyboard,Accessories,Wholesale,Corporate,Credit Card,22,3,178.22,20,106.93,427.73,337.61,90.11,21.07,0,14.18,27.6,413.55,Completed,Q3,8,18-24,Medium
+ORD-00371,4/27/2024,2024,April,Missouri,MO,Printer,Electronics,Retail Store,Consumer,PayPal,52,15,162.7,15,366.08,2074.43,1156.8,917.62,44.23,0,33,164.13,2041.43,Completed,Q2,4,45-54,Medium
+ORD-00372,6/21/2025,2025,June,Rhode Island,RI,Office Chair,Furniture,Marketplace,Small Business,Credit Card,45,3,291.71,10,87.51,787.62,570.63,216.99,27.55,0,20.58,63.42,767.04,Completed,Q2,6,45-54,Low
+ORD-00373,11/29/2025,2025,November,Nevada,NV,Tablet,Electronics,Online,Corporate,Credit Card,40,5,367.8,5,91.95,1747.05,912.5,834.55,47.77,0,48.89,105.06,1698.16,Completed,Q4,11,35-44,Low
+ORD-00374,2/22/2025,2025,February,Michigan,MI,Tablet,Electronics,Retail Store,Consumer,Credit Card,40,5,867.03,0,0,4335.15,2133.32,2201.83,50.79,0,33.35,239.05,4301.8,Completed,Q1,2,35-44,No Discount
+ORD-00375,12/17/2024,2024,December,Texas,TX,Backpack,Accessories,Online,Corporate,PayPal,68,9,50.99,0,0,458.91,254.21,204.7,44.6,0,10.53,37.34,448.38,Completed,Q4,12,65+,No Discount
+ORD-00376,2/19/2024,2024,February,Tennessee,TN,Bookshelf,Furniture,Online,Corporate,Credit Card,54,9,320.87,10,288.78,2599.05,1999.99,599.06,23.05,0,44.05,121.27,2555,Completed,Q1,2,45-54,Low
+ORD-00377,1/28/2024,2024,January,Nevada,NV,Laptop,Electronics,Retail Store,Consumer,Credit Card,70,9,1545.11,0,0,13905.99,6676.71,7229.28,51.99,0,13.37,645.65,13892.62,Completed,Q1,1,65+,No Discount
+ORD-00378,10/25/2025,2025,October,Ohio,OH,Laptop,Electronics,Online,Small Business,Debit Card,42,3,1062.99,15,478.35,2710.62,1641.61,1069.02,39.44,0,73.93,186.64,2636.69,Completed,Q4,10,35-44,Medium
+ORD-00379,8/8/2024,2024,August,Kansas,KS,Smartphone,Electronics,Wholesale,Corporate,Bank Transfer,42,1,1408.69,0,0,1408.69,710.44,698.25,49.57,0,68.26,83.45,1340.43,Completed,Q3,8,35-44,No Discount
+ORD-00380,1/21/2024,2024,January,Vermont,VT,Desk,Furniture,Retail Store,Corporate,Credit Card,48,10,230.04,10,230.04,2070.36,1577.88,492.48,23.79,0,6.17,120.12,2064.19,Completed,Q1,1,45-54,Low
+ORD-00381,7/9/2024,2024,July,Iowa,IA,Printer,Electronics,Marketplace,Consumer,Credit Card,19,15,221.08,0,0,3316.2,2462.07,854.13,25.76,0,50.17,242.58,3266.03,Completed,Q3,7,18-24,No Discount
+ORD-00382,9/12/2025,2025,September,New Hampshire,NH,Printer,Electronics,Wholesale,Consumer,Bank Transfer,53,14,138.7,0,0,1941.8,962,979.8,50.46,0,77.26,80.06,1864.54,Completed,Q3,9,45-54,No Discount
+ORD-00383,7/2/2025,2025,July,Illinois,IL,Tablet,Electronics,Online,Small Business,Bank Transfer,43,8,453.19,15,543.83,3081.69,2373.71,707.98,22.97,0,11.7,182.74,3069.99,Completed,Q3,7,35-44,Medium
+ORD-00384,1/4/2026,2026,January,California,CA,Bookshelf,Furniture,Wholesale,Enterprise,Debit Card,52,2,130.52,20,52.21,208.83,154.35,54.48,26.09,0,63.09,12.18,145.74,Completed,Q1,1,45-54,Medium
+ORD-00385,6/4/2026,2026,June,Louisiana,LA,Backpack,Accessories,Online,Corporate,Debit Card,72,14,30.89,0,0,432.46,306.41,126.05,29.15,0,34.62,33.54,397.84,Completed,Q2,6,65+,No Discount
+ORD-00386,9/26/2024,2024,September,Ohio,OH,Bookshelf,Furniture,Online,Enterprise,Debit Card,36,9,195.16,15,263.47,1492.97,945.4,547.58,36.68,0,11.59,104.51,1481.38,Completed,Q3,9,35-44,Medium
+ORD-00387,12/3/2025,2025,December,Tennessee,TN,Laptop,Electronics,Marketplace,Small Business,Bank Transfer,41,6,1255.81,5,376.74,7158.12,5740.49,1417.62,19.8,0,31.53,465.48,7126.59,Completed,Q4,12,35-44,Low
+ORD-00388,1/17/2025,2025,January,Hawaii,HI,Mouse,Accessories,Online,Consumer,Bank Transfer,68,14,105.45,0,0,1476.3,705.38,770.92,52.22,0,23.85,128.7,1452.45,Completed,Q1,1,65+,No Discount
+ORD-00389,2/28/2024,2024,February,Maryland,MD,Desk,Furniture,Wholesale,Enterprise,PayPal,44,6,226.72,0,0,1360.32,1004.06,356.26,26.19,0,9.29,103.21,1351.03,Completed,Q1,2,35-44,No Discount
+ORD-00390,6/20/2024,2024,June,Kansas,KS,Desk,Furniture,Online,Small Business,PayPal,49,15,542.55,10,813.82,7324.42,5034.87,2289.55,31.26,0,41.87,596.47,7282.55,Completed,Q2,6,45-54,Low
+ORD-00391,11/17/2025,2025,November,Arizona,AZ,Printer,Electronics,Online,Small Business,PayPal,67,15,384.87,0,0,5773.05,3177.49,2595.56,44.96,0,53.96,319.34,5719.09,Completed,Q4,11,65+,No Discount
+ORD-00392,1/27/2024,2024,January,Iowa,IA,Desk,Furniture,Wholesale,Corporate,Credit Card,69,15,321.81,15,724.07,4103.08,2382.95,1720.13,41.92,0,51.61,368.35,4051.47,Completed,Q1,1,65+,Medium
+ORD-00393,6/29/2025,2025,June,Wisconsin,WI,Laptop,Electronics,Online,Consumer,Debit Card,44,6,1576.71,0,0,9460.26,4360.98,5099.28,53.9,0,38.27,408.27,9421.99,Completed,Q2,6,35-44,No Discount
+ORD-00394,12/22/2024,2024,December,Alaska,AK,Laptop,Electronics,Wholesale,Corporate,Debit Card,33,5,1448.85,10,724.42,6519.82,5399.64,1120.19,17.18,0,58.88,305.57,6460.94,Completed,Q4,12,25-34,Low
+ORD-00395,8/19/2025,2025,August,Alaska,AK,Printer,Electronics,Wholesale,Small Business,Credit Card,74,5,441.35,15,331.01,1875.74,1244.29,631.45,33.66,0,21.34,114.3,1854.4,Completed,Q3,8,65+,Medium
+ORD-00396,5/24/2026,2026,May,Alaska,AK,Keyboard,Accessories,Marketplace,Small Business,Bank Transfer,21,6,51.01,10,30.61,275.45,226.22,49.23,17.87,0,23.55,20.74,251.9,Completed,Q2,5,18-24,Low
+ORD-00397,10/9/2024,2024,October,Arkansas,AR,Smartphone,Electronics,Online,Corporate,PayPal,66,4,566.13,15,339.68,1924.84,1099.76,825.08,42.86,0,65.02,103.41,1859.82,Completed,Q4,10,65+,Medium
+ORD-00398,1/18/2024,2024,January,Illinois,IL,Headphones,Accessories,Retail Store,Small Business,PayPal,20,1,251.92,15,37.79,214.13,185.36,28.77,13.44,0,67.24,13.5,146.89,Completed,Q1,1,18-24,Medium
+ORD-00399,5/25/2024,2024,May,Connecticut,CT,Headphones,Accessories,Marketplace,Small Business,Credit Card,64,14,179.98,0,0,2519.72,1851.4,668.32,26.52,0,47.77,208.98,2471.95,Completed,Q2,5,55-64,No Discount
+ORD-00400,3/10/2025,2025,March,Idaho,ID,Mouse,Accessories,Online,Consumer,Digital Wallet,74,8,22.21,0,0,177.68,94.1,83.58,47.04,0,10.45,8.77,167.23,Completed,Q1,3,65+,No Discount
+ORD-00401,4/3/2025,2025,April,Ohio,OH,Desk,Furniture,Marketplace,Corporate,Credit Card,63,15,240.88,0,0,3613.2,2471.2,1142,31.61,2,30.63,174.21,3582.57,Returned,Q2,4,55-64,No Discount
+ORD-00402,7/21/2025,2025,July,Michigan,MI,Monitor,Electronics,Online,Consumer,Credit Card,70,1,537.62,10,53.76,483.86,338.55,145.3,30.03,0,81.44,25.33,402.42,Completed,Q3,7,65+,Low
+ORD-00403,6/9/2026,2026,June,Kansas,KS,Tablet,Electronics,Marketplace,Consumer,Debit Card,61,10,750.14,0,0,7501.4,3411.23,4090.17,54.53,0,83.46,527.32,7417.94,Completed,Q2,6,55-64,No Discount
+ORD-00404,3/24/2026,2026,March,Iowa,IA,Smartphone,Electronics,Marketplace,Small Business,Debit Card,37,2,1071.83,0,0,2143.66,1184.16,959.5,44.76,0,68.72,165,2074.94,Completed,Q1,3,35-44,No Discount
+ORD-00405,1/20/2026,2026,January,Alabama,AL,Desk,Furniture,Retail Store,Consumer,Debit Card,53,7,415.7,20,581.98,2327.92,1511.01,816.91,35.09,0,82.57,178.63,2245.35,Completed,Q1,1,45-54,Medium
+ORD-00406,12/4/2025,2025,December,Vermont,VT,Bookshelf,Furniture,Online,Small Business,Debit Card,46,7,347.04,5,121.46,2307.82,1476.16,831.65,36.04,0,66.44,164.84,2241.38,Completed,Q4,12,45-54,Low
+ORD-00407,6/17/2024,2024,June,North Dakota,ND,Laptop,Electronics,Retail Store,Small Business,Bank Transfer,24,11,1805.53,0,0,19860.83,11131.61,8729.22,43.95,0,55.85,1147.91,19804.98,Completed,Q2,6,18-24,No Discount
+ORD-00408,10/31/2025,2025,October,Montana,MT,Smartphone,Electronics,Wholesale,Consumer,Credit Card,44,15,656.52,5,492.39,9355.41,6265.67,3089.74,33.03,0,51.92,620.3,9303.49,Completed,Q4,10,35-44,Low
+ORD-00409,4/11/2026,2026,April,Nevada,NV,Laptop,Electronics,Retail Store,Small Business,Credit Card,28,7,1042.82,0,0,7299.74,3765.09,3534.65,48.42,0,10.78,502.14,7288.96,Completed,Q2,4,25-34,No Discount
+ORD-00410,4/10/2024,2024,April,Georgia,GA,Keyboard,Accessories,Online,Consumer,Credit Card,41,14,109.55,0,0,1533.7,735.59,798.11,52.04,0,5.48,98.45,1528.22,Completed,Q2,4,35-44,No Discount
+ORD-00411,12/2/2024,2024,December,Florida,FL,Printer,Electronics,Online,Corporate,PayPal,65,5,391.58,0,0,1957.9,1452.52,505.38,25.81,0,47.76,97.45,1910.14,Completed,Q4,12,65+,No Discount
+ORD-00412,7/10/2025,2025,July,Maryland,MD,Office Chair,Furniture,Online,Consumer,Bank Transfer,44,2,265.69,0,0,531.38,341.38,190,35.76,0,9.36,29.6,522.02,Completed,Q3,7,35-44,No Discount
+ORD-00413,9/3/2024,2024,September,Iowa,IA,Tablet,Electronics,Wholesale,Enterprise,Debit Card,61,12,472.39,5,283.43,5385.25,4102.41,1282.84,23.82,0,78.38,364.46,5306.87,Completed,Q3,9,55-64,Low
+ORD-00414,6/25/2024,2024,June,North Carolina,NC,Tablet,Electronics,Online,Small Business,Bank Transfer,71,8,791.41,10,633.13,5698.15,4815.11,883.04,15.5,0,64.33,457.3,5633.82,Completed,Q2,6,65+,Low
+ORD-00415,6/20/2025,2025,June,Alabama,AL,Laptop,Electronics,Retail Store,Corporate,Debit Card,31,12,1873.65,5,1124.19,21359.61,13681.33,7678.28,35.95,0,22.53,974.9,21337.08,Completed,Q2,6,25-34,Low
+ORD-00416,6/21/2025,2025,June,Connecticut,CT,Laptop,Electronics,Online,Consumer,Credit Card,30,10,1590.76,20,3181.52,12726.08,9400.51,3325.57,26.13,0,76.84,843.13,12649.24,Completed,Q2,6,25-34,Medium
+ORD-00417,6/12/2026,2026,June,Indiana,IN,Headphones,Accessories,Retail Store,Consumer,Credit Card,19,2,40.25,0,0,80.5,45.73,34.77,43.19,0,36.02,3.78,44.48,Completed,Q2,6,18-24,No Discount
+ORD-00418,11/29/2025,2025,November,Maryland,MD,Printer,Electronics,Marketplace,Corporate,PayPal,39,14,445.11,5,311.58,5919.96,3506.75,2413.22,40.76,0,10.48,502.43,5909.48,Completed,Q4,11,35-44,Low
+ORD-00419,6/28/2024,2024,June,Louisiana,LA,Tablet,Electronics,Wholesale,Corporate,Debit Card,28,3,557.73,0,0,1673.19,1233.11,440.08,26.3,0,67.14,137.83,1606.05,Completed,Q2,6,25-34,No Discount
+ORD-00420,1/12/2025,2025,January,Iowa,IA,Monitor,Electronics,Wholesale,Small Business,Credit Card,41,6,246.06,0,0,1476.36,684.58,791.78,53.63,0,49.78,122.39,1426.58,Completed,Q1,1,35-44,No Discount
+ORD-00421,6/9/2025,2025,June,Ohio,OH,Bookshelf,Furniture,Online,Corporate,Credit Card,29,2,118.74,0,0,237.48,163.77,73.71,31.04,0,29.22,15.82,208.26,Completed,Q2,6,25-34,No Discount
+ORD-00422,1/31/2025,2025,January,Rhode Island,RI,Printer,Electronics,Wholesale,Small Business,Bank Transfer,74,3,341.42,15,153.64,870.62,718.55,152.07,17.47,0,20.36,63.85,850.26,Completed,Q1,1,65+,Medium
+ORD-00423,1/2/2024,2024,January,Idaho,ID,Keyboard,Accessories,Retail Store,Consumer,Debit Card,67,4,55.62,0,0,222.48,156.97,65.51,29.44,0,45.53,18.42,176.95,Completed,Q1,1,65+,No Discount
+ORD-00424,10/22/2025,2025,October,Massachusetts,MA,Desk,Furniture,Online,Consumer,Bank Transfer,72,9,401.07,0,0,3609.63,2502.39,1107.24,30.67,0,42.98,205.09,3566.65,Completed,Q4,10,65+,No Discount
+ORD-00425,2/20/2024,2024,February,Colorado,CO,Laptop,Electronics,Wholesale,Corporate,Credit Card,45,8,2164.2,0,0,17313.6,9398.61,7914.99,45.72,0,43.03,1370.37,17270.57,Completed,Q1,2,45-54,No Discount
+ORD-00426,3/26/2026,2026,March,New York,NY,Tablet,Electronics,Online,Consumer,Bank Transfer,46,10,495.7,5,247.85,4709.15,2425.66,2283.49,48.49,0,9.22,384.78,4699.93,Completed,Q1,3,45-54,Low
+ORD-00427,8/19/2024,2024,August,New Mexico,NM,Bookshelf,Furniture,Marketplace,Consumer,Credit Card,47,4,211.91,0,0,847.64,543.01,304.63,35.94,0,31.59,47.28,816.05,Completed,Q3,8,45-54,No Discount
+ORD-00428,6/24/2026,2026,June,Utah,UT,Office Chair,Furniture,Retail Store,Enterprise,Bank Transfer,36,1,362.8,5,18.14,344.66,247.17,97.49,28.29,0,55.46,21.64,289.2,Completed,Q2,6,35-44,Low
+ORD-00429,11/5/2024,2024,November,Minnesota,MN,Backpack,Accessories,Online,Consumer,Debit Card,43,2,44.73,15,13.42,76.04,58.28,17.76,23.36,0,24.98,4.35,51.06,Completed,Q4,11,35-44,Medium
+ORD-00430,11/28/2025,2025,November,South Carolina,SC,Backpack,Accessories,Retail Store,Consumer,Credit Card,29,13,155.28,15,302.8,1715.84,1371.31,344.54,20.08,0,36.53,141.64,1679.31,Completed,Q4,11,25-34,Medium
+ORD-00431,9/10/2024,2024,September,Kansas,KS,Bookshelf,Furniture,Wholesale,Consumer,Bank Transfer,24,10,291.09,10,291.09,2619.81,1570.76,1049.05,40.04,0,72.6,167.19,2547.21,Completed,Q3,9,18-24,Low
+ORD-00432,2/19/2025,2025,February,South Carolina,SC,Tablet,Electronics,Online,Corporate,Credit Card,62,4,492.45,0,0,1969.8,1287.24,682.56,34.65,0,31.09,124.94,1938.71,Completed,Q1,2,55-64,No Discount
+ORD-00433,5/1/2025,2025,May,Wisconsin,WI,Backpack,Accessories,Online,Consumer,Credit Card,65,4,129.98,10,51.99,467.93,372.69,95.23,20.35,0,5.7,27.66,462.23,Completed,Q2,5,65+,Low
+ORD-00434,6/4/2025,2025,June,North Carolina,NC,Tablet,Electronics,Retail Store,Enterprise,Debit Card,28,5,789.22,20,789.22,3156.88,2019.17,1137.71,36.04,0,44.05,254.61,3112.83,Completed,Q2,6,25-34,Medium
+ORD-00435,4/15/2026,2026,April,Tennessee,TN,Desk,Furniture,Retail Store,Consumer,PayPal,68,3,706.49,0,0,2119.47,1511.9,607.57,28.67,0,10.1,125.81,2109.37,Completed,Q2,4,65+,No Discount
+ORD-00436,1/4/2024,2024,January,Georgia,GA,Tablet,Electronics,Marketplace,Consumer,Credit Card,74,2,513.35,10,102.67,924.03,609.24,314.79,34.07,0,19.45,80.75,904.58,Completed,Q1,1,65+,Low
+ORD-00437,2/10/2026,2026,February,North Dakota,ND,Keyboard,Accessories,Retail Store,Consumer,Credit Card,44,12,70.21,0,0,842.52,459.55,382.97,45.45,0,58.1,38.68,784.42,Completed,Q1,2,35-44,No Discount
+ORD-00438,11/16/2025,2025,November,Mississippi,MS,Monitor,Electronics,Marketplace,Consumer,PayPal,57,6,492.43,0,0,2954.58,1604.82,1349.76,45.68,0,25.51,256.16,2929.07,Completed,Q4,11,55-64,No Discount
+ORD-00439,7/13/2025,2025,July,New Mexico,NM,Headphones,Accessories,Retail Store,Corporate,Digital Wallet,53,9,226.49,10,203.84,1834.57,1498.72,335.85,18.31,0,43.01,108.79,1791.56,Completed,Q3,7,45-54,Low
+ORD-00440,1/3/2025,2025,January,Arizona,AZ,Desk,Furniture,Online,Small Business,Debit Card,37,7,219.19,0,0,1534.33,1058.49,475.84,31.01,0,22.66,73.53,1511.67,Completed,Q1,1,35-44,No Discount
+ORD-00441,10/29/2025,2025,October,Iowa,IA,Bookshelf,Furniture,Online,Consumer,Debit Card,62,3,350.23,0,0,1050.69,539.62,511.07,48.64,0,28.83,83.01,1021.86,Completed,Q4,10,55-64,No Discount
+ORD-00442,1/30/2026,2026,January,Utah,UT,Bookshelf,Furniture,Online,Consumer,Digital Wallet,44,10,196.34,0,0,1963.4,1096.85,866.55,44.14,0,41.02,103.54,1922.38,Completed,Q1,1,35-44,No Discount
+ORD-00443,7/11/2024,2024,July,Massachusetts,MA,Headphones,Accessories,Wholesale,Consumer,Credit Card,60,9,50.23,0,0,452.07,206.33,245.74,54.36,0,38.15,39.24,413.92,Completed,Q3,7,55-64,No Discount
+ORD-00444,11/1/2024,2024,November,Maine,ME,Printer,Electronics,Online,Small Business,Bank Transfer,44,1,284.48,20,56.9,227.58,151.57,76.02,33.4,0,77.71,18.04,149.87,Completed,Q4,11,35-44,Medium
+ORD-00445,5/6/2024,2024,May,Massachusetts,MA,Tablet,Electronics,Online,Enterprise,Credit Card,50,9,605.75,20,1090.35,4361.4,2710.22,1651.18,37.86,0,27.6,235.3,4333.8,Completed,Q2,5,45-54,Medium
+ORD-00446,3/1/2025,2025,March,Alabama,AL,Monitor,Electronics,Retail Store,Consumer,Credit Card,65,6,386.59,0,0,2319.54,1100.69,1218.85,52.55,0,74.57,147.55,2244.97,Completed,Q1,3,65+,No Discount
+ORD-00447,1/5/2025,2025,January,Minnesota,MN,Desk,Furniture,Online,Consumer,Bank Transfer,34,3,536.37,15,241.37,1367.74,772.59,595.15,43.51,0,81.86,91.47,1285.88,Completed,Q1,1,25-34,Medium
+ORD-00448,7/28/2025,2025,July,Nebraska,NE,Smartphone,Electronics,Wholesale,Small Business,Credit Card,22,6,1360.54,0,0,8163.24,5110.16,3053.08,37.4,0,18.53,725.49,8144.71,Completed,Q3,7,18-24,No Discount
+ORD-00449,7/14/2024,2024,July,New Jersey,NJ,Tablet,Electronics,Retail Store,Consumer,Debit Card,40,2,701.73,0,0,1403.46,940.94,462.52,32.96,0,73.15,113.48,1330.31,Completed,Q3,7,35-44,No Discount
+ORD-00450,11/30/2024,2024,November,Kentucky,KY,Laptop,Electronics,Online,Consumer,Credit Card,18,3,1336.6,5,200.49,3809.31,2257.05,1552.26,40.75,0,24.06,195.11,3785.25,Completed,Q4,11,18-24,Low
+ORD-00451,4/6/2026,2026,April,Georgia,GA,Backpack,Accessories,Online,Consumer,Debit Card,48,11,139.82,10,153.8,1384.22,1024.22,360,26.01,0,24.53,86.52,1359.69,Completed,Q2,4,45-54,Low
+ORD-00452,2/5/2025,2025,February,North Dakota,ND,Bookshelf,Furniture,Online,Consumer,PayPal,37,8,312.63,20,500.21,2000.83,1916.26,84.57,4.23,0,32.84,169.63,1967.99,Completed,Q1,2,35-44,Medium
+ORD-00453,7/22/2024,2024,July,Missouri,MO,Tablet,Electronics,Online,Consumer,Credit Card,29,13,327.7,0,0,4260.1,1986.34,2273.76,53.37,0,33.28,237.64,4226.82,Completed,Q3,7,25-34,No Discount
+ORD-00454,9/11/2025,2025,September,Tennessee,TN,Office Chair,Furniture,Online,Consumer,Digital Wallet,68,10,296.78,0,0,2967.8,1963.31,1004.49,33.85,0,37.41,119.11,2930.39,Completed,Q3,9,65+,No Discount
+ORD-00455,11/4/2025,2025,November,Rhode Island,RI,Bookshelf,Furniture,Online,Corporate,Bank Transfer,39,12,155.4,5,93.24,1771.56,1340.57,430.99,24.33,0,29.77,153.93,1741.79,Completed,Q4,11,35-44,Low
+ORD-00456,8/1/2025,2025,August,Georgia,GA,Monitor,Electronics,Online,Corporate,Credit Card,27,2,299.37,0,0,598.74,326.68,272.06,45.44,0,22.08,36.26,576.66,Completed,Q3,8,25-34,No Discount
+ORD-00457,12/17/2025,2025,December,Florida,FL,Backpack,Accessories,Online,Consumer,Digital Wallet,42,3,154.11,0,0,462.33,254.32,208.01,44.99,0,33.69,24.68,428.64,Completed,Q4,12,35-44,No Discount
+ORD-00458,3/24/2026,2026,March,South Carolina,SC,Printer,Electronics,Marketplace,Consumer,PayPal,43,3,238.88,5,35.83,680.81,557.31,123.5,18.14,0,23.07,33.22,657.74,Completed,Q1,3,35-44,Low
+ORD-00459,3/14/2025,2025,March,Michigan,MI,Backpack,Accessories,Marketplace,Small Business,Digital Wallet,50,7,148.27,20,207.58,830.31,544.17,286.14,34.46,0,53.77,71.2,776.54,Completed,Q1,3,45-54,Medium
+ORD-00460,12/1/2024,2024,December,South Carolina,SC,Desk,Furniture,Retail Store,Consumer,Credit Card,28,14,475.42,15,998.38,5657.5,4245.59,1411.91,24.96,0,46.5,240.77,5611,Completed,Q4,12,25-34,Medium
+ORD-00461,3/6/2024,2024,March,Vermont,VT,Bookshelf,Furniture,Marketplace,Consumer,PayPal,63,9,106.34,5,47.85,909.21,524.78,384.43,42.28,0,18.08,50.19,891.13,Completed,Q1,3,55-64,Low
+ORD-00462,10/3/2025,2025,October,Colorado,CO,Desk,Furniture,Marketplace,Corporate,Debit Card,55,8,202.09,5,80.84,1535.88,1072.39,463.49,30.18,0,47.3,64.08,1488.58,Completed,Q4,10,55-64,Low
+ORD-00463,4/23/2025,2025,April,Oregon,OR,Monitor,Electronics,Online,Consumer,Debit Card,58,7,649.55,0,0,4546.85,2202.6,2344.25,51.56,0,75.17,301.95,4471.68,Completed,Q2,4,55-64,No Discount
+ORD-00464,4/16/2026,2026,April,Kansas,KS,Backpack,Accessories,Retail Store,Small Business,Bank Transfer,55,11,111.39,0,0,1225.29,802.69,422.6,34.49,0,40.59,104.11,1184.7,Completed,Q2,4,55-64,No Discount
+ORD-00465,1/7/2026,2026,January,California,CA,Bookshelf,Furniture,Marketplace,Corporate,Debit Card,46,13,267.37,15,521.37,2954.44,1759.8,1194.64,40.44,0,42.12,234.74,2912.32,Completed,Q1,1,45-54,Medium
+ORD-00466,5/19/2026,2026,May,Hawaii,HI,Laptop,Electronics,Wholesale,Small Business,Bank Transfer,52,14,2166.77,0,0,30334.78,14569.39,15765.39,51.97,0,75.35,1993.34,30259.43,Completed,Q2,5,45-54,No Discount
+ORD-00467,9/6/2025,2025,September,New Mexico,NM,Tablet,Electronics,Wholesale,Small Business,PayPal,55,2,388.23,10,77.65,698.81,529.15,169.66,24.28,0,9.41,42.87,689.4,Completed,Q3,9,55-64,Low
+ORD-00468,4/23/2024,2024,April,New Mexico,NM,Mouse,Accessories,Online,Corporate,Credit Card,61,1,117.12,20,23.42,93.7,78.28,15.41,16.45,0,64.96,7.03,28.74,Completed,Q2,4,55-64,Medium
+ORD-00469,9/17/2024,2024,September,Montana,MT,Headphones,Accessories,Online,Corporate,Credit Card,55,4,195.4,10,78.16,703.44,602.63,100.81,14.33,3,11.16,51.73,692.28,Returned,Q3,9,55-64,Low
+ORD-00470,4/9/2026,2026,April,Montana,MT,Mouse,Accessories,Retail Store,Small Business,Bank Transfer,73,5,40.53,5,10.13,192.52,113.52,79,41.03,0,55.48,7.94,137.04,Completed,Q2,4,65+,Low
+ORD-00471,2/27/2024,2024,February,Maryland,MD,Headphones,Accessories,Retail Store,Corporate,Debit Card,39,14,191.46,10,268.04,2412.4,1721.39,691.01,28.64,0,20.06,118.72,2392.34,Completed,Q1,2,35-44,Low
+ORD-00472,2/28/2025,2025,February,Connecticut,CT,Bookshelf,Furniture,Marketplace,Consumer,Credit Card,46,14,267.56,20,749.17,2996.67,2354.82,641.85,21.42,0,84.58,264.69,2912.09,Completed,Q1,2,45-54,Medium
+ORD-00473,8/7/2024,2024,August,Wisconsin,WI,Backpack,Accessories,Wholesale,Corporate,Bank Transfer,27,9,119.62,0,0,1076.58,530.6,545.98,50.71,0,73.69,94.89,1002.89,Completed,Q3,8,25-34,No Discount
+ORD-00474,10/26/2025,2025,October,Tennessee,TN,Printer,Electronics,Online,Small Business,PayPal,41,2,354.95,0,0,709.9,474.16,235.74,33.21,0,58.83,46.05,651.07,Completed,Q4,10,35-44,No Discount
+ORD-00475,7/30/2025,2025,July,West Virginia,WV,Printer,Electronics,Online,Corporate,Credit Card,43,9,482.5,0,0,4342.5,2974.75,1367.75,31.5,0,23.83,281.04,4318.67,Completed,Q3,7,35-44,No Discount
+ORD-00476,6/19/2025,2025,June,Illinois,IL,Laptop,Electronics,Online,Small Business,Debit Card,32,11,2085.32,5,1146.93,21791.59,12085.16,9706.43,44.54,0,59.67,1518.53,21731.92,Completed,Q2,6,25-34,Low
+ORD-00477,8/2/2025,2025,August,Montana,MT,Monitor,Electronics,Retail Store,Consumer,Digital Wallet,66,7,317.36,15,333.23,1888.29,1040.33,847.96,44.91,0,41.62,99.98,1846.67,Completed,Q3,8,65+,Medium
+ORD-00478,5/18/2026,2026,May,Montana,MT,Laptop,Electronics,Marketplace,Consumer,PayPal,65,4,1190.01,0,0,4760.04,3627.56,1132.48,23.79,0,29.13,235.22,4730.91,Completed,Q2,5,65+,No Discount
+ORD-00479,2/5/2024,2024,February,New Jersey,NJ,Desk,Furniture,Online,Consumer,Debit Card,53,3,633.48,0,0,1900.44,1258.72,641.72,33.77,0,12.81,91.87,1887.63,Completed,Q1,2,45-54,No Discount
+ORD-00480,4/8/2025,2025,April,Louisiana,LA,Smartphone,Electronics,Wholesale,Corporate,PayPal,68,7,1166.8,0,0,8167.6,3952.41,4215.19,51.61,0,39.48,535.19,8128.12,Completed,Q2,4,65+,No Discount
+ORD-00481,4/10/2024,2024,April,Florida,FL,Laptop,Electronics,Online,Consumer,Debit Card,54,10,1791.35,5,895.68,17017.82,9501.19,7516.63,44.17,0,13.56,1345,17004.26,Completed,Q2,4,45-54,Low
+ORD-00482,5/19/2024,2024,May,Louisiana,LA,Printer,Electronics,Retail Store,Consumer,Credit Card,50,10,337.9,15,506.85,2872.15,2569.55,302.6,10.54,0,74.98,220.79,2797.17,Completed,Q2,5,45-54,Medium
+ORD-00483,10/19/2025,2025,October,Oklahoma,OK,Printer,Electronics,Online,Enterprise,PayPal,66,15,394,0,0,5910,4202.9,1707.1,28.89,0,28.96,371.66,5881.04,Completed,Q4,10,65+,No Discount
+ORD-00484,12/20/2025,2025,December,Utah,UT,Bookshelf,Furniture,Marketplace,Enterprise,Bank Transfer,55,6,143.93,0,0,863.58,647.82,215.76,24.98,0,70.57,77.69,793.01,Completed,Q4,12,55-64,No Discount
+ORD-00485,6/5/2026,2026,June,Illinois,IL,Printer,Electronics,Wholesale,Enterprise,Digital Wallet,20,12,311.09,5,186.65,3546.43,2897.62,648.8,18.29,0,9.94,272.07,3536.49,Completed,Q2,6,18-24,Low
+ORD-00486,7/22/2024,2024,July,New Jersey,NJ,Smartphone,Electronics,Wholesale,Consumer,Credit Card,72,2,547.15,20,218.86,875.44,719.83,155.61,17.78,0,18.32,78.18,857.12,Completed,Q3,7,65+,Medium
+ORD-00487,10/3/2025,2025,October,Minnesota,MN,Keyboard,Accessories,Online,Consumer,Credit Card,73,2,115.02,0,0,230.04,126.74,103.3,44.91,0,10.05,16.23,219.99,Completed,Q4,10,65+,No Discount
+ORD-00488,6/10/2024,2024,June,Texas,TX,Keyboard,Accessories,Retail Store,Consumer,Debit Card,66,13,107.89,0,0,1402.57,925.03,477.54,34.05,0,32.58,83.47,1369.99,Completed,Q2,6,65+,No Discount
+ORD-00489,4/28/2025,2025,April,Tennessee,TN,Tablet,Electronics,Retail Store,Corporate,Debit Card,47,8,343.8,0,0,2750.4,1821.94,928.46,33.76,0,40.97,157.5,2709.43,Completed,Q2,4,45-54,No Discount
+ORD-00490,4/4/2026,2026,April,Delaware,DE,Smartphone,Electronics,Marketplace,Consumer,PayPal,36,11,1147.56,10,1262.32,11360.84,6279.76,5081.09,44.72,0,6.6,787.65,11354.24,Completed,Q2,4,35-44,Low
+ORD-00491,2/16/2025,2025,February,Wyoming,WY,Mouse,Accessories,Retail Store,Small Business,Debit Card,70,15,91.88,20,275.64,1102.56,794.34,308.22,27.96,0,33.14,68.37,1069.42,Completed,Q1,2,65+,Medium
+ORD-00492,10/8/2024,2024,October,California,CA,Laptop,Electronics,Retail Store,Small Business,Credit Card,43,1,1603.61,0,0,1603.61,829.72,773.89,48.26,0,33.7,143.98,1569.91,Completed,Q4,10,35-44,No Discount
+ORD-00493,1/22/2026,2026,January,West Virginia,WV,Laptop,Electronics,Retail Store,Enterprise,Bank Transfer,75,8,1486.47,5,594.59,11297.17,8174.03,3123.14,27.65,0,11.53,574.87,11285.64,Completed,Q1,1,65+,Low
+ORD-00494,9/2/2024,2024,September,Colorado,CO,Desk,Furniture,Marketplace,Corporate,PayPal,72,7,489.48,0,0,3426.36,1710.83,1715.53,50.07,0,41.7,168.17,3384.66,Completed,Q3,9,65+,No Discount
+ORD-00495,6/16/2026,2026,June,Florida,FL,Printer,Electronics,Marketplace,Enterprise,Digital Wallet,20,3,167.59,0,0,502.77,389.6,113.17,22.51,0,27.83,34.84,474.94,Completed,Q2,6,18-24,No Discount
+ORD-00496,11/24/2024,2024,November,Louisiana,LA,Bookshelf,Furniture,Online,Corporate,Credit Card,54,5,312.44,20,312.44,1249.76,705.5,544.26,43.55,0,13.04,81.81,1236.72,Completed,Q4,11,45-54,Medium
+ORD-00497,4/8/2024,2024,April,Vermont,VT,Headphones,Accessories,Retail Store,Enterprise,Bank Transfer,49,6,259.87,0,0,1559.22,808.06,751.16,48.18,0,34.29,70.45,1524.93,Completed,Q2,4,45-54,No Discount
+ORD-00498,8/2/2024,2024,August,Alaska,AK,Headphones,Accessories,Marketplace,Small Business,Debit Card,26,10,294.87,10,294.87,2653.83,1926.61,727.22,27.4,0,54.8,147.14,2599.03,Completed,Q3,8,25-34,Low
+ORD-00499,5/28/2024,2024,May,Pennsylvania,PA,Bookshelf,Furniture,Wholesale,Consumer,Digital Wallet,29,12,216,0,0,2592,1934.11,657.89,25.38,0,11.99,225.05,2580.01,Completed,Q2,5,25-34,No Discount
+ORD-00500,9/4/2024,2024,September,Rhode Island,RI,Tablet,Electronics,Retail Store,Enterprise,Credit Card,54,5,861.57,0,0,4307.85,2151.64,2156.21,50.05,0,51.06,311.27,4256.79,Completed,Q3,9,45-54,No Discount
+ORD-00501,1/31/2024,2024,January,Nevada,NV,Tablet,Electronics,Retail Store,Consumer,PayPal,55,2,259.34,5,25.93,492.75,374.22,118.53,24.06,0,48.36,31.03,444.39,Completed,Q1,1,55-64,Low
+ORD-00502,6/20/2025,2025,June,Maryland,MD,Smartphone,Electronics,Retail Store,Small Business,Debit Card,52,1,606.85,0,0,606.85,445.29,161.56,26.62,0,53.62,26.82,553.23,Completed,Q2,6,45-54,No Discount
+ORD-00503,2/28/2026,2026,February,Idaho,ID,Office Chair,Furniture,Online,Consumer,Credit Card,33,4,387.59,0,0,1550.36,930.43,619.93,39.99,0,15.6,104.41,1534.76,Completed,Q1,2,25-34,No Discount
+ORD-00504,11/27/2024,2024,November,Wyoming,WY,Printer,Electronics,Online,Consumer,Digital Wallet,30,14,468.67,0,0,6561.38,4846.71,1714.67,26.13,0,62.6,295.64,6498.78,Completed,Q4,11,25-34,No Discount
+ORD-00505,6/10/2025,2025,June,New York,NY,Smartphone,Electronics,Online,Corporate,Credit Card,52,8,1199.34,10,959.47,8635.25,5536.97,3098.28,35.88,0,8.56,470.25,8626.69,Completed,Q2,6,45-54,Low
+ORD-00506,6/24/2025,2025,June,Montana,MT,Smartphone,Electronics,Wholesale,Consumer,Debit Card,70,1,1305.36,0,0,1305.36,743.13,562.23,43.07,0,47.34,90.36,1258.02,Completed,Q2,6,65+,No Discount
+ORD-00507,8/11/2025,2025,August,Rhode Island,RI,Headphones,Accessories,Wholesale,Consumer,Credit Card,54,9,184.09,0,0,1656.81,1014.52,642.29,38.77,0,24.07,132.04,1632.74,Completed,Q3,8,45-54,No Discount
+ORD-00508,12/8/2025,2025,December,North Dakota,ND,Printer,Electronics,Marketplace,Small Business,Credit Card,57,13,415.8,0,0,5405.4,2980.21,2425.19,44.87,0,30.85,363.27,5374.55,Completed,Q4,12,55-64,No Discount
+ORD-00509,1/22/2026,2026,January,Idaho,ID,Monitor,Electronics,Wholesale,Consumer,Credit Card,20,6,266.68,0,0,1600.08,1121.08,479,29.94,0,61.74,65.7,1538.34,Completed,Q1,1,18-24,No Discount
+ORD-00510,4/12/2024,2024,April,Maryland,MD,Desk,Furniture,Online,Corporate,Credit Card,48,15,602.94,0,0,9044.1,6512.11,2531.99,28,0,19.69,732.99,9024.41,Completed,Q2,4,45-54,No Discount
+ORD-00511,3/7/2026,2026,March,Mississippi,MS,Backpack,Accessories,Online,Consumer,Debit Card,35,8,40.65,15,48.78,276.42,251.13,25.29,9.15,0,78.86,18.59,197.56,Completed,Q1,3,35-44,Medium
+ORD-00512,5/16/2024,2024,May,Oregon,OR,Mouse,Accessories,Wholesale,Enterprise,Credit Card,56,3,85.57,0,0,256.71,124.84,131.87,51.37,0,71.97,21.37,184.74,Completed,Q2,5,55-64,No Discount
+ORD-00513,2/6/2025,2025,February,Oklahoma,OK,Bookshelf,Furniture,Online,Consumer,Debit Card,55,2,324.46,0,0,648.92,359.14,289.78,44.66,0,56.07,48.65,592.85,Completed,Q1,2,55-64,No Discount
+ORD-00514,8/24/2025,2025,August,Minnesota,MN,Backpack,Accessories,Retail Store,Corporate,Digital Wallet,52,11,126.25,10,138.88,1249.88,701.98,547.89,43.84,0,43.99,89.06,1205.89,Completed,Q3,8,45-54,Low
+ORD-00515,4/4/2025,2025,April,Hawaii,HI,Tablet,Electronics,Online,Small Business,Debit Card,61,9,691.98,10,622.78,5605.04,4289.09,1315.94,23.48,0,71.89,267.58,5533.15,Completed,Q2,4,55-64,Low
+ORD-00516,5/30/2024,2024,May,New York,NY,Smartphone,Electronics,Online,Consumer,Debit Card,34,3,877.78,5,131.67,2501.67,1749.46,752.22,30.07,0,41.8,135.01,2459.87,Completed,Q2,5,25-34,Low
+ORD-00517,6/1/2025,2025,June,Texas,TX,Smartphone,Electronics,Retail Store,Corporate,Credit Card,47,2,657.57,10,131.51,1183.63,812.18,371.45,31.38,0,13.81,70.4,1169.82,Completed,Q2,6,45-54,Low
+ORD-00518,1/5/2025,2025,January,Kentucky,KY,Desk,Furniture,Online,Consumer,Credit Card,61,6,237.54,10,142.52,1282.72,1082.28,200.43,15.63,0,17.47,66.92,1265.25,Completed,Q1,1,55-64,Low
+ORD-00519,12/28/2024,2024,December,Idaho,ID,Keyboard,Accessories,Online,Small Business,Debit Card,45,6,167.61,0,0,1005.66,707.18,298.48,29.68,0,43.7,56.09,961.96,Completed,Q4,12,45-54,No Discount
+ORD-00520,9/9/2025,2025,September,Mississippi,MS,Headphones,Accessories,Marketplace,Corporate,Credit Card,51,1,282.23,10,28.22,254.01,141.29,112.72,44.37,0,34.87,12.08,219.14,Completed,Q3,9,45-54,Low
+ORD-00521,4/1/2024,2024,April,Connecticut,CT,Headphones,Accessories,Wholesale,Consumer,Credit Card,20,6,85.87,20,103.04,412.18,364.58,47.59,11.55,0,51.29,35.27,360.89,Completed,Q2,4,18-24,Medium
+ORD-00522,9/6/2024,2024,September,Utah,UT,Mouse,Accessories,Marketplace,Corporate,PayPal,68,7,106.02,5,37.11,705.03,386.74,318.29,45.15,0,63.34,45.84,641.69,Completed,Q3,9,65+,Low
+ORD-00523,3/26/2026,2026,March,Louisiana,LA,Keyboard,Accessories,Online,Consumer,Credit Card,45,7,111.31,0,0,779.17,437.4,341.77,43.86,0,37.03,52.59,742.14,Completed,Q1,3,45-54,No Discount
+ORD-00524,12/18/2025,2025,December,Massachusetts,MA,Backpack,Accessories,Online,Consumer,Bank Transfer,61,9,50.36,0,0,453.24,339.02,114.22,25.2,0,74.08,25.86,379.16,Completed,Q4,12,55-64,No Discount
+ORD-00525,8/9/2024,2024,August,New Hampshire,NH,Backpack,Accessories,Wholesale,Corporate,Debit Card,57,12,138.62,5,83.17,1580.27,888.89,691.38,43.75,0,72.49,78.61,1507.78,Completed,Q3,8,55-64,Low
+ORD-00526,4/24/2025,2025,April,Vermont,VT,Monitor,Electronics,Wholesale,Small Business,Credit Card,67,5,447.34,0,0,2236.7,1401.75,834.95,37.33,0,29.24,172.74,2207.46,Completed,Q2,4,65+,No Discount
+ORD-00527,11/5/2024,2024,November,Connecticut,CT,Office Chair,Furniture,Marketplace,Small Business,Debit Card,63,8,155.8,0,0,1246.4,568.17,678.23,54.42,0,6.74,89.19,1239.66,Completed,Q4,11,55-64,No Discount
+ORD-00528,4/1/2026,2026,April,Pennsylvania,PA,Headphones,Accessories,Retail Store,Consumer,Debit Card,66,15,196.28,0,0,2944.2,1834.25,1109.95,37.7,0,26.56,158.62,2917.64,Completed,Q2,4,65+,No Discount
+ORD-00529,11/28/2025,2025,November,New Hampshire,NH,Office Chair,Furniture,Retail Store,Consumer,PayPal,28,1,339.09,0,0,339.09,200.29,138.8,40.93,0,58.49,18.91,280.6,Completed,Q4,11,25-34,No Discount
+ORD-00530,11/19/2025,2025,November,Idaho,ID,Mouse,Accessories,Online,Small Business,Debit Card,29,10,68.41,0,0,684.1,336.22,347.88,50.85,0,66,58.16,618.1,Completed,Q4,11,25-34,No Discount
+ORD-00531,2/18/2025,2025,February,Ohio,OH,Printer,Electronics,Retail Store,Small Business,Bank Transfer,72,13,449.92,20,1169.79,4679.17,3782.9,896.26,19.15,0,5.59,308.41,4673.58,Completed,Q1,2,65+,Medium
+ORD-00532,7/27/2025,2025,July,Rhode Island,RI,Mouse,Accessories,Marketplace,Corporate,Debit Card,67,7,114.23,0,0,799.61,583.71,215.9,27,0,48.33,57.15,751.28,Completed,Q3,7,65+,No Discount
+ORD-00533,10/16/2025,2025,October,Nevada,NV,Tablet,Electronics,Online,Corporate,Bank Transfer,62,9,681.61,0,0,6134.49,3988.08,2146.41,34.99,0,47.06,465.64,6087.43,Completed,Q4,10,55-64,No Discount
+ORD-00534,8/27/2024,2024,August,New Mexico,NM,Office Chair,Furniture,Online,Consumer,Credit Card,54,3,416.77,0,0,1250.31,752.28,498.03,39.83,0,49.58,96.44,1200.73,Completed,Q3,8,45-54,No Discount
+ORD-00535,1/16/2025,2025,January,Wyoming,WY,Desk,Furniture,Retail Store,Small Business,PayPal,66,12,260.09,0,0,3121.08,1917.6,1203.48,38.56,0,40.25,258.57,3080.83,Completed,Q1,1,65+,No Discount
+ORD-00536,1/20/2024,2024,January,New Hampshire,NH,Smartphone,Electronics,Marketplace,Corporate,Debit Card,34,6,474.77,0,0,2848.62,2166.17,682.45,23.96,0,33.18,235.95,2815.44,Completed,Q1,1,25-34,No Discount
+ORD-00537,11/18/2025,2025,November,Iowa,IA,Keyboard,Accessories,Retail Store,Enterprise,Bank Transfer,22,10,103.29,15,154.94,877.96,511.61,366.36,41.73,0,51.94,39.64,826.02,Completed,Q4,11,18-24,Medium
+ORD-00538,5/6/2026,2026,May,Louisiana,LA,Headphones,Accessories,Online,Corporate,PayPal,75,8,284.73,0,0,2277.84,1081.81,1196.03,52.51,0,58.27,134.24,2219.57,Completed,Q2,5,65+,No Discount
+ORD-00539,2/15/2024,2024,February,New Hampshire,NH,Desk,Furniture,Wholesale,Consumer,PayPal,51,5,292.98,0,0,1464.9,1127.55,337.35,23.03,0,10.09,99,1454.81,Completed,Q1,2,45-54,No Discount
+ORD-00540,6/8/2026,2026,June,Wyoming,WY,Bookshelf,Furniture,Retail Store,Consumer,Digital Wallet,47,9,149.29,10,134.36,1209.25,706.78,502.47,41.55,0,83.55,90.16,1125.7,Completed,Q2,6,45-54,Low
+ORD-00541,1/28/2025,2025,January,Kentucky,KY,Backpack,Accessories,Retail Store,Small Business,Bank Transfer,58,14,76.36,15,160.36,908.68,751.42,157.26,17.31,0,70.91,65.77,837.77,Completed,Q1,1,55-64,Medium
+ORD-00542,12/22/2024,2024,December,Washington,WA,Smartphone,Electronics,Retail Store,Corporate,Bank Transfer,35,3,1213.94,0,0,3641.82,2387.03,1254.79,34.46,0,20.59,235.14,3621.23,Completed,Q4,12,35-44,No Discount
+ORD-00543,10/21/2024,2024,October,West Virginia,WV,Backpack,Accessories,Online,Consumer,Credit Card,59,7,121.78,0,0,852.46,655.36,197.1,23.12,0,34.75,35.2,817.71,Completed,Q4,10,55-64,No Discount
+ORD-00544,8/12/2024,2024,August,Kentucky,KY,Bookshelf,Furniture,Marketplace,Small Business,Credit Card,33,4,294.1,10,117.64,1058.76,884.65,174.11,16.44,0,59.65,45.12,999.11,Completed,Q3,8,25-34,Low
+ORD-00545,10/16/2024,2024,October,North Carolina,NC,Tablet,Electronics,Wholesale,Corporate,Credit Card,33,2,799.46,0,0,1598.92,1002.9,596.02,37.28,0,55.19,101.67,1543.73,Completed,Q4,10,25-34,No Discount
+ORD-00546,8/15/2025,2025,August,Rhode Island,RI,Office Chair,Furniture,Wholesale,Small Business,Credit Card,56,5,274.57,5,68.64,1304.21,1026.26,277.95,21.31,0,5.73,57.09,1298.48,Completed,Q3,8,55-64,Low
+ORD-00547,12/28/2024,2024,December,Maine,ME,Desk,Furniture,Marketplace,Corporate,PayPal,18,1,287.44,5,14.37,273.07,161.26,111.81,40.95,0,83.34,20.43,189.73,Completed,Q4,12,18-24,Low
+ORD-00548,1/10/2024,2024,January,Colorado,CO,Smartphone,Electronics,Retail Store,Consumer,Debit Card,53,4,1064.94,0,0,4259.76,1953.29,2306.47,54.15,0,49.32,170.73,4210.44,Completed,Q1,1,45-54,No Discount
+ORD-00549,3/31/2026,2026,March,Oregon,OR,Mouse,Accessories,Retail Store,Corporate,Debit Card,72,4,86.03,0,0,344.12,234.01,110.11,32,0,35.92,21,308.2,Completed,Q1,3,65+,No Discount
+ORD-00550,6/9/2024,2024,June,Rhode Island,RI,Printer,Electronics,Online,Small Business,Credit Card,32,8,388.59,0,0,3108.72,1779,1329.72,42.77,0,75.54,270.75,3033.18,Completed,Q2,6,25-34,No Discount
+ORD-00551,7/20/2024,2024,July,Michigan,MI,Tablet,Electronics,Wholesale,Consumer,Debit Card,66,10,281.95,0,0,2819.5,1600.24,1219.26,43.24,0,60.61,199.65,2758.89,Completed,Q3,7,65+,No Discount
+ORD-00552,7/13/2025,2025,July,New Jersey,NJ,Monitor,Electronics,Marketplace,Consumer,Bank Transfer,27,8,603.9,0,0,4831.2,3124.87,1706.33,35.32,0,69.57,319.65,4761.63,Completed,Q3,7,25-34,No Discount
+ORD-00553,6/10/2026,2026,June,Georgia,GA,Backpack,Accessories,Retail Store,Enterprise,Credit Card,42,10,143.04,5,71.52,1358.88,670.63,688.25,50.65,0,47.43,99.39,1311.45,Completed,Q2,6,35-44,Low
+ORD-00554,2/20/2024,2024,February,Iowa,IA,Mouse,Accessories,Online,Corporate,PayPal,56,1,96.85,10,9.68,87.16,49.07,38.1,43.71,0,60.43,5.91,26.73,Completed,Q1,2,55-64,Low
+ORD-00555,10/18/2024,2024,October,Connecticut,CT,Backpack,Accessories,Online,Corporate,Debit Card,32,8,113.12,0,0,904.96,589.31,315.65,34.88,0,37.57,66.86,867.39,Completed,Q4,10,25-34,No Discount
+ORD-00556,2/18/2025,2025,February,Arizona,AZ,Backpack,Accessories,Wholesale,Consumer,Debit Card,69,12,64.2,15,115.56,654.84,521.01,133.83,20.44,0,12.1,54.52,642.74,Completed,Q1,2,65+,Medium
+ORD-00557,5/28/2025,2025,May,South Dakota,SD,Headphones,Accessories,Online,Consumer,Credit Card,40,10,123.35,10,123.35,1110.15,782.91,327.24,29.48,0,69.67,65.95,1040.48,Completed,Q2,5,35-44,Low
+ORD-00558,11/19/2024,2024,November,Massachusetts,MA,Headphones,Accessories,Online,Small Business,Credit Card,33,1,73.88,5,3.69,70.19,54.54,15.65,22.3,0,71.45,4.81,-1.26,Completed,Q4,11,25-34,Low
+ORD-00559,3/13/2025,2025,March,Mississippi,MS,Headphones,Accessories,Retail Store,Corporate,PayPal,46,3,100.63,0,0,301.89,187.36,114.53,37.94,0,37.07,16.56,264.82,Completed,Q1,3,45-54,No Discount
+ORD-00560,5/17/2024,2024,May,Texas,TX,Monitor,Electronics,Wholesale,Consumer,PayPal,47,10,557.51,10,557.51,5017.59,3726.47,1291.12,25.73,0,69.71,274.64,4947.88,Completed,Q2,5,45-54,Low
+ORD-00561,11/3/2024,2024,November,Rhode Island,RI,Bookshelf,Furniture,Online,Consumer,Bank Transfer,39,4,337.53,0,0,1350.12,902.26,447.86,33.17,0,12.88,69.67,1337.24,Completed,Q4,11,35-44,No Discount
+ORD-00562,5/23/2026,2026,May,Louisiana,LA,Tablet,Electronics,Marketplace,Consumer,Credit Card,34,7,534.56,0,0,3741.92,2414.02,1327.9,35.49,0,76.11,289.2,3665.81,Completed,Q2,5,25-34,No Discount
+ORD-00563,7/27/2025,2025,July,Montana,MT,Desk,Furniture,Online,Corporate,Bank Transfer,42,12,450.24,0,0,5402.88,4095.6,1307.28,24.2,0,17.88,368.25,5385,Completed,Q3,7,35-44,No Discount
+ORD-00564,2/3/2026,2026,February,Illinois,IL,Smartphone,Electronics,Online,Enterprise,Credit Card,64,12,568.91,5,341.35,6485.57,4994.87,1490.7,22.98,0,75.58,400.12,6409.99,Completed,Q1,2,55-64,Low
+ORD-00565,3/16/2025,2025,March,Iowa,IA,Monitor,Electronics,Wholesale,Consumer,Debit Card,66,8,456.05,0,0,3648.4,2183.07,1465.33,40.16,0,50.79,328.21,3597.61,Completed,Q1,3,65+,No Discount
+ORD-00566,11/30/2025,2025,November,North Carolina,NC,Monitor,Electronics,Online,Consumer,Bank Transfer,21,14,605.71,0,0,8479.94,5525.03,2954.91,34.85,0,27.98,556,8451.96,Completed,Q4,11,18-24,No Discount
+ORD-00567,12/16/2025,2025,December,Kansas,KS,Desk,Furniture,Retail Store,Consumer,Bank Transfer,37,2,438.45,5,43.84,833.06,434.62,398.43,47.83,0,49.19,58.27,783.87,Completed,Q4,12,35-44,Low
+ORD-00568,4/14/2024,2024,April,Georgia,GA,Bookshelf,Furniture,Marketplace,Small Business,PayPal,48,10,217.19,0,0,2171.9,1262.96,908.94,41.85,0,42.39,117.89,2129.51,Completed,Q2,4,45-54,No Discount
+ORD-00569,10/18/2025,2025,October,Minnesota,MN,Backpack,Accessories,Retail Store,Consumer,Credit Card,30,3,58.52,0,0,175.56,124.68,50.88,28.98,0,81.63,14.26,93.93,Completed,Q4,10,25-34,No Discount
+ORD-00570,12/10/2025,2025,December,Wyoming,WY,Office Chair,Furniture,Online,Consumer,Bank Transfer,29,5,325.17,0,0,1625.85,1018.93,606.92,37.33,0,52.81,130.83,1573.04,Completed,Q4,12,25-34,No Discount
+ORD-00571,2/12/2024,2024,February,Georgia,GA,Smartphone,Electronics,Wholesale,Small Business,Credit Card,61,10,512.92,0,0,5129.2,3936.79,1192.41,23.25,0,73.24,304.58,5055.96,Completed,Q1,2,55-64,No Discount
+ORD-00572,7/11/2025,2025,July,Delaware,DE,Mouse,Accessories,Online,Consumer,Credit Card,26,11,85.4,20,187.88,751.52,706.3,45.22,6.02,0,14.69,33.27,736.83,Completed,Q3,7,25-34,Medium
+ORD-00573,11/1/2025,2025,November,Virginia,VA,Monitor,Electronics,Retail Store,Corporate,PayPal,46,10,213.72,0,0,2137.2,1234.05,903.15,42.26,0,53.2,96.95,2084,Completed,Q4,11,45-54,No Discount
+ORD-00574,4/13/2024,2024,April,Hawaii,HI,Keyboard,Accessories,Retail Store,Consumer,Credit Card,33,15,160.29,0,0,2404.35,1504.35,900,37.43,0,36.43,117.77,2367.92,Completed,Q2,4,25-34,No Discount
+ORD-00575,8/11/2025,2025,August,Florida,FL,Tablet,Electronics,Retail Store,Consumer,PayPal,54,8,471.14,0,0,3769.12,2291,1478.12,39.22,0,43.85,283.47,3725.27,Completed,Q3,8,45-54,No Discount
+ORD-00576,11/25/2024,2024,November,South Dakota,SD,Laptop,Electronics,Online,Corporate,Digital Wallet,46,6,2111.25,0,0,12667.5,9220.1,3447.4,27.21,0,57.75,830.15,12609.75,Completed,Q4,11,45-54,No Discount
+ORD-00577,8/26/2024,2024,August,Louisiana,LA,Printer,Electronics,Wholesale,Corporate,Credit Card,48,10,163.85,0,0,1638.5,965.38,673.12,41.08,0,20.97,68.64,1617.53,Completed,Q3,8,45-54,No Discount
+ORD-00578,8/23/2024,2024,August,Arizona,AZ,Monitor,Electronics,Online,Consumer,Bank Transfer,63,14,580.2,15,1218.42,6904.38,3842.07,3062.31,44.35,0,79.16,500.03,6825.22,Completed,Q3,8,55-64,Medium
+ORD-00579,10/9/2025,2025,October,Hawaii,HI,Printer,Electronics,Wholesale,Corporate,Credit Card,29,11,428.63,0,0,4714.93,3002.2,1712.73,36.33,0,8.16,283.61,4706.77,Completed,Q4,10,25-34,No Discount
+ORD-00580,9/5/2025,2025,September,Florida,FL,Mouse,Accessories,Wholesale,Corporate,Credit Card,75,1,20.61,0,0,20.61,11.43,9.18,44.53,0,44.84,1.14,-24.23,Completed,Q3,9,65+,No Discount
+ORD-00581,5/21/2024,2024,May,Florida,FL,Laptop,Electronics,Wholesale,Consumer,PayPal,60,14,1892.28,0,0,26491.92,18136.24,8355.68,31.54,0,68.25,1381.48,26423.67,Completed,Q2,5,55-64,No Discount
+ORD-00582,1/3/2024,2024,January,Delaware,DE,Printer,Electronics,Retail Store,Small Business,PayPal,32,1,277.18,10,27.72,249.46,212.17,37.29,14.95,0,36.98,21.87,212.48,Completed,Q1,1,25-34,Low
+ORD-00583,5/24/2025,2025,May,Louisiana,LA,Tablet,Electronics,Wholesale,Enterprise,Bank Transfer,28,15,519.31,0,0,7789.65,5052.03,2737.62,35.14,0,38.07,524.48,7751.58,Completed,Q2,5,25-34,No Discount
+ORD-00584,7/17/2025,2025,July,New Hampshire,NH,Keyboard,Accessories,Wholesale,Consumer,Credit Card,25,8,108.17,0,0,865.36,482.42,382.94,44.25,0,75.19,36.36,790.17,Completed,Q3,7,25-34,No Discount
+ORD-00585,6/24/2024,2024,June,Kansas,KS,Desk,Furniture,Marketplace,Small Business,Debit Card,64,6,575.51,15,517.96,2935.1,2214.49,720.61,24.55,0,77.93,168.13,2857.17,Completed,Q2,6,55-64,Medium
+ORD-00586,7/22/2025,2025,July,Alabama,AL,Backpack,Accessories,Online,Small Business,Bank Transfer,26,13,75.58,0,0,982.54,713.17,269.37,27.42,0,59.07,51.52,923.47,Completed,Q3,7,25-34,No Discount
+ORD-00587,10/3/2025,2025,October,South Dakota,SD,Bookshelf,Furniture,Wholesale,Consumer,Credit Card,26,11,369.79,0,0,4067.69,2834.06,1233.63,30.33,0,70.34,357.87,3997.35,Completed,Q4,10,25-34,No Discount
+ORD-00588,4/2/2026,2026,April,Illinois,IL,Headphones,Accessories,Retail Store,Consumer,Digital Wallet,28,4,139.71,0,0,558.84,400.63,158.21,28.31,0,55.89,35.05,502.95,Completed,Q2,4,25-34,No Discount
+ORD-00589,8/28/2025,2025,August,Idaho,ID,Smartphone,Electronics,Retail Store,Corporate,PayPal,49,9,1273.17,0,0,11458.53,5224.36,6234.17,54.41,0,11.27,852.64,11447.26,Completed,Q3,8,45-54,No Discount
+ORD-00590,7/27/2024,2024,July,Wisconsin,WI,Laptop,Electronics,Retail Store,Small Business,Debit Card,43,7,2108.83,0,0,14761.81,8900.96,5860.85,39.7,0,41.41,1000.79,14720.4,Completed,Q3,7,35-44,No Discount
+ORD-00591,6/20/2024,2024,June,Missouri,MO,Mouse,Accessories,Retail Store,Corporate,Debit Card,21,8,50.47,0,0,403.76,202.32,201.44,49.89,0,34.2,24.88,369.56,Completed,Q2,6,18-24,No Discount
+ORD-00592,12/27/2024,2024,December,Indiana,IN,Office Chair,Furniture,Wholesale,Consumer,Digital Wallet,36,10,496,10,496,4464,2781.33,1682.67,37.69,0,39.62,286.63,4424.38,Completed,Q4,12,35-44,Low
+ORD-00593,1/11/2024,2024,January,Mississippi,MS,Headphones,Accessories,Retail Store,Consumer,Credit Card,46,4,63.64,10,25.46,229.1,152.55,76.56,33.42,0,29.77,12.83,199.33,Completed,Q1,1,45-54,Low
+ORD-00594,1/12/2026,2026,January,Louisiana,LA,Desk,Furniture,Marketplace,Consumer,Credit Card,56,10,726.64,0,0,7266.4,4019.81,3246.59,44.68,0,58.13,482.51,7208.27,Completed,Q1,1,55-64,No Discount
+ORD-00595,9/22/2025,2025,September,Nevada,NV,Office Chair,Furniture,Online,Corporate,Credit Card,57,12,458.7,10,550.44,4953.96,2596.56,2357.4,47.59,0,50.75,422.94,4903.21,Completed,Q3,9,55-64,Low
+ORD-00596,3/10/2025,2025,March,Utah,UT,Desk,Furniture,Retail Store,Corporate,Credit Card,40,14,338.54,0,0,4739.56,3309.5,1430.06,30.17,0,49.33,314.5,4690.23,Completed,Q1,3,35-44,No Discount
+ORD-00597,8/21/2024,2024,August,New York,NY,Desk,Furniture,Marketplace,Consumer,Digital Wallet,52,10,599.66,15,899.49,5097.11,2960.82,2136.29,41.91,0,26.19,441.82,5070.92,Completed,Q3,8,45-54,Medium
+ORD-00598,4/5/2024,2024,April,Iowa,IA,Headphones,Accessories,Online,Corporate,PayPal,32,1,240.19,0,0,240.19,130.32,109.87,45.74,0,51.75,15.71,188.44,Completed,Q2,4,25-34,No Discount
+ORD-00599,8/7/2025,2025,August,Colorado,CO,Printer,Electronics,Retail Store,Small Business,Debit Card,75,7,359.1,0,0,2513.7,1638.02,875.68,34.84,0,15.56,195.6,2498.14,Completed,Q3,8,65+,No Discount
+ORD-00600,3/16/2024,2024,March,Mississippi,MS,Backpack,Accessories,Online,Small Business,Debit Card,61,13,43.12,20,112.11,448.45,394.77,53.68,11.97,0,45.12,23.18,403.33,Completed,Q1,3,55-64,Medium
+ORD-00601,12/14/2024,2024,December,Vermont,VT,Backpack,Accessories,Retail Store,Corporate,Debit Card,65,9,52.85,0,0,475.65,309.02,166.63,35.03,0,43.91,31.03,431.74,Completed,Q4,12,65+,No Discount
+ORD-00602,5/17/2025,2025,May,Rhode Island,RI,Monitor,Electronics,Online,Consumer,Debit Card,47,3,304.59,0,0,913.77,452.06,461.71,50.53,0,14.01,79.22,899.76,Completed,Q2,5,45-54,No Discount
+ORD-00603,1/4/2026,2026,January,California,CA,Bookshelf,Furniture,Retail Store,Consumer,Bank Transfer,22,9,231.46,15,312.47,1770.67,986.4,784.27,44.29,0,67.53,79.99,1703.14,Completed,Q1,1,18-24,Medium
+ORD-00604,11/22/2024,2024,November,Kentucky,KY,Printer,Electronics,Marketplace,Enterprise,Credit Card,73,13,169.99,20,441.97,1767.9,1180.53,587.36,33.22,0,48.71,121.05,1719.19,Completed,Q4,11,65+,Medium
+ORD-00605,7/26/2024,2024,July,Louisiana,LA,Backpack,Accessories,Online,Small Business,Credit Card,41,12,145.39,0,0,1744.68,1138.14,606.54,34.77,0,57.95,107.65,1686.73,Completed,Q3,7,35-44,No Discount
+ORD-00606,12/21/2024,2024,December,Indiana,IN,Bookshelf,Furniture,Retail Store,Consumer,Credit Card,63,15,297.25,0,0,4458.75,2255.29,2203.46,49.42,0,40.22,364.1,4418.53,Completed,Q4,12,55-64,No Discount
+ORD-00607,3/14/2024,2024,March,Michigan,MI,Backpack,Accessories,Retail Store,Consumer,Digital Wallet,73,5,157.79,0,0,788.95,421.75,367.2,46.54,0,58.6,31.57,730.35,Completed,Q1,3,65+,No Discount
+ORD-00608,3/15/2026,2026,March,New Mexico,NM,Desk,Furniture,Online,Consumer,Debit Card,34,5,382.35,0,0,1911.75,938.06,973.69,50.93,0,7.38,83.33,1904.37,Completed,Q1,3,25-34,No Discount
+ORD-00609,2/29/2024,2024,February,New Jersey,NJ,Office Chair,Furniture,Wholesale,Enterprise,PayPal,25,13,141.7,0,0,1842.1,1207.39,634.71,34.46,0,45.33,123.87,1796.77,Completed,Q1,2,25-34,No Discount
+ORD-00610,7/30/2025,2025,July,Wisconsin,WI,Headphones,Accessories,Online,Enterprise,Debit Card,19,1,56.71,0,0,56.71,43.83,12.88,22.72,0,44,3.3,12.71,Completed,Q3,7,18-24,No Discount
+ORD-00611,5/24/2024,2024,May,Florida,FL,Headphones,Accessories,Retail Store,Consumer,Bank Transfer,59,4,50.55,0,0,202.2,138.63,63.57,31.44,0,37.19,9.62,165.01,Completed,Q2,5,55-64,No Discount
+ORD-00612,4/27/2026,2026,April,Iowa,IA,Laptop,Electronics,Online,Consumer,PayPal,45,14,2164.41,0,0,30301.74,16842.98,13458.76,44.42,0,23.61,2132.78,30278.13,Completed,Q2,4,45-54,No Discount
+ORD-00613,6/22/2025,2025,June,Iowa,IA,Monitor,Electronics,Wholesale,Corporate,Credit Card,27,15,225.99,0,0,3389.85,2489.29,900.56,26.57,0,46.48,195.31,3343.37,Completed,Q2,6,25-34,No Discount
+ORD-00614,2/10/2026,2026,February,Kansas,KS,Bookshelf,Furniture,Online,Corporate,Debit Card,55,4,382.65,10,153.06,1377.54,865.45,512.09,37.17,0,15.25,63.57,1362.29,Completed,Q1,2,55-64,Low
+ORD-00615,7/8/2025,2025,July,Michigan,MI,Office Chair,Furniture,Wholesale,Corporate,PayPal,73,5,125.81,0,0,629.05,440.93,188.12,29.9,1,62.34,47.37,566.71,Returned,Q3,7,65+,No Discount
+ORD-00616,3/3/2025,2025,March,Nevada,NV,Laptop,Electronics,Retail Store,Small Business,Debit Card,25,13,1385.17,15,2701.08,15306.13,11161.61,4144.52,27.08,0,60.53,1009.56,15245.6,Completed,Q1,3,25-34,Medium
+ORD-00617,7/23/2024,2024,July,Texas,TX,Mouse,Accessories,Online,Consumer,Debit Card,19,3,57.29,5,8.59,163.28,116.13,47.15,28.88,0,67.24,13.4,96.04,Completed,Q3,7,18-24,Low
+ORD-00618,7/21/2024,2024,July,Wyoming,WY,Smartphone,Electronics,Online,Small Business,Credit Card,60,7,816.03,5,285.61,5426.6,2617.05,2809.55,51.77,0,47.93,292.55,5378.67,Completed,Q3,7,55-64,Low
+ORD-00619,4/28/2026,2026,April,Kansas,KS,Monitor,Electronics,Marketplace,Corporate,Credit Card,20,15,210.83,0,0,3162.45,1912.6,1249.85,39.52,0,51.81,207.64,3110.64,Completed,Q2,4,18-24,No Discount
+ORD-00620,7/22/2025,2025,July,Mississippi,MS,Bookshelf,Furniture,Retail Store,Corporate,Debit Card,49,5,168.79,0,0,843.95,571.36,272.59,32.3,0,28.91,41.9,815.04,Completed,Q3,7,45-54,No Discount
+ORD-00621,4/16/2026,2026,April,Georgia,GA,Headphones,Accessories,Online,Corporate,Credit Card,52,15,184.12,0,0,2761.8,1525.01,1236.79,44.78,0,58.26,150,2703.54,Completed,Q2,4,45-54,No Discount
+ORD-00622,5/6/2025,2025,May,New Mexico,NM,Backpack,Accessories,Marketplace,Corporate,Bank Transfer,39,4,30.71,0,0,122.84,81.19,41.65,33.9,0,15.74,8.87,107.1,Completed,Q2,5,35-44,No Discount
+ORD-00623,4/15/2025,2025,April,West Virginia,WV,Monitor,Electronics,Retail Store,Consumer,PayPal,72,5,234.65,15,175.99,997.26,705.54,291.72,29.25,0,44.78,44.58,952.48,Completed,Q2,4,65+,Medium
+ORD-00624,1/25/2026,2026,January,Arizona,AZ,Laptop,Electronics,Online,Consumer,Debit Card,68,9,1377.46,0,0,12397.14,9266.58,3130.56,25.25,0,74.48,1013.11,12322.66,Completed,Q1,1,65+,No Discount
+ORD-00625,2/20/2025,2025,February,Pennsylvania,PA,Bookshelf,Furniture,Online,Consumer,Credit Card,67,14,96.21,5,67.35,1279.59,985.66,293.93,22.97,0,48.53,51.7,1231.06,Completed,Q1,2,65+,Low
+ORD-00626,2/15/2025,2025,February,North Dakota,ND,Laptop,Electronics,Online,Small Business,Credit Card,40,8,2041.03,20,3265.65,13062.59,10576.81,2485.79,19.03,0,13.75,781.99,13048.84,Completed,Q1,2,35-44,Medium
+ORD-00627,8/30/2025,2025,August,New Jersey,NJ,Tablet,Electronics,Online,Consumer,Bank Transfer,75,8,388.35,0,0,3106.8,1917.19,1189.61,38.29,0,27.1,247.36,3079.7,Completed,Q3,8,65+,No Discount
+ORD-00628,2/10/2026,2026,February,Montana,MT,Laptop,Electronics,Online,Small Business,PayPal,59,5,1141.71,0,0,5708.55,4380.33,1328.22,23.27,0,44.06,324.74,5664.49,Completed,Q1,2,55-64,No Discount
+ORD-00629,1/15/2026,2026,January,Idaho,ID,Laptop,Electronics,Wholesale,Consumer,PayPal,19,8,1755.13,15,2106.16,11934.88,9976.09,1958.79,16.41,0,26.92,982.22,11907.96,Completed,Q1,1,18-24,Medium
+ORD-00630,10/20/2025,2025,October,Connecticut,CT,Office Chair,Furniture,Marketplace,Consumer,Debit Card,19,5,331.71,10,165.86,1492.7,938.44,554.25,37.13,0,36.49,74.03,1456.21,Completed,Q4,10,18-24,Low
+ORD-00631,5/4/2025,2025,May,Maine,ME,Printer,Electronics,Wholesale,Enterprise,Debit Card,25,4,210.6,10,84.24,758.16,574.77,183.39,24.19,0,37.71,55.42,720.45,Completed,Q2,5,25-34,Low
+ORD-00632,5/7/2025,2025,May,Kentucky,KY,Office Chair,Furniture,Wholesale,Corporate,Credit Card,28,8,366.66,0,0,2933.28,1930.63,1002.65,34.18,0,28.41,174.91,2904.87,Completed,Q2,5,25-34,No Discount
+ORD-00633,6/27/2025,2025,June,Mississippi,MS,Headphones,Accessories,Online,Small Business,Credit Card,60,8,287.36,0,0,2298.88,1600.67,698.21,30.37,0,18.49,158.71,2280.39,Completed,Q2,6,55-64,No Discount
+ORD-00634,3/11/2025,2025,March,Kansas,KS,Backpack,Accessories,Wholesale,Consumer,PayPal,18,11,117.88,0,0,1296.68,872.4,424.28,32.72,0,63.45,85.7,1233.23,Completed,Q1,3,18-24,No Discount
+ORD-00635,3/19/2026,2026,March,Idaho,ID,Desk,Furniture,Marketplace,Small Business,Bank Transfer,36,3,247.01,10,74.1,666.93,425,241.93,36.28,0,63.79,36.83,603.14,Completed,Q1,3,35-44,Low
+ORD-00636,6/3/2026,2026,June,Louisiana,LA,Smartphone,Electronics,Online,Enterprise,Bank Transfer,42,15,1340.02,5,1005.02,19095.28,11276.84,7818.44,40.94,0,30.05,934.56,19065.23,Completed,Q2,6,35-44,Low
+ORD-00637,10/23/2025,2025,October,New York,NY,Desk,Furniture,Online,Corporate,Credit Card,74,11,604.32,0,0,6647.52,4880.22,1767.3,26.59,0,17.58,495.45,6629.94,Completed,Q4,10,65+,No Discount
+ORD-00638,3/15/2025,2025,March,Michigan,MI,Smartphone,Electronics,Marketplace,Corporate,Digital Wallet,56,4,1238.2,0,0,4952.8,3090.62,1862.18,37.6,0,72.03,416.72,4880.77,Completed,Q1,3,55-64,No Discount
+ORD-00639,8/24/2024,2024,August,New Jersey,NJ,Smartphone,Electronics,Online,Corporate,Bank Transfer,53,9,1473.07,0,0,13257.63,7115.22,6142.41,46.33,0,60.13,871.4,13197.5,Completed,Q3,8,45-54,No Discount
+ORD-00640,9/14/2024,2024,September,Wisconsin,WI,Keyboard,Accessories,Wholesale,Consumer,Bank Transfer,24,8,113.24,10,90.59,815.33,632.87,182.46,22.38,0,58.55,52.06,756.78,Completed,Q3,9,18-24,Low
+ORD-00641,5/25/2025,2025,May,Minnesota,MN,Headphones,Accessories,Wholesale,Corporate,Debit Card,63,5,112.13,5,28.03,532.62,413.43,119.18,22.38,0,66.58,36.25,466.04,Completed,Q2,5,55-64,Low
+ORD-00642,7/28/2024,2024,July,Delaware,DE,Backpack,Accessories,Retail Store,Corporate,Bank Transfer,20,13,155.41,0,0,2020.33,1528.86,491.47,24.33,0,51.37,136.93,1968.96,Completed,Q3,7,18-24,No Discount
+ORD-00643,4/29/2026,2026,April,New Hampshire,NH,Bookshelf,Furniture,Wholesale,Consumer,Credit Card,60,10,349.73,10,349.73,3147.57,1737.12,1410.45,44.81,0,51.59,145.87,3095.98,Completed,Q2,4,55-64,Low
+ORD-00644,12/20/2025,2025,December,Vermont,VT,Mouse,Accessories,Online,Consumer,Digital Wallet,47,11,93.83,5,51.61,980.52,701.12,279.4,28.5,0,32.22,39.54,948.3,Completed,Q4,12,45-54,Low
+ORD-00645,2/22/2024,2024,February,Maine,ME,Keyboard,Accessories,Online,Corporate,Credit Card,67,15,115.19,20,345.57,1382.28,904.83,477.45,34.54,0,39.07,123.4,1343.21,Completed,Q1,2,65+,Medium
+ORD-00646,10/22/2024,2024,October,Maine,ME,Laptop,Electronics,Online,Corporate,Digital Wallet,25,7,971.22,0,0,6798.54,5154.07,1644.47,24.19,0,47.2,319.91,6751.34,Completed,Q4,10,25-34,No Discount
+ORD-00647,6/16/2026,2026,June,Florida,FL,Mouse,Accessories,Online,Corporate,Digital Wallet,68,12,36.91,5,22.15,420.77,223.07,197.71,46.99,0,15.68,33.79,405.09,Completed,Q2,6,65+,Low
+ORD-00648,3/25/2025,2025,March,New York,NY,Smartphone,Electronics,Online,Small Business,Credit Card,63,9,1145.49,0,0,10309.41,7413.16,2896.25,28.09,0,46.55,703.63,10262.86,Completed,Q1,3,55-64,No Discount
+ORD-00649,3/20/2025,2025,March,Michigan,MI,Keyboard,Accessories,Retail Store,Corporate,Credit Card,72,13,37.55,0,0,488.15,334.58,153.57,31.46,0,54.98,26.42,433.17,Completed,Q1,3,65+,No Discount
+ORD-00650,4/9/2026,2026,April,Illinois,IL,Bookshelf,Furniture,Retail Store,Small Business,Credit Card,19,3,376.36,0,0,1129.08,635.16,493.92,43.75,0,76.78,74.42,1052.3,Completed,Q2,4,18-24,No Discount
+ORD-00651,8/15/2024,2024,August,Colorado,CO,Headphones,Accessories,Marketplace,Consumer,Digital Wallet,50,3,167.2,15,75.24,426.36,308.53,117.83,27.64,0,36.36,22.67,390,Completed,Q3,8,45-54,Medium
+ORD-00652,5/29/2025,2025,May,Arkansas,AR,Mouse,Accessories,Marketplace,Consumer,Credit Card,30,9,104.86,0,0,943.74,506.74,437,46.31,0,14.84,84.29,928.9,Completed,Q2,5,25-34,No Discount
+ORD-00653,11/20/2024,2024,November,Washington,WA,Tablet,Electronics,Online,Small Business,Bank Transfer,48,3,417.02,0,0,1251.06,734.4,516.66,41.3,0,43.5,78.79,1207.56,Completed,Q4,11,45-54,No Discount
+ORD-00654,6/10/2026,2026,June,Oregon,OR,Backpack,Accessories,Retail Store,Corporate,Credit Card,52,2,112.03,0,0,224.06,131.28,92.78,41.41,0,41.13,18.56,182.93,Completed,Q2,6,45-54,No Discount
+ORD-00655,4/30/2024,2024,April,Hawaii,HI,Tablet,Electronics,Retail Store,Consumer,Credit Card,34,6,778.85,15,700.96,3972.14,2346.99,1625.14,40.91,0,53.46,296.29,3918.68,Completed,Q2,4,25-34,Medium
+ORD-00656,11/13/2024,2024,November,Indiana,IN,Keyboard,Accessories,Online,Small Business,Credit Card,47,13,130.44,5,84.79,1610.93,1228.74,382.19,23.72,0,14.48,65.54,1596.45,Completed,Q4,11,45-54,Low
+ORD-00657,6/21/2026,2026,June,Tennessee,TN,Keyboard,Accessories,Wholesale,Consumer,Debit Card,73,7,90.27,0,0,631.89,312.79,319.1,50.5,0,9.43,31.54,622.46,Completed,Q2,6,65+,No Discount
+ORD-00658,10/7/2025,2025,October,Utah,UT,Keyboard,Accessories,Online,Consumer,Debit Card,19,9,177.59,0,0,1598.31,1161.87,436.44,27.31,0,80.21,135.22,1518.1,Completed,Q4,10,18-24,No Discount
+ORD-00659,1/2/2025,2025,January,Iowa,IA,Smartphone,Electronics,Retail Store,Corporate,Credit Card,32,11,506.75,0,0,5574.25,3451.31,2122.94,38.08,0,44.53,426.95,5529.72,Completed,Q1,1,25-34,No Discount
+ORD-00660,5/28/2026,2026,May,Texas,TX,Smartphone,Electronics,Retail Store,Corporate,Bank Transfer,32,3,739,0,0,2217,1356.59,860.41,38.81,0,61.48,143.05,2155.52,Completed,Q2,5,25-34,No Discount
+ORD-00661,6/11/2024,2024,June,Massachusetts,MA,Printer,Electronics,Retail Store,Consumer,Credit Card,33,12,425.19,0,0,5102.28,2817.25,2285.03,44.78,0,69.89,226.43,5032.39,Completed,Q2,6,25-34,No Discount
+ORD-00662,2/7/2024,2024,February,Texas,TX,Headphones,Accessories,Wholesale,Corporate,PayPal,29,9,198.35,5,89.26,1695.89,874.75,821.14,48.42,0,37.88,122.77,1658.01,Completed,Q1,2,25-34,Low
+ORD-00663,6/5/2026,2026,June,New Mexico,NM,Desk,Furniture,Marketplace,Consumer,Bank Transfer,32,15,672.19,0,0,10082.85,4853.23,5229.62,51.87,0,30.93,896.07,10051.92,Completed,Q2,6,25-34,No Discount
+ORD-00664,3/14/2025,2025,March,Colorado,CO,Laptop,Electronics,Online,Consumer,Digital Wallet,61,8,2055.5,0,0,16444,10878.23,5565.77,33.85,0,18.11,971.35,16425.89,Completed,Q1,3,55-64,No Discount
+ORD-00665,5/8/2025,2025,May,Vermont,VT,Tablet,Electronics,Wholesale,Corporate,Debit Card,45,10,361.41,5,180.7,3433.4,1694.48,1738.91,50.65,0,47.38,252.24,3386.02,Completed,Q2,5,45-54,Low
+ORD-00666,1/31/2026,2026,January,Connecticut,CT,Backpack,Accessories,Wholesale,Corporate,Credit Card,54,13,157.65,0,0,2049.45,939.94,1109.51,54.14,0,53.33,177.87,1996.12,Completed,Q1,1,45-54,No Discount
+ORD-00667,10/31/2025,2025,October,Nebraska,NE,Monitor,Electronics,Online,Consumer,Digital Wallet,44,9,345.45,10,310.9,2798.14,2149.79,648.35,23.17,0,21.03,141.45,2777.11,Completed,Q4,10,35-44,Low
+ORD-00668,6/27/2025,2025,June,Nebraska,NE,Headphones,Accessories,Retail Store,Small Business,Bank Transfer,67,6,157.85,5,47.36,899.74,469.01,430.74,47.87,0,78.06,63.37,821.68,Completed,Q2,6,65+,Low
+ORD-00669,4/26/2025,2025,April,South Dakota,SD,Smartphone,Electronics,Retail Store,Consumer,Credit Card,73,9,1190.57,10,1071.51,9643.62,7252.04,2391.58,24.8,0,78.81,659.85,9564.81,Completed,Q2,4,65+,Low
+ORD-00670,5/28/2025,2025,May,West Virginia,WV,Printer,Electronics,Wholesale,Consumer,Bank Transfer,71,13,290.3,0,0,3773.9,2348.5,1425.4,37.77,0,29.04,302.53,3744.86,Completed,Q2,5,65+,No Discount
+ORD-00671,1/21/2024,2024,January,Georgia,GA,Tablet,Electronics,Online,Consumer,Credit Card,23,9,632.95,0,0,5696.55,3326.83,2369.72,41.6,0,23.21,377.24,5673.34,Completed,Q1,1,18-24,No Discount
+ORD-00672,4/10/2025,2025,April,Hawaii,HI,Tablet,Electronics,Online,Small Business,Bank Transfer,75,3,803.15,0,0,2409.45,1764.17,645.28,26.78,0,82.84,214.41,2326.61,Completed,Q2,4,65+,No Discount
+ORD-00673,2/21/2026,2026,February,Wyoming,WY,Mouse,Accessories,Online,Small Business,Bank Transfer,29,1,43.5,15,6.52,36.98,21.57,15.41,41.68,0,19.05,3.25,17.93,Completed,Q1,2,25-34,Medium
+ORD-00674,1/1/2024,2024,January,Illinois,IL,Tablet,Electronics,Online,Consumer,PayPal,58,7,463.05,5,162.07,3079.28,1733.63,1345.65,43.7,0,18.58,271.85,3060.7,Completed,Q1,1,55-64,Low
+ORD-00675,2/13/2026,2026,February,Alaska,AK,Backpack,Accessories,Online,Corporate,PayPal,32,2,86.63,10,17.33,155.93,81.92,74.01,47.46,0,27.6,10.57,128.33,Completed,Q1,2,25-34,Low
+ORD-00676,4/2/2024,2024,April,Georgia,GA,Mouse,Accessories,Marketplace,Consumer,Bank Transfer,21,9,92.57,5,41.66,791.47,556.56,234.91,29.68,0,63.37,33.72,728.1,Completed,Q2,4,18-24,Low
+ORD-00677,2/4/2026,2026,February,Michigan,MI,Printer,Electronics,Retail Store,Consumer,Credit Card,31,10,467.11,0,0,4671.1,2781.4,1889.7,40.46,0,70.3,417.66,4600.8,Completed,Q1,2,25-34,No Discount
+ORD-00678,1/16/2026,2026,January,Missouri,MO,Headphones,Accessories,Wholesale,Corporate,Credit Card,63,2,168.66,5,16.87,320.45,228.02,92.43,28.84,0,67.92,13.11,252.53,Completed,Q1,1,55-64,Low
+ORD-00679,1/19/2024,2024,January,Michigan,MI,Printer,Electronics,Wholesale,Consumer,Bank Transfer,62,2,346.08,20,138.43,553.73,466.6,87.13,15.73,2,27.66,22.16,526.07,Returned,Q1,1,55-64,Medium
+ORD-00680,3/1/2024,2024,March,Montana,MT,Keyboard,Accessories,Online,Corporate,PayPal,39,14,111.98,0,0,1567.72,1058.03,509.69,32.51,0,36.7,138.26,1531.02,Completed,Q1,3,35-44,No Discount
+ORD-00681,7/26/2024,2024,July,Nebraska,NE,Mouse,Accessories,Online,Small Business,PayPal,68,1,54.26,10,5.43,48.83,26.47,22.37,45.8,0,67.5,2.85,-18.67,Completed,Q3,7,65+,Low
+ORD-00682,5/21/2026,2026,May,Wyoming,WY,Printer,Electronics,Marketplace,Consumer,PayPal,48,2,309.83,0,0,619.66,361.11,258.55,41.72,0,82.02,28.71,537.64,Completed,Q2,5,45-54,No Discount
+ORD-00683,8/15/2025,2025,August,Wisconsin,WI,Keyboard,Accessories,Online,Consumer,Credit Card,72,3,131.26,20,78.76,315.02,257.68,57.34,18.2,0,20.91,16.39,294.11,Completed,Q3,8,65+,Medium
+ORD-00684,1/8/2024,2024,January,Colorado,CO,Laptop,Electronics,Online,Consumer,Credit Card,34,9,2028.79,0,0,18259.11,9565.22,8693.89,47.61,0,84.28,1208.33,18174.83,Completed,Q1,1,25-34,No Discount
+ORD-00685,4/17/2026,2026,April,Georgia,GA,Tablet,Electronics,Retail Store,Consumer,Credit Card,52,8,495.57,5,198.23,3766.33,2162.91,1603.42,42.57,0,10.27,186.68,3756.06,Completed,Q2,4,45-54,Low
+ORD-00686,6/13/2024,2024,June,North Carolina,NC,Smartphone,Electronics,Online,Corporate,Credit Card,46,15,583.39,0,0,8750.85,6464.52,2286.33,26.13,0,83.48,755.44,8667.37,Completed,Q2,6,45-54,No Discount
+ORD-00687,3/26/2026,2026,March,Idaho,ID,Laptop,Electronics,Retail Store,Corporate,Credit Card,43,10,1283.64,15,1925.46,10910.94,9183.42,1727.52,15.83,0,24.94,622.94,10886,Completed,Q1,3,35-44,Medium
+ORD-00688,8/21/2024,2024,August,Ohio,OH,Keyboard,Accessories,Marketplace,Small Business,Debit Card,22,8,25.7,0,0,205.6,146.59,59.01,28.7,0,12.75,13.86,192.85,Completed,Q3,8,18-24,No Discount
+ORD-00689,2/24/2026,2026,February,Arkansas,AR,Desk,Furniture,Online,Consumer,PayPal,69,14,596.34,0,0,8348.76,5601.23,2747.53,32.91,0,52.27,715.16,8296.49,Completed,Q1,2,65+,No Discount
+ORD-00690,2/15/2025,2025,February,Minnesota,MN,Tablet,Electronics,Marketplace,Consumer,PayPal,48,10,518.35,0,0,5183.5,2641.61,2541.89,49.04,0,31.21,261.81,5152.29,Completed,Q1,2,45-54,No Discount
+ORD-00691,7/29/2024,2024,July,Idaho,ID,Tablet,Electronics,Online,Corporate,Debit Card,53,7,647.47,0,0,4532.29,3259.22,1273.07,28.09,0,15.7,382,4516.59,Completed,Q3,7,45-54,No Discount
+ORD-00692,12/23/2025,2025,December,West Virginia,WV,Mouse,Accessories,Online,Consumer,PayPal,29,8,33.83,20,54.13,216.51,199.81,16.71,7.72,0,52.02,17.83,164.49,Completed,Q4,12,25-34,Medium
+ORD-00693,9/11/2024,2024,September,Tennessee,TN,Tablet,Electronics,Retail Store,Corporate,Bank Transfer,58,5,310.64,10,155.32,1397.88,1130.22,267.66,19.15,0,56.55,57.9,1341.33,Completed,Q3,9,55-64,Low
+ORD-00694,9/9/2025,2025,September,Vermont,VT,Bookshelf,Furniture,Online,Small Business,Credit Card,35,12,102.5,10,123,1107,956.62,150.38,13.58,0,68.49,78.4,1038.51,Completed,Q3,9,35-44,Low
+ORD-00695,5/25/2024,2024,May,Montana,MT,Mouse,Accessories,Marketplace,Enterprise,Debit Card,63,10,23.26,15,34.89,197.71,142.66,55.05,27.84,0,60.7,9.95,137.01,Completed,Q2,5,55-64,Medium
+ORD-00696,12/4/2024,2024,December,Oregon,OR,Office Chair,Furniture,Wholesale,Small Business,Debit Card,21,15,508.56,10,762.84,6865.56,4992.15,1873.41,27.29,0,39.54,544.37,6826.02,Completed,Q4,12,18-24,Low
+ORD-00697,4/3/2025,2025,April,Delaware,DE,Headphones,Accessories,Online,Corporate,PayPal,61,13,82.54,0,0,1073.02,648.49,424.53,39.56,0,65.24,86.44,1007.78,Completed,Q2,4,55-64,No Discount
+ORD-00698,2/21/2025,2025,February,Delaware,DE,Bookshelf,Furniture,Retail Store,Small Business,Credit Card,42,1,354.26,0,0,354.26,196.51,157.75,44.53,0,47.47,15.09,306.79,Completed,Q1,2,35-44,No Discount
+ORD-00699,2/3/2025,2025,February,Mississippi,MS,Keyboard,Accessories,Online,Corporate,Debit Card,48,6,143.36,20,172.03,688.13,632.03,56.1,8.15,0,10.03,43.9,678.1,Completed,Q1,2,45-54,Medium
+ORD-00700,12/19/2025,2025,December,New Jersey,NJ,Keyboard,Accessories,Retail Store,Corporate,Credit Card,29,8,67.99,5,27.2,516.72,320.77,195.96,37.92,0,18.65,37.8,498.07,Completed,Q4,12,25-34,Low
+ORD-00701,1/22/2024,2024,January,Wisconsin,WI,Tablet,Electronics,Marketplace,Consumer,PayPal,53,7,308.63,10,216.04,1944.37,1663.42,280.95,14.45,0,19.05,84.05,1925.32,Completed,Q1,1,45-54,Low
+ORD-00702,8/8/2024,2024,August,Pennsylvania,PA,Headphones,Accessories,Marketplace,Enterprise,Debit Card,35,13,282.2,10,366.86,3301.74,2082.3,1219.44,36.93,0,73.06,202.06,3228.68,Completed,Q3,8,35-44,Low
+ORD-00703,7/3/2025,2025,July,Minnesota,MN,Tablet,Electronics,Retail Store,Consumer,Digital Wallet,20,11,752.07,0,0,8272.77,3853.67,4419.1,53.42,0,50.65,645.57,8222.12,Completed,Q3,7,18-24,No Discount
+ORD-00704,10/15/2025,2025,October,New York,NY,Office Chair,Furniture,Retail Store,Enterprise,Debit Card,28,8,456.83,0,0,3654.64,2833.56,821.08,22.47,0,15.43,182.56,3639.21,Completed,Q4,10,25-34,No Discount
+ORD-00705,2/1/2024,2024,February,Delaware,DE,Keyboard,Accessories,Marketplace,Consumer,Debit Card,59,11,28.43,5,15.64,297.09,148.14,148.95,50.14,0,9.24,19.95,287.85,Completed,Q1,2,55-64,Low
+ORD-00706,5/21/2024,2024,May,Utah,UT,Laptop,Electronics,Marketplace,Consumer,Bank Transfer,75,8,1775.57,5,710.23,13494.33,9817.14,3677.19,27.25,0,77.95,1038.35,13416.38,Completed,Q2,5,65+,Low
+ORD-00707,8/31/2025,2025,August,Ohio,OH,Headphones,Accessories,Online,Small Business,PayPal,33,6,237.31,10,142.39,1281.47,1108.55,172.93,13.49,0,39.94,84.59,1241.53,Completed,Q3,8,25-34,Low
+ORD-00708,10/26/2024,2024,October,Colorado,CO,Bookshelf,Furniture,Online,Corporate,Credit Card,62,13,360.71,5,234.46,4454.77,2918.81,1535.96,34.48,0,17.45,265.49,4437.32,Completed,Q4,10,55-64,Low
+ORD-00709,6/4/2025,2025,June,Illinois,IL,Tablet,Electronics,Retail Store,Consumer,Credit Card,57,8,338.88,0,0,2711.04,1427.15,1283.89,47.36,0,69.82,126.75,2641.22,Completed,Q2,6,55-64,No Discount
+ORD-00710,9/13/2024,2024,September,New Hampshire,NH,Backpack,Accessories,Marketplace,Enterprise,Debit Card,23,9,52.12,15,70.36,398.72,296.86,101.85,25.55,0,79.16,29.21,319.56,Completed,Q3,9,18-24,Medium
+ORD-00711,1/7/2025,2025,January,New Hampshire,NH,Laptop,Electronics,Online,Enterprise,Digital Wallet,35,11,2049.3,10,2254.23,20288.07,15262.27,5025.8,24.77,0,25.18,1781.21,20262.89,Completed,Q1,1,35-44,Low
+ORD-00712,6/10/2025,2025,June,Ohio,OH,Printer,Electronics,Marketplace,Corporate,Debit Card,38,6,179.57,0,0,1077.42,658.2,419.22,38.91,0,47.39,64.2,1030.03,Completed,Q2,6,35-44,No Discount
+ORD-00713,10/16/2025,2025,October,South Carolina,SC,Keyboard,Accessories,Online,Corporate,Bank Transfer,37,15,108.91,0,0,1633.65,888.98,744.67,45.58,0,63.73,119.39,1569.92,Completed,Q4,10,35-44,No Discount
+ORD-00714,3/8/2026,2026,March,California,CA,Desk,Furniture,Marketplace,Corporate,Credit Card,66,15,645.04,0,0,9675.6,5593.27,4082.33,42.19,0,78.17,431.07,9597.43,Completed,Q1,3,65+,No Discount
+ORD-00715,4/8/2025,2025,April,Massachusetts,MA,Mouse,Accessories,Online,Corporate,Bank Transfer,70,5,101.96,0,0,509.8,391.82,117.98,23.14,0,68.36,27.85,441.44,Completed,Q2,4,65+,No Discount
+ORD-00716,7/15/2024,2024,July,Tennessee,TN,Printer,Electronics,Online,Consumer,Digital Wallet,35,14,288.72,0,0,4042.08,2177.19,1864.89,46.14,0,10.59,298.63,4031.49,Completed,Q3,7,35-44,No Discount
+ORD-00717,1/27/2025,2025,January,Utah,UT,Office Chair,Furniture,Online,Consumer,Bank Transfer,64,15,500.56,0,0,7508.4,4544.14,2964.26,39.48,0,66.02,492.96,7442.38,Completed,Q1,1,55-64,No Discount
+ORD-00718,2/15/2025,2025,February,Arizona,AZ,Monitor,Electronics,Online,Consumer,Digital Wallet,70,11,527.95,15,871.12,4936.33,2740.39,2195.94,44.49,0,37.22,197.79,4899.11,Completed,Q1,2,65+,Medium
+ORD-00719,3/1/2026,2026,March,New Mexico,NM,Mouse,Accessories,Wholesale,Small Business,Debit Card,18,11,81.22,0,0,893.42,590.8,302.62,33.87,0,38.45,76.43,854.97,Completed,Q1,3,18-24,No Discount
+ORD-00720,5/26/2024,2024,May,Alaska,AK,Mouse,Accessories,Online,Enterprise,Digital Wallet,35,15,25.26,5,18.95,359.96,183.29,176.67,49.08,0,51.59,32.15,308.37,Completed,Q2,5,35-44,Low
+ORD-00721,4/7/2026,2026,April,North Dakota,ND,Keyboard,Accessories,Online,Corporate,Debit Card,27,13,62.21,0,0,808.73,473.15,335.58,41.49,0,69.72,64.71,739.01,Completed,Q2,4,25-34,No Discount
+ORD-00722,4/20/2024,2024,April,Nebraska,NE,Backpack,Accessories,Online,Consumer,Debit Card,29,9,101.06,0,0,909.54,544.1,365.44,40.18,0,12.29,69.06,897.25,Completed,Q2,4,25-34,No Discount
+ORD-00723,2/13/2024,2024,February,Massachusetts,MA,Backpack,Accessories,Retail Store,Consumer,PayPal,36,13,78.29,0,0,1017.77,759.26,258.51,25.4,0,81.27,65.4,936.5,Completed,Q1,2,35-44,No Discount
+ORD-00724,7/5/2024,2024,July,Colorado,CO,Monitor,Electronics,Marketplace,Enterprise,Digital Wallet,21,13,186.15,0,0,2419.95,1290.4,1129.55,46.68,0,80.77,113.25,2339.18,Completed,Q3,7,18-24,No Discount
+ORD-00725,5/14/2024,2024,May,Alaska,AK,Monitor,Electronics,Online,Corporate,PayPal,71,3,249.75,0,0,749.25,339.45,409.8,54.7,0,19.1,52.68,730.15,Completed,Q2,5,65+,No Discount
+ORD-00726,4/11/2025,2025,April,Wyoming,WY,Tablet,Electronics,Online,Consumer,Credit Card,43,12,372.24,0,0,4466.88,3175.65,1291.23,28.91,0,28.45,180,4438.43,Completed,Q2,4,35-44,No Discount
+ORD-00727,1/17/2026,2026,January,Arizona,AZ,Bookshelf,Furniture,Marketplace,Consumer,Debit Card,32,6,198.45,0,0,1190.7,629.04,561.66,47.17,0,45.35,91.92,1145.35,Completed,Q1,1,25-34,No Discount
+ORD-00728,2/27/2025,2025,February,Michigan,MI,Backpack,Accessories,Retail Store,Corporate,PayPal,42,3,138.28,15,62.23,352.61,302.39,50.23,14.24,0,60.32,29.68,292.29,Completed,Q1,2,35-44,Medium
+ORD-00729,5/5/2026,2026,May,Oklahoma,OK,Laptop,Electronics,Wholesale,Consumer,Debit Card,44,12,2025.45,5,1215.27,23090.13,16276.99,6813.14,29.51,0,57.59,1413.9,23032.54,Completed,Q2,5,35-44,Low
+ORD-00730,2/6/2026,2026,February,Delaware,DE,Mouse,Accessories,Retail Store,Enterprise,Credit Card,32,2,65.47,0,0,130.94,62.8,68.14,52.04,0,52.95,7.98,77.99,Completed,Q1,2,25-34,No Discount
+ORD-00731,4/4/2025,2025,April,Alaska,AK,Monitor,Electronics,Retail Store,Consumer,Credit Card,71,15,238.08,10,357.12,3214.08,2488.47,725.61,22.58,0,67.18,262.28,3146.9,Completed,Q2,4,65+,Low
+ORD-00732,2/23/2025,2025,February,Georgia,GA,Monitor,Electronics,Retail Store,Small Business,Debit Card,18,14,526.23,5,368.36,6998.86,4587.14,2411.72,34.46,0,18.15,561.35,6980.71,Completed,Q1,2,18-24,Low
+ORD-00733,7/11/2025,2025,July,Oregon,OR,Office Chair,Furniture,Retail Store,Enterprise,Bank Transfer,57,6,330.89,0,0,1985.34,1514.32,471.02,23.72,0,82.9,102.31,1902.44,Completed,Q3,7,55-64,No Discount
+ORD-00734,3/22/2025,2025,March,Indiana,IN,Tablet,Electronics,Online,Small Business,Credit Card,75,3,678.26,0,0,2034.78,926.47,1108.31,54.47,0,19.79,92.95,2014.99,Completed,Q1,3,65+,No Discount
+ORD-00735,6/8/2024,2024,June,California,CA,Laptop,Electronics,Online,Small Business,Debit Card,23,2,1424.61,0,0,2849.22,1736.86,1112.36,39.04,0,66.15,184.16,2783.07,Completed,Q2,6,18-24,No Discount
+ORD-00736,7/15/2025,2025,July,Utah,UT,Bookshelf,Furniture,Retail Store,Small Business,Credit Card,31,9,157.83,0,0,1420.47,696.83,723.64,50.94,0,37.16,116.89,1383.31,Completed,Q3,7,25-34,No Discount
+ORD-00737,6/28/2025,2025,June,Utah,UT,Laptop,Electronics,Wholesale,Corporate,Debit Card,55,3,1650.17,0,0,4950.51,3252.56,1697.95,34.3,0,82.44,372.02,4868.07,Completed,Q2,6,55-64,No Discount
+ORD-00738,10/14/2024,2024,October,Georgia,GA,Backpack,Accessories,Online,Consumer,Credit Card,30,12,74.6,5,44.76,850.44,405.28,445.16,52.34,0,58.33,47.15,792.11,Completed,Q4,10,25-34,Low
+ORD-00739,3/27/2026,2026,March,South Carolina,SC,Office Chair,Furniture,Online,Consumer,Debit Card,38,2,123.6,0,0,247.2,170.99,76.21,30.83,0,57.58,15.31,189.62,Completed,Q1,3,35-44,No Discount
+ORD-00740,11/19/2025,2025,November,Georgia,GA,Office Chair,Furniture,Retail Store,Consumer,PayPal,75,14,327.19,20,916.13,3664.53,2696.29,968.24,26.42,0,13.38,229.81,3651.15,Completed,Q4,11,65+,Medium
+ORD-00741,2/15/2024,2024,February,Montana,MT,Headphones,Accessories,Retail Store,Consumer,PayPal,67,3,148.68,0,0,446.04,302.55,143.49,32.17,0,62.31,22.84,383.73,Completed,Q1,2,65+,No Discount
+ORD-00742,4/22/2026,2026,April,California,CA,Bookshelf,Furniture,Retail Store,Consumer,Bank Transfer,33,15,373.63,0,0,5604.45,3604.17,2000.28,35.69,0,7.73,313.75,5596.72,Completed,Q2,4,25-34,No Discount
+ORD-00743,1/10/2025,2025,January,Utah,UT,Mouse,Accessories,Wholesale,Corporate,Credit Card,58,4,25.46,0,0,101.84,51.7,50.14,49.24,0,28.86,7.12,72.98,Completed,Q1,1,55-64,No Discount
+ORD-00744,8/21/2025,2025,August,Delaware,DE,Laptop,Electronics,Retail Store,Consumer,Credit Card,58,4,1340.08,10,536.03,4824.29,3485.37,1338.91,27.75,0,56.04,344.63,4768.25,Completed,Q3,8,55-64,Low
+ORD-00745,7/15/2025,2025,July,Pennsylvania,PA,Mouse,Accessories,Wholesale,Small Business,Bank Transfer,61,8,37.64,10,30.11,271.01,149.82,121.18,44.72,0,53.31,20.8,217.7,Completed,Q3,7,55-64,Low
+ORD-00746,4/4/2024,2024,April,West Virginia,WV,Keyboard,Accessories,Marketplace,Corporate,Debit Card,53,10,136.83,5,68.42,1299.89,689.87,610.01,46.93,0,83.4,77.58,1216.49,Completed,Q2,4,45-54,Low
+ORD-00747,6/20/2026,2026,June,Rhode Island,RI,Smartphone,Electronics,Wholesale,Corporate,PayPal,63,13,542.41,5,352.57,6698.76,4025.82,2672.94,39.9,0,82.15,306.32,6616.61,Completed,Q2,6,55-64,Low
+ORD-00748,2/9/2024,2024,February,Michigan,MI,Bookshelf,Furniture,Online,Consumer,Bank Transfer,54,10,396,5,198,3762,2140.77,1621.23,43.09,0,5.43,256.72,3756.57,Completed,Q1,2,45-54,Low
+ORD-00749,6/18/2024,2024,June,Arkansas,AR,Smartphone,Electronics,Retail Store,Consumer,Debit Card,38,15,1274.2,0,0,19113,11442.51,7670.49,40.13,0,49.54,1396.71,19063.46,Completed,Q2,6,35-44,No Discount
+ORD-00750,5/10/2025,2025,May,Florida,FL,Bookshelf,Furniture,Retail Store,Consumer,Credit Card,30,1,274.91,0,0,274.91,147.78,127.13,46.24,0,60.51,19.87,214.4,Completed,Q2,5,25-34,No Discount
+ORD-00751,2/15/2025,2025,February,Connecticut,CT,Headphones,Accessories,Online,Small Business,Bank Transfer,34,15,158.46,0,0,2376.9,1615.93,760.97,32.02,0,80.41,192.29,2296.49,Completed,Q1,2,25-34,No Discount
+ORD-00752,11/21/2025,2025,November,Ohio,OH,Laptop,Electronics,Wholesale,Corporate,PayPal,32,5,1025.57,0,0,5127.85,3962.01,1165.84,22.74,0,79.56,439.35,5048.29,Completed,Q4,11,25-34,No Discount
+ORD-00753,4/30/2024,2024,April,Idaho,ID,Laptop,Electronics,Marketplace,Corporate,Debit Card,50,9,1423,0,0,12807,8212.45,4594.55,35.88,0,34.36,566,12772.64,Completed,Q2,4,45-54,No Discount
+ORD-00754,3/29/2025,2025,March,Alabama,AL,Backpack,Accessories,Online,Small Business,Credit Card,51,3,115.66,10,34.7,312.28,169.06,143.22,45.86,0,13.1,26.12,299.18,Completed,Q1,3,45-54,Low
+ORD-00755,11/8/2025,2025,November,Arkansas,AR,Headphones,Accessories,Online,Consumer,Credit Card,34,10,113.19,0,0,1131.9,820.61,311.29,27.5,0,62.56,51.36,1069.34,Completed,Q4,11,25-34,No Discount
+ORD-00756,6/5/2025,2025,June,Michigan,MI,Tablet,Electronics,Marketplace,Consumer,Debit Card,25,12,526.14,5,315.68,5998,3861.72,2136.28,35.62,0,39.59,537.33,5958.41,Completed,Q2,6,25-34,Low
+ORD-00757,5/24/2026,2026,May,Georgia,GA,Bookshelf,Furniture,Online,Consumer,PayPal,41,2,384.68,15,115.4,653.96,526.76,127.2,19.45,0,51.48,57.03,602.48,Completed,Q2,5,35-44,Medium
+ORD-00758,5/1/2025,2025,May,Nevada,NV,Headphones,Accessories,Wholesale,Consumer,Digital Wallet,24,15,134.81,15,303.32,1718.83,1411.57,307.26,17.88,0,46.37,100.55,1672.46,Completed,Q2,5,18-24,Medium
+ORD-00759,5/30/2024,2024,May,North Dakota,ND,Tablet,Electronics,Online,Enterprise,PayPal,22,13,734.81,0,0,9552.53,6678.46,2874.07,30.09,0,16.06,572.69,9536.47,Completed,Q2,5,18-24,No Discount
+ORD-00760,6/16/2025,2025,June,New York,NY,Monitor,Electronics,Online,Consumer,Credit Card,21,8,462.66,0,0,3701.28,2730.79,970.49,26.22,0,11.9,321.38,3689.38,Completed,Q2,6,18-24,No Discount
+ORD-00761,8/4/2025,2025,August,North Dakota,ND,Headphones,Accessories,Wholesale,Consumer,PayPal,67,2,75.21,15,22.56,127.86,107.38,20.47,16.01,0,44.45,6.81,83.41,Completed,Q3,8,65+,Medium
+ORD-00762,9/6/2025,2025,September,New Hampshire,NH,Tablet,Electronics,Online,Consumer,PayPal,66,12,615.63,20,1477.51,5910.05,5610.57,299.47,5.07,0,76.13,374.65,5833.92,Completed,Q3,9,65+,Medium
+ORD-00763,6/14/2024,2024,June,Rhode Island,RI,Laptop,Electronics,Marketplace,Consumer,PayPal,45,4,1822.75,0,0,7291,4568.47,2722.53,37.34,0,59.34,383.61,7231.66,Completed,Q2,6,45-54,No Discount
+ORD-00764,6/2/2024,2024,June,North Carolina,NC,Backpack,Accessories,Retail Store,Small Business,Debit Card,48,10,152.04,0,0,1520.4,1166.67,353.73,23.27,0,63.71,92.06,1456.69,Completed,Q2,6,45-54,No Discount
+ORD-00765,5/4/2024,2024,May,South Dakota,SD,Office Chair,Furniture,Marketplace,Small Business,Credit Card,66,4,392.76,0,0,1571.04,794.64,776.4,49.42,0,79.61,110.36,1491.43,Completed,Q2,5,65+,No Discount
+ORD-00766,7/19/2024,2024,July,Oregon,OR,Smartphone,Electronics,Online,Enterprise,Credit Card,24,3,679.92,10,203.98,1835.78,1492.7,343.08,18.69,0,26.68,99.65,1809.1,Completed,Q3,7,18-24,Low
+ORD-00767,1/24/2024,2024,January,Virginia,VA,Office Chair,Furniture,Online,Consumer,Credit Card,58,10,205.95,5,102.98,1956.52,1562,394.53,20.16,0,8.82,96.99,1947.7,Completed,Q1,1,55-64,Low
+ORD-00768,2/3/2024,2024,February,Montana,MT,Laptop,Electronics,Retail Store,Enterprise,Credit Card,23,1,1304.08,10,130.41,1173.67,975.86,197.81,16.85,0,79.71,94.47,1093.96,Completed,Q1,2,18-24,Low
+ORD-00769,10/13/2025,2025,October,Nebraska,NE,Headphones,Accessories,Retail Store,Consumer,Debit Card,67,15,147.43,0,0,2211.45,1432.5,778.95,35.22,0,79.63,96.87,2131.82,Completed,Q4,10,65+,No Discount
+ORD-00770,2/25/2026,2026,February,Arizona,AZ,Desk,Furniture,Online,Consumer,Debit Card,71,3,633.83,5,95.07,1806.42,1229.98,576.44,31.91,0,41.11,94.56,1765.31,Completed,Q1,2,65+,Low
+ORD-00771,12/2/2025,2025,December,Vermont,VT,Tablet,Electronics,Retail Store,Consumer,Credit Card,59,11,784.78,15,1294.89,7337.69,5031.6,2306.09,31.43,0,35.72,563.83,7301.97,Completed,Q4,12,55-64,Medium
+ORD-00772,3/24/2024,2024,March,Arizona,AZ,Monitor,Electronics,Marketplace,Corporate,Bank Transfer,39,6,352.57,5,105.77,2009.65,1188.34,821.31,40.87,0,38.16,81.87,1971.49,Completed,Q1,3,35-44,Low
+ORD-00773,2/15/2025,2025,February,Ohio,OH,Desk,Furniture,Retail Store,Enterprise,Debit Card,46,5,436.65,0,0,2183.25,1582.33,600.92,27.52,0,62.36,183.03,2120.89,Completed,Q1,2,45-54,No Discount
+ORD-00774,3/30/2024,2024,March,Washington,WA,Monitor,Electronics,Online,Consumer,Bank Transfer,36,7,240.96,10,168.67,1518.05,1000.96,517.09,34.06,0,19.29,118.81,1498.76,Completed,Q1,3,35-44,Low
+ORD-00775,11/20/2024,2024,November,Hawaii,HI,Office Chair,Furniture,Online,Consumer,Credit Card,34,15,344.41,0,0,5166.15,2455.38,2710.77,52.47,0,83.12,373.17,5083.03,Completed,Q4,11,25-34,No Discount
+ORD-00776,4/17/2026,2026,April,Washington,WA,Printer,Electronics,Marketplace,Corporate,Bank Transfer,67,10,430.01,10,430.01,3870.09,2848.45,1021.64,26.4,0,42.39,276.03,3827.7,Completed,Q2,4,65+,Low
+ORD-00777,10/3/2024,2024,October,Vermont,VT,Smartphone,Electronics,Retail Store,Corporate,PayPal,25,3,468.73,15,210.93,1195.26,678.49,516.77,43.23,0,44.6,98.4,1150.66,Completed,Q4,10,25-34,Medium
+ORD-00778,11/17/2024,2024,November,Oregon,OR,Mouse,Accessories,Wholesale,Consumer,Debit Card,34,6,42.81,10,25.69,231.17,162.63,68.54,29.65,0,53.17,14.95,178,Completed,Q4,11,25-34,Low
+ORD-00779,6/22/2025,2025,June,Delaware,DE,Backpack,Accessories,Online,Corporate,Debit Card,57,3,158.59,0,0,475.77,362.04,113.73,23.9,0,21.64,27.06,454.13,Completed,Q2,6,55-64,No Discount
+ORD-00780,7/8/2025,2025,July,Iowa,IA,Laptop,Electronics,Retail Store,Consumer,Debit Card,42,12,1838.73,20,4412.95,17651.81,12190.74,5461.07,30.94,0,58.92,1184,17592.89,Completed,Q3,7,35-44,Medium
+ORD-00781,5/10/2024,2024,May,Florida,FL,Headphones,Accessories,Online,Enterprise,Bank Transfer,43,5,264.61,0,0,1323.05,772.91,550.14,41.58,0,23.27,107.31,1299.78,Completed,Q2,5,35-44,No Discount
+ORD-00782,3/17/2025,2025,March,Nevada,NV,Office Chair,Furniture,Retail Store,Corporate,Credit Card,36,10,436.06,0,0,4360.6,3157,1203.6,27.6,0,20.52,236.53,4340.08,Completed,Q1,3,35-44,No Discount
+ORD-00783,6/28/2026,2026,June,Wyoming,WY,Smartphone,Electronics,Online,Corporate,Debit Card,63,10,1114.33,0,0,11143.3,8227.09,2916.21,26.17,0,24.74,833.14,11118.56,Completed,Q2,6,55-64,No Discount
+ORD-00784,1/18/2026,2026,January,Nebraska,NE,Smartphone,Electronics,Online,Consumer,Credit Card,67,1,1056.98,5,52.85,1004.13,492.05,512.08,51,0,70.02,73.54,934.11,Completed,Q1,1,65+,Low
+ORD-00785,6/29/2024,2024,June,Connecticut,CT,Office Chair,Furniture,Retail Store,Small Business,Credit Card,59,7,392.52,0,0,2747.64,1244.83,1502.81,54.69,0,44.07,113.01,2703.57,Completed,Q2,6,55-64,No Discount
+ORD-00786,2/9/2026,2026,February,Arizona,AZ,Backpack,Accessories,Retail Store,Consumer,Credit Card,37,14,82.93,0,0,1161.02,543.25,617.77,53.21,0,11.95,87.18,1149.07,Completed,Q1,2,35-44,No Discount
+ORD-00787,10/8/2025,2025,October,Wisconsin,WI,Laptop,Electronics,Retail Store,Consumer,PayPal,30,6,1243.73,10,746.24,6716.14,3378.13,3338.01,49.7,0,54.29,394.66,6661.85,Completed,Q4,10,25-34,Low
+ORD-00788,11/11/2024,2024,November,New Jersey,NJ,Keyboard,Accessories,Online,Small Business,Debit Card,39,2,153.44,15,46.03,260.85,173.97,86.88,33.31,0,84.96,13.86,175.89,Completed,Q4,11,35-44,Medium
+ORD-00789,10/30/2024,2024,October,Oregon,OR,Printer,Electronics,Online,Consumer,Debit Card,43,15,266.61,0,0,3999.15,2300.98,1698.17,42.46,0,8.57,354.04,3990.58,Completed,Q4,10,35-44,No Discount
+ORD-00790,6/9/2025,2025,June,Wyoming,WY,Office Chair,Furniture,Online,Corporate,PayPal,50,11,182.94,0,0,2012.34,953.73,1058.61,52.61,0,71.02,111.17,1941.32,Completed,Q2,6,45-54,No Discount
+ORD-00791,1/15/2026,2026,January,New Mexico,NM,Smartphone,Electronics,Wholesale,Corporate,Debit Card,39,1,930.53,20,186.11,744.42,703.02,41.4,5.56,0,45.97,43.18,698.45,Completed,Q1,1,35-44,Medium
+ORD-00792,3/26/2026,2026,March,Oregon,OR,Headphones,Accessories,Marketplace,Consumer,Digital Wallet,27,7,251.95,15,264.55,1499.1,956.57,542.54,36.19,0,13.98,81.79,1485.12,Completed,Q1,3,25-34,Medium
+ORD-00793,3/13/2025,2025,March,Florida,FL,Monitor,Electronics,Retail Store,Consumer,Credit Card,22,8,226.87,5,90.75,1724.21,994.06,730.16,42.35,0,18.55,140.69,1705.66,Completed,Q1,3,18-24,Low
+ORD-00794,5/19/2026,2026,May,Wisconsin,WI,Bookshelf,Furniture,Retail Store,Enterprise,Credit Card,31,2,250.17,20,100.07,400.27,387.03,13.24,3.31,0,81.01,19.6,319.26,Completed,Q2,5,25-34,Medium
+ORD-00795,9/5/2025,2025,September,Wyoming,WY,Laptop,Electronics,Retail Store,Consumer,Digital Wallet,34,2,1084.51,5,108.45,2060.57,1422.54,638.03,30.96,0,42.55,156.64,2018.02,Completed,Q3,9,25-34,Low
+ORD-00796,7/12/2025,2025,July,Tennessee,TN,Tablet,Electronics,Marketplace,Corporate,Credit Card,69,12,549.45,20,1318.68,5274.72,3342.12,1932.6,36.64,0,63.35,465.22,5211.37,Completed,Q3,7,65+,Medium
+ORD-00797,3/15/2024,2024,March,Vermont,VT,Monitor,Electronics,Retail Store,Corporate,PayPal,35,7,544,0,0,3808,1800.6,2007.4,52.72,0,28.22,302.08,3779.78,Completed,Q1,3,35-44,No Discount
+ORD-00798,1/9/2025,2025,January,California,CA,Bookshelf,Furniture,Online,Corporate,Digital Wallet,37,3,125.86,0,0,377.58,208.53,169.05,44.77,0,24.88,27.23,352.7,Completed,Q1,1,35-44,No Discount
+ORD-00799,5/12/2024,2024,May,New Jersey,NJ,Mouse,Accessories,Wholesale,Small Business,Bank Transfer,57,12,76.13,0,0,913.56,525.41,388.15,42.49,0,54.67,77.24,858.89,Completed,Q2,5,55-64,No Discount
+ORD-00800,9/27/2024,2024,September,Alabama,AL,Backpack,Accessories,Retail Store,Consumer,Credit Card,38,6,36.67,0,0,220.02,151.14,68.88,31.31,0,9.07,11.23,210.95,Completed,Q3,9,35-44,No Discount
+ORD-00801,4/14/2026,2026,April,Kansas,KS,Desk,Furniture,Online,Consumer,Digital Wallet,23,8,638.4,0,0,5107.2,3065.11,2042.09,39.98,0,57.78,318.17,5049.42,Completed,Q2,4,18-24,No Discount
+ORD-00802,4/28/2026,2026,April,West Virginia,WV,Smartphone,Electronics,Wholesale,Consumer,Digital Wallet,51,10,517.63,0,0,5176.3,3010.05,2166.25,41.85,0,66.8,251.3,5109.5,Completed,Q2,4,45-54,No Discount
+ORD-00803,1/23/2025,2025,January,Rhode Island,RI,Keyboard,Accessories,Wholesale,Consumer,Credit Card,34,8,48.65,5,19.46,369.74,206.77,162.97,44.08,0,13.35,32.96,356.39,Completed,Q1,1,25-34,Low
+ORD-00804,3/4/2026,2026,March,Oregon,OR,Desk,Furniture,Wholesale,Consumer,Debit Card,21,9,220.76,10,198.68,1788.16,1147.45,640.7,35.83,0,52.63,149.51,1735.53,Completed,Q1,3,18-24,Low
+ORD-00805,2/25/2026,2026,February,Vermont,VT,Headphones,Accessories,Marketplace,Corporate,Credit Card,41,10,277.49,0,0,2774.9,2106.14,668.76,24.1,0,40.02,114,2734.88,Completed,Q1,2,35-44,No Discount
+ORD-00806,10/22/2024,2024,October,Mississippi,MS,Laptop,Electronics,Online,Consumer,Debit Card,29,8,1773.94,10,1419.15,12772.37,11009.29,1763.08,13.8,0,47.56,837.42,12724.81,Completed,Q4,10,25-34,Low
+ORD-00807,4/26/2024,2024,April,Virginia,VA,Mouse,Accessories,Marketplace,Consumer,Digital Wallet,39,3,111.33,10,33.4,300.59,212.04,88.55,29.46,0,26,12.61,274.59,Completed,Q2,4,35-44,Low
+ORD-00808,2/13/2024,2024,February,Wisconsin,WI,Mouse,Accessories,Online,Small Business,Bank Transfer,61,13,62.81,5,40.83,775.7,542.46,233.25,30.07,0,39,36.49,736.7,Completed,Q1,2,55-64,Low
+ORD-00809,3/11/2024,2024,March,New Jersey,NJ,Backpack,Accessories,Retail Store,Consumer,PayPal,20,14,39.71,10,55.59,500.35,351.8,148.55,29.69,0,27.84,27.47,472.51,Completed,Q1,3,18-24,Low
+ORD-00810,8/28/2024,2024,August,Alabama,AL,Mouse,Accessories,Online,Corporate,Credit Card,50,10,95.55,5,47.78,907.72,502.79,404.93,44.61,0,47.56,73.03,860.16,Completed,Q3,8,45-54,Low
+ORD-00811,9/19/2025,2025,September,Connecticut,CT,Office Chair,Furniture,Wholesale,Small Business,Debit Card,34,14,194.22,15,407.86,2311.22,1999.8,311.41,13.47,0,16.27,117.63,2294.95,Completed,Q3,9,25-34,Medium
+ORD-00812,11/28/2025,2025,November,Pennsylvania,PA,Headphones,Accessories,Retail Store,Corporate,Credit Card,25,4,110.68,5,22.14,420.58,315.08,105.5,25.08,0,46.49,33.21,374.09,Completed,Q4,11,25-34,Low
+ORD-00813,1/12/2025,2025,January,Virginia,VA,Office Chair,Furniture,Online,Corporate,PayPal,35,4,176.28,0,0,705.12,491.39,213.73,30.31,0,67.63,54.51,637.49,Completed,Q1,1,35-44,No Discount
+ORD-00814,11/13/2025,2025,November,Kansas,KS,Bookshelf,Furniture,Online,Consumer,PayPal,31,4,92.9,0,0,371.6,230.7,140.9,37.92,0,57.75,21.35,313.85,Completed,Q4,11,25-34,No Discount
+ORD-00815,7/17/2024,2024,July,Illinois,IL,Keyboard,Accessories,Marketplace,Corporate,Debit Card,74,3,145.83,0,0,437.49,235.78,201.71,46.11,0,84.33,21.82,353.16,Completed,Q3,7,65+,No Discount
+ORD-00816,6/5/2026,2026,June,Florida,FL,Backpack,Accessories,Wholesale,Corporate,Bank Transfer,51,8,76.2,5,30.48,579.12,427.39,151.73,26.2,3,43.15,46.99,535.97,Returned,Q2,6,45-54,Low
+ORD-00817,2/18/2025,2025,February,Maine,ME,Bookshelf,Furniture,Retail Store,Consumer,Credit Card,37,4,217.18,0,0,868.72,503.53,365.19,42.04,0,80.03,58.31,788.69,Completed,Q1,2,35-44,No Discount
+ORD-00818,1/7/2025,2025,January,South Dakota,SD,Printer,Electronics,Online,Corporate,Credit Card,74,13,216.08,5,140.45,2668.59,1299.4,1369.19,51.31,0,61.96,222.69,2606.63,Completed,Q1,1,65+,Low
+ORD-00819,11/6/2025,2025,November,California,CA,Monitor,Electronics,Online,Small Business,Digital Wallet,60,9,399.21,5,179.64,3413.25,2553.08,860.17,25.2,0,55.02,304.87,3358.23,Completed,Q4,11,55-64,Low
+ORD-00820,5/21/2024,2024,May,Oklahoma,OK,Headphones,Accessories,Online,Consumer,Credit Card,27,7,268.23,5,93.88,1783.73,1130.18,653.54,36.64,0,33.24,128.11,1750.49,Completed,Q2,5,25-34,Low
+ORD-00821,9/28/2024,2024,September,Massachusetts,MA,Desk,Furniture,Marketplace,Enterprise,Bank Transfer,59,9,507.68,10,456.91,4112.21,3053.17,1059.04,25.75,0,76.63,197.91,4035.58,Completed,Q3,9,55-64,Low
+ORD-00822,9/3/2025,2025,September,Michigan,MI,Office Chair,Furniture,Online,Small Business,Credit Card,70,3,433.77,10,130.13,1171.18,761.12,410.06,35.01,0,59.45,93.11,1111.73,Completed,Q3,9,65+,Low
+ORD-00823,10/1/2025,2025,October,Kentucky,KY,Keyboard,Accessories,Retail Store,Consumer,Credit Card,25,10,165.12,0,0,1651.2,1055.79,595.41,36.06,0,43.51,72.53,1607.69,Completed,Q4,10,25-34,No Discount
+ORD-00824,5/18/2026,2026,May,Vermont,VT,Bookshelf,Furniture,Online,Corporate,PayPal,45,7,393.28,0,0,2752.96,1627.5,1125.46,40.88,0,77.86,134.15,2675.1,Completed,Q2,5,45-54,No Discount
+ORD-00825,3/23/2024,2024,March,Louisiana,LA,Keyboard,Accessories,Retail Store,Consumer,Credit Card,39,12,101.93,0,0,1223.16,841.31,381.85,31.22,0,38.83,83.53,1184.33,Completed,Q1,3,35-44,No Discount
+ORD-00826,11/21/2025,2025,November,California,CA,Headphones,Accessories,Wholesale,Small Business,Bank Transfer,33,7,87.85,0,0,614.95,317.39,297.56,48.39,3,62.51,47.03,552.44,Returned,Q4,11,25-34,No Discount
+ORD-00827,1/2/2026,2026,January,Illinois,IL,Mouse,Accessories,Wholesale,Small Business,Credit Card,74,15,17.43,0,0,261.45,153.13,108.32,41.43,0,32.48,23.05,228.97,Completed,Q1,1,65+,No Discount
+ORD-00828,2/25/2024,2024,February,Kansas,KS,Printer,Electronics,Online,Consumer,Bank Transfer,49,10,299.19,15,448.78,2543.12,1467.32,1075.79,42.3,0,7.36,156.9,2535.76,Completed,Q1,2,45-54,Medium
+ORD-00829,4/22/2024,2024,April,Illinois,IL,Office Chair,Furniture,Retail Store,Corporate,Debit Card,56,12,159.5,5,95.7,1818.3,1295.15,523.15,28.77,0,29.91,124.35,1788.39,Completed,Q2,4,55-64,Low
+ORD-00830,3/19/2025,2025,March,Louisiana,LA,Bookshelf,Furniture,Online,Consumer,Debit Card,30,7,299.91,10,209.94,1889.43,1413.81,475.63,25.17,0,11.38,154.65,1878.05,Completed,Q1,3,25-34,Low
+ORD-00831,2/22/2024,2024,February,Maryland,MD,Headphones,Accessories,Online,Enterprise,Debit Card,75,14,187.98,5,131.59,2500.13,1520.48,979.65,39.18,0,18.3,143.69,2481.83,Completed,Q1,2,65+,Low
+ORD-00832,10/23/2024,2024,October,Georgia,GA,Bookshelf,Furniture,Online,Corporate,PayPal,63,2,240.12,0,0,480.24,273.55,206.69,43.04,0,52.98,23.47,427.26,Completed,Q4,10,55-64,No Discount
+ORD-00833,3/15/2024,2024,March,California,CA,Smartphone,Electronics,Retail Store,Small Business,Digital Wallet,21,7,1237.6,0,0,8663.2,5285.97,3377.23,38.98,0,81.05,621.26,8582.15,Completed,Q1,3,18-24,No Discount
+ORD-00834,2/26/2025,2025,February,Mississippi,MS,Printer,Electronics,Online,Enterprise,Bank Transfer,59,15,332.13,0,0,4981.95,2296.82,2685.13,53.9,0,41.03,280.27,4940.92,Completed,Q1,2,55-64,No Discount
+ORD-00835,6/10/2026,2026,June,Washington,WA,Desk,Furniture,Marketplace,Consumer,PayPal,36,13,428.22,0,0,5566.86,3191.49,2375.37,42.67,0,19.09,391.7,5547.77,Completed,Q2,6,35-44,No Discount
+ORD-00836,9/5/2025,2025,September,New Mexico,NM,Keyboard,Accessories,Retail Store,Small Business,Bank Transfer,73,4,162.34,5,32.47,616.89,397.19,219.7,35.61,0,54.97,37.53,561.92,Completed,Q3,9,65+,Low
+ORD-00837,1/21/2024,2024,January,Pennsylvania,PA,Office Chair,Furniture,Marketplace,Corporate,Bank Transfer,44,12,522.63,0,0,6271.56,4345.61,1925.95,30.71,0,77.98,530.82,6193.58,Completed,Q1,1,35-44,No Discount
+ORD-00838,1/22/2026,2026,January,Michigan,MI,Keyboard,Accessories,Marketplace,Corporate,Digital Wallet,61,3,173.7,15,78.16,442.93,284.63,158.31,35.74,0,12.98,38.14,429.95,Completed,Q1,1,55-64,Medium
+ORD-00839,11/16/2025,2025,November,Alabama,AL,Monitor,Electronics,Retail Store,Small Business,PayPal,72,3,289.1,0,0,867.3,574.24,293.06,33.79,0,75.79,65.03,791.51,Completed,Q4,11,65+,No Discount
+ORD-00840,5/31/2024,2024,May,Oregon,OR,Printer,Electronics,Online,Consumer,Credit Card,32,3,432.06,0,0,1296.18,693.71,602.47,46.48,0,51.66,66.75,1244.52,Completed,Q2,5,25-34,No Discount
+ORD-00841,4/12/2025,2025,April,Vermont,VT,Desk,Furniture,Wholesale,Corporate,Bank Transfer,51,5,713.72,0,0,3568.6,1708.03,1860.57,52.14,0,15.32,236.09,3553.28,Completed,Q2,4,45-54,No Discount
+ORD-00842,10/4/2025,2025,October,Nebraska,NE,Bookshelf,Furniture,Online,Enterprise,Credit Card,68,8,197.88,0,0,1583.04,729.12,853.92,53.94,0,62.29,96.31,1520.75,Completed,Q4,10,65+,No Discount
+ORD-00843,2/8/2024,2024,February,Kentucky,KY,Headphones,Accessories,Online,Consumer,Bank Transfer,40,1,255.26,0,0,255.26,137.23,118.03,46.24,0,26.5,17,228.76,Completed,Q1,2,35-44,No Discount
+ORD-00844,6/27/2026,2026,June,North Dakota,ND,Headphones,Accessories,Retail Store,Consumer,Debit Card,40,7,128.69,0,0,900.83,500.39,400.44,44.45,0,26.03,37.64,874.8,Completed,Q2,6,35-44,No Discount
+ORD-00845,9/24/2025,2025,September,Iowa,IA,Backpack,Accessories,Online,Consumer,Credit Card,64,5,109.64,10,54.82,493.38,250.4,242.98,49.25,0,76.25,37.46,417.13,Completed,Q3,9,55-64,Low
+ORD-00846,7/12/2024,2024,July,Illinois,IL,Headphones,Accessories,Marketplace,Corporate,PayPal,37,8,298.31,5,119.32,2267.16,1436.44,830.72,36.64,0,6.16,104.2,2261,Completed,Q3,7,35-44,Low
+ORD-00847,11/1/2025,2025,November,Virginia,VA,Headphones,Accessories,Retail Store,Consumer,Debit Card,69,12,280.4,0,0,3364.8,1593.17,1771.63,52.65,0,76.06,278.39,3288.74,Completed,Q4,11,65+,No Discount
+ORD-00848,6/13/2025,2025,June,Arkansas,AR,Office Chair,Furniture,Online,Corporate,Debit Card,69,12,330.67,0,0,3968.04,2085.64,1882.4,47.44,0,77.11,324.17,3890.93,Completed,Q2,6,65+,No Discount
+ORD-00849,4/10/2025,2025,April,New Hampshire,NH,Bookshelf,Furniture,Retail Store,Consumer,Digital Wallet,26,4,128.94,0,0,515.76,307.91,207.85,40.3,0,41.95,21.18,473.81,Completed,Q2,4,25-34,No Discount
+ORD-00850,4/3/2024,2024,April,Florida,FL,Desk,Furniture,Online,Consumer,Bank Transfer,71,8,423.64,0,0,3389.12,2024.24,1364.88,40.27,0,48.09,178,3341.03,Completed,Q2,4,65+,No Discount
+ORD-00851,3/13/2026,2026,March,South Carolina,SC,Bookshelf,Furniture,Marketplace,Small Business,Credit Card,69,2,132.23,0,0,264.46,164.39,100.07,37.84,0,11.86,16.67,252.6,Completed,Q1,3,65+,No Discount
+ORD-00852,2/25/2026,2026,February,Massachusetts,MA,Backpack,Accessories,Online,Small Business,PayPal,41,3,57.53,0,0,172.59,86.76,85.83,49.73,0,68.08,8.35,104.51,Completed,Q1,2,35-44,No Discount
+ORD-00853,7/14/2025,2025,July,Massachusetts,MA,Printer,Electronics,Online,Consumer,PayPal,59,7,464.41,10,325.09,2925.78,2001.75,924.03,31.58,0,61.43,159.69,2864.35,Completed,Q3,7,55-64,Low
+ORD-00854,11/15/2025,2025,November,Arizona,AZ,Office Chair,Furniture,Marketplace,Corporate,Debit Card,52,2,409.01,0,0,818.02,438.77,379.25,46.36,0,31.45,67.92,786.57,Completed,Q4,11,45-54,No Discount
+ORD-00855,3/23/2026,2026,March,Colorado,CO,Tablet,Electronics,Online,Consumer,Debit Card,48,7,261,0,0,1827,951.18,875.82,47.94,0,30.45,97.44,1796.55,Completed,Q1,3,45-54,No Discount
+ORD-00856,7/20/2024,2024,July,Florida,FL,Printer,Electronics,Wholesale,Enterprise,Credit Card,47,1,385.63,15,57.84,327.79,274.45,53.34,16.27,0,58.3,16.97,269.49,Completed,Q3,7,45-54,Medium
+ORD-00857,1/28/2026,2026,January,Michigan,MI,Backpack,Accessories,Online,Corporate,PayPal,29,1,116.98,15,17.55,99.43,56.05,43.38,43.63,0,78.71,4.25,20.72,Completed,Q1,1,25-34,Medium
+ORD-00858,3/20/2026,2026,March,New Jersey,NJ,Tablet,Electronics,Wholesale,Small Business,Debit Card,32,11,276.79,5,152.23,2892.46,2204.23,688.22,23.79,0,39.43,174.92,2853.03,Completed,Q1,3,25-34,Low
+ORD-00859,2/12/2025,2025,February,Kentucky,KY,Mouse,Accessories,Online,Consumer,Debit Card,71,14,25.36,5,17.75,337.29,166.72,170.57,50.57,0,75.65,23.22,261.64,Completed,Q1,2,65+,Low
+ORD-00860,9/2/2025,2025,September,Alaska,AK,Office Chair,Furniture,Wholesale,Corporate,Credit Card,31,15,227.92,15,512.82,2905.98,2464.3,441.68,15.2,0,84.83,153.81,2821.15,Completed,Q3,9,25-34,Medium
+ORD-00861,11/2/2024,2024,November,South Dakota,SD,Smartphone,Electronics,Online,Enterprise,Credit Card,25,9,1475.23,15,1991.56,11285.51,6819.43,4466.08,39.57,0,80.22,692.43,11205.29,Completed,Q4,11,25-34,Medium
+ORD-00862,9/11/2024,2024,September,Utah,UT,Office Chair,Furniture,Wholesale,Corporate,Bank Transfer,69,1,229.13,10,22.91,206.22,176.75,29.47,14.29,0,70,11.35,136.22,Completed,Q3,9,65+,Low
+ORD-00863,4/22/2025,2025,April,Massachusetts,MA,Smartphone,Electronics,Retail Store,Consumer,Credit Card,55,12,489.84,10,587.81,5290.27,3130.19,2160.08,40.83,0,33.04,438.78,5257.23,Completed,Q2,4,55-64,Low
+ORD-00864,8/28/2025,2025,August,New Jersey,NJ,Keyboard,Accessories,Retail Store,Small Business,Digital Wallet,31,14,160.39,15,336.82,1908.64,1396.51,512.13,26.83,0,51.27,142.12,1857.37,Completed,Q3,8,25-34,Medium
+ORD-00865,5/22/2025,2025,May,South Carolina,SC,Keyboard,Accessories,Online,Corporate,PayPal,50,6,144.26,5,43.28,822.28,640.9,181.38,22.06,0,81.61,68.57,740.67,Completed,Q2,5,45-54,Low
+ORD-00866,1/28/2025,2025,January,Indiana,IN,Desk,Furniture,Wholesale,Consumer,PayPal,52,12,525.6,20,1261.44,5045.76,3993.26,1052.5,20.86,0,15.5,351.06,5030.26,Completed,Q1,1,45-54,Medium
+ORD-00867,6/5/2024,2024,June,Indiana,IN,Smartphone,Electronics,Online,Small Business,Credit Card,38,10,1347.84,0,0,13478.4,9899.72,3578.68,26.55,0,20.53,627.05,13457.87,Completed,Q2,6,35-44,No Discount
+ORD-00868,11/14/2025,2025,November,Massachusetts,MA,Tablet,Electronics,Marketplace,Small Business,Debit Card,73,8,670.16,15,804.19,4557.09,3911.99,645.09,14.16,0,37,278.74,4520.09,Completed,Q4,11,65+,Medium
+ORD-00869,1/6/2026,2026,January,New York,NY,Headphones,Accessories,Marketplace,Corporate,Debit Card,64,11,207.7,0,0,2284.7,1231.13,1053.57,46.11,0,53.81,108.98,2230.89,Completed,Q1,1,55-64,No Discount
+ORD-00870,4/5/2025,2025,April,Rhode Island,RI,Printer,Electronics,Online,Consumer,Digital Wallet,52,2,433.76,0,0,867.52,435.41,432.11,49.81,0,47.9,46.62,819.62,Completed,Q2,4,45-54,No Discount
+ORD-00871,12/15/2024,2024,December,Oklahoma,OK,Mouse,Accessories,Online,Consumer,Debit Card,28,7,93.41,0,0,653.87,475,178.87,27.35,0,11.63,47.14,642.24,Completed,Q4,12,25-34,No Discount
+ORD-00872,8/1/2024,2024,August,New Hampshire,NH,Smartphone,Electronics,Online,Consumer,Debit Card,47,7,928.74,10,650.12,5851.06,4923.02,928.05,15.86,0,32.49,279.1,5818.57,Completed,Q3,8,45-54,Low
+ORD-00873,4/17/2025,2025,April,Nebraska,NE,Bookshelf,Furniture,Wholesale,Corporate,Digital Wallet,71,7,315.96,0,0,2211.72,1637.96,573.76,25.94,0,28.18,118.27,2183.54,Completed,Q2,4,65+,No Discount
+ORD-00874,10/10/2025,2025,October,New Hampshire,NH,Desk,Furniture,Retail Store,Corporate,Credit Card,51,8,189.58,0,0,1516.64,867.11,649.53,42.83,0,33.84,121.22,1482.8,Completed,Q4,10,45-54,No Discount
+ORD-00875,5/24/2025,2025,May,Indiana,IN,Smartphone,Electronics,Marketplace,Small Business,Credit Card,50,11,1199.61,15,1979.36,11216.35,7360.89,3855.46,34.37,0,81.69,860.69,11134.66,Completed,Q2,5,45-54,Medium
+ORD-00876,11/13/2025,2025,November,Connecticut,CT,Bookshelf,Furniture,Online,Corporate,Credit Card,54,12,349.13,5,209.48,3980.08,2330.27,1649.81,41.45,0,5.72,206.06,3974.36,Completed,Q4,11,45-54,Low
+ORD-00877,4/26/2026,2026,April,Arizona,AZ,Backpack,Accessories,Retail Store,Small Business,Debit Card,41,14,108.18,0,0,1514.52,694.7,819.82,54.13,0,30.44,120.88,1484.08,Completed,Q2,4,35-44,No Discount
+ORD-00878,7/20/2025,2025,July,Massachusetts,MA,Keyboard,Accessories,Retail Store,Consumer,Credit Card,61,1,150.23,0,0,150.23,89.54,60.69,40.4,0,44.53,10.67,105.7,Completed,Q3,7,55-64,No Discount
+ORD-00879,11/15/2025,2025,November,Colorado,CO,Tablet,Electronics,Wholesale,Corporate,PayPal,47,11,817.81,0,0,8995.91,6502.17,2493.74,27.72,0,40.64,681.02,8955.27,Completed,Q4,11,45-54,No Discount
+ORD-00880,5/2/2026,2026,May,Massachusetts,MA,Desk,Furniture,Retail Store,Small Business,Debit Card,55,6,352.36,0,0,2114.16,1182.05,932.11,44.09,0,50.01,135.2,2064.15,Completed,Q2,5,55-64,No Discount
+ORD-00881,5/10/2025,2025,May,Idaho,ID,Backpack,Accessories,Wholesale,Small Business,Digital Wallet,36,15,83.23,5,62.42,1186.03,765.57,420.46,35.45,0,35.56,79.68,1150.47,Completed,Q2,5,35-44,Low
+ORD-00882,4/19/2025,2025,April,Minnesota,MN,Backpack,Accessories,Wholesale,Corporate,Credit Card,39,12,141.58,5,84.95,1614.01,952.08,661.93,41.01,0,20.23,140.5,1593.78,Completed,Q2,4,35-44,Low
+ORD-00883,6/23/2026,2026,June,Vermont,VT,Keyboard,Accessories,Retail Store,Corporate,Debit Card,60,2,73.06,0,0,146.12,87.93,58.19,39.82,0,22.99,7.83,123.13,Completed,Q2,6,55-64,No Discount
+ORD-00884,2/17/2024,2024,February,Nevada,NV,Tablet,Electronics,Online,Consumer,Debit Card,64,2,831.35,5,83.14,1579.56,1038.9,540.67,34.23,0,11,133.92,1568.56,Completed,Q1,2,55-64,Low
+ORD-00885,8/2/2025,2025,August,Rhode Island,RI,Desk,Furniture,Retail Store,Consumer,Credit Card,59,11,670.05,0,0,7370.55,3763.98,3606.57,48.93,0,9.54,502.6,7361.01,Completed,Q3,8,55-64,No Discount
+ORD-00886,6/12/2026,2026,June,Wyoming,WY,Keyboard,Accessories,Online,Consumer,Digital Wallet,44,15,89.69,15,201.8,1143.55,937.64,205.91,18.01,0,47.92,88.73,1095.63,Completed,Q2,6,35-44,Medium
+ORD-00887,2/6/2024,2024,February,Florida,FL,Office Chair,Furniture,Retail Store,Corporate,Digital Wallet,32,2,495.95,0,0,991.9,563.42,428.48,43.2,0,54.18,84.45,937.72,Completed,Q1,2,25-34,No Discount
+ORD-00888,2/23/2026,2026,February,Connecticut,CT,Mouse,Accessories,Marketplace,Corporate,Credit Card,74,14,70.09,5,49.06,932.2,572.76,359.43,38.56,0,59.6,76.79,872.6,Completed,Q1,2,65+,Low
+ORD-00889,10/28/2025,2025,October,South Dakota,SD,Desk,Furniture,Wholesale,Small Business,Credit Card,36,1,419.14,0,0,419.14,319.34,99.8,23.81,0,10.93,35.45,408.21,Completed,Q4,10,35-44,No Discount
+ORD-00890,4/6/2026,2026,April,Missouri,MO,Smartphone,Electronics,Wholesale,Enterprise,Bank Transfer,43,7,1336.65,0,0,9356.55,6063.09,3293.46,35.2,0,48.28,502.75,9308.27,Completed,Q2,4,35-44,No Discount
+ORD-00891,1/12/2025,2025,January,Virginia,VA,Mouse,Accessories,Online,Small Business,Debit Card,26,9,76.84,5,34.58,656.98,370.32,286.66,43.63,0,38.08,41.45,618.9,Completed,Q1,1,25-34,Low
+ORD-00892,5/10/2026,2026,May,Nebraska,NE,Headphones,Accessories,Online,Consumer,Bank Transfer,56,15,153.65,5,115.24,2189.51,1180.28,1009.24,46.09,0,43.07,192.06,2146.44,Completed,Q2,5,55-64,Low
+ORD-00893,1/22/2026,2026,January,South Carolina,SC,Desk,Furniture,Retail Store,Consumer,Debit Card,65,2,220.59,0,0,441.18,342.94,98.24,22.27,0,15.26,22.6,425.92,Completed,Q1,1,65+,No Discount
+ORD-00894,1/26/2026,2026,January,Rhode Island,RI,Office Chair,Furniture,Online,Consumer,Bank Transfer,22,4,177.34,0,0,709.36,422.93,286.43,40.38,0,83.56,31.79,625.8,Completed,Q1,1,18-24,No Discount
+ORD-00895,12/31/2024,2024,December,Maine,ME,Bookshelf,Furniture,Retail Store,Corporate,Credit Card,42,11,262.06,10,288.27,2594.39,1426.81,1167.58,45,0,24.41,149.58,2569.98,Completed,Q4,12,35-44,Low
+ORD-00896,1/20/2026,2026,January,Oklahoma,OK,Printer,Electronics,Online,Enterprise,Credit Card,50,4,156.05,15,93.63,530.57,423.79,106.78,20.12,0,34.8,33.31,495.77,Completed,Q1,1,45-54,Medium
+ORD-00897,10/10/2025,2025,October,Arkansas,AR,Bookshelf,Furniture,Online,Corporate,Credit Card,44,9,337.55,0,0,3037.95,2145.19,892.76,29.39,0,22.98,151.16,3014.97,Completed,Q4,10,35-44,No Discount
+ORD-00898,5/23/2026,2026,May,Maryland,MD,Laptop,Electronics,Wholesale,Consumer,PayPal,27,12,923.99,15,1663.18,9424.7,6640.03,2784.66,29.55,0,39.12,662.65,9385.58,Completed,Q2,5,25-34,Medium
+ORD-00899,7/1/2026,2026,July,New Hampshire,NH,Laptop,Electronics,Retail Store,Consumer,Bank Transfer,24,1,1340.81,0,0,1340.81,1016.87,323.94,24.16,0,64.18,70.54,1276.63,Completed,Q3,7,18-24,No Discount
+ORD-00900,7/2/2025,2025,July,Kentucky,KY,Laptop,Electronics,Online,Corporate,PayPal,33,6,1514.2,10,908.52,8176.68,4094.89,4081.79,49.92,0,26.6,600.14,8150.08,Completed,Q3,7,25-34,Low
+ORD-00901,3/1/2025,2025,March,Maryland,MD,Tablet,Electronics,Retail Store,Consumer,Debit Card,39,11,456.4,10,502.04,4518.36,2400.07,2118.29,46.88,0,5.71,342.52,4512.65,Completed,Q1,3,35-44,Low
+ORD-00902,7/26/2025,2025,July,New Hampshire,NH,Keyboard,Accessories,Online,Small Business,PayPal,23,10,55.41,0,0,554.1,313.11,240.99,43.49,0,12.76,31.89,541.34,Completed,Q3,7,18-24,No Discount
+ORD-00903,5/17/2024,2024,May,New York,NY,Backpack,Accessories,Retail Store,Corporate,Credit Card,54,6,51.58,0,0,309.48,218.58,90.9,29.37,0,33.51,16.34,275.97,Completed,Q2,5,45-54,No Discount
+ORD-00904,12/15/2025,2025,December,Michigan,MI,Bookshelf,Furniture,Retail Store,Consumer,PayPal,55,10,313.83,0,0,3138.3,1469.42,1668.88,53.18,0,15.29,234.97,3123.01,Completed,Q4,12,55-64,No Discount
+ORD-00905,6/17/2024,2024,June,Missouri,MO,Printer,Electronics,Marketplace,Small Business,Debit Card,24,5,207,0,0,1035,794.21,240.79,23.26,0,68.73,43.66,966.27,Completed,Q2,6,18-24,No Discount
+ORD-00906,12/25/2025,2025,December,Indiana,IN,Desk,Furniture,Wholesale,Consumer,Debit Card,19,1,635.47,0,0,635.47,312.97,322.5,50.75,0,51.99,53.67,583.48,Completed,Q4,12,18-24,No Discount
+ORD-00907,7/7/2024,2024,July,Washington,WA,Smartphone,Electronics,Online,Corporate,Bank Transfer,73,11,744.62,0,0,8190.82,5749.59,2441.23,29.8,0,49.54,496.06,8141.28,Completed,Q3,7,65+,No Discount
+ORD-00908,1/17/2024,2024,January,Kentucky,KY,Tablet,Electronics,Retail Store,Small Business,Credit Card,51,14,383.29,10,536.61,4829.45,3250.89,1578.56,32.69,0,84.95,432.3,4744.5,Completed,Q1,1,45-54,Low
+ORD-00909,5/2/2026,2026,May,Georgia,GA,Office Chair,Furniture,Online,Small Business,Debit Card,61,13,533.66,0,0,6937.58,3306.85,3630.73,52.33,0,53.02,455.68,6884.56,Completed,Q2,5,55-64,No Discount
+ORD-00910,4/15/2026,2026,April,Maine,ME,Headphones,Accessories,Online,Small Business,Credit Card,35,2,85.55,10,17.11,153.99,97.37,56.62,36.77,0,17.23,6.67,136.76,Completed,Q2,4,35-44,Low
+ORD-00911,11/8/2024,2024,November,Maine,ME,Bookshelf,Furniture,Wholesale,Corporate,Debit Card,28,4,335.57,5,67.11,1275.17,786.43,488.74,38.33,0,38.16,104.7,1237.01,Completed,Q4,11,25-34,Low
+ORD-00912,10/7/2024,2024,October,Hawaii,HI,Tablet,Electronics,Marketplace,Small Business,Credit Card,48,7,319.15,0,0,2234.05,1479.38,754.67,33.78,0,82.68,165.16,2151.37,Completed,Q4,10,45-54,No Discount
+ORD-00913,6/25/2024,2024,June,Utah,UT,Printer,Electronics,Online,Enterprise,Bank Transfer,24,4,207.43,15,124.46,705.26,475.1,230.16,32.64,0,67.01,43.48,638.25,Completed,Q2,6,18-24,Medium
+ORD-00914,6/20/2026,2026,June,Alaska,AK,Office Chair,Furniture,Online,Consumer,Credit Card,52,14,387.6,0,0,5426.4,4171.7,1254.7,23.12,0,80.93,441.1,5345.47,Completed,Q2,6,45-54,No Discount
+ORD-00915,11/26/2024,2024,November,Iowa,IA,Backpack,Accessories,Online,Consumer,Debit Card,53,9,54.33,15,73.35,415.62,358.6,57.02,13.72,0,61.19,28.2,354.43,Completed,Q4,11,45-54,Medium
+ORD-00916,4/24/2026,2026,April,Alaska,AK,Smartphone,Electronics,Retail Store,Corporate,Debit Card,60,10,1386.03,15,2079.04,11781.26,6660.47,5120.78,43.47,0,16.24,700.62,11765.02,Completed,Q2,4,55-64,Medium
+ORD-00917,2/23/2025,2025,February,Maine,ME,Laptop,Electronics,Wholesale,Corporate,Digital Wallet,75,12,1857.65,10,2229.18,20062.62,11891.05,8171.57,40.73,0,49.89,1103.67,20012.73,Completed,Q1,2,65+,Low
+ORD-00918,7/2/2024,2024,July,New Jersey,NJ,Headphones,Accessories,Online,Consumer,Bank Transfer,25,5,216.38,0,0,1081.9,732.83,349.07,32.26,0,52.71,88.48,1029.19,Completed,Q3,7,25-34,No Discount
+ORD-00919,2/21/2026,2026,February,Washington,WA,Monitor,Electronics,Retail Store,Small Business,PayPal,20,1,611.23,5,30.56,580.67,338.55,242.12,41.7,0,80.89,41.85,499.78,Completed,Q1,2,18-24,Low
+ORD-00920,6/1/2024,2024,June,Arizona,AZ,Smartphone,Electronics,Online,Consumer,Bank Transfer,64,7,865.02,15,908.27,5146.87,4571.3,575.57,11.18,0,79.5,308.27,5067.37,Completed,Q2,6,55-64,Medium
+ORD-00921,8/2/2024,2024,August,Minnesota,MN,Smartphone,Electronics,Online,Enterprise,Debit Card,18,2,933.34,10,186.67,1680.01,1127.03,552.98,32.92,0,61.55,108.3,1618.46,Completed,Q3,8,18-24,Low
+ORD-00922,9/12/2025,2025,September,Rhode Island,RI,Monitor,Electronics,Retail Store,Consumer,Credit Card,73,14,305.64,0,0,4278.96,3230.48,1048.48,24.5,0,50.95,319.99,4228.01,Completed,Q3,9,65+,No Discount
+ORD-00923,3/17/2026,2026,March,South Dakota,SD,Smartphone,Electronics,Wholesale,Consumer,Debit Card,75,8,876.64,10,701.31,6311.81,4890.37,1421.44,22.52,0,74.27,294.18,6237.54,Completed,Q1,3,65+,Low
+ORD-00924,4/25/2025,2025,April,Georgia,GA,Printer,Electronics,Marketplace,Consumer,PayPal,70,1,406.89,0,0,406.89,279.87,127.02,31.22,0,57.1,20.78,349.79,Completed,Q2,4,65+,No Discount
+ORD-00925,5/19/2026,2026,May,Massachusetts,MA,Bookshelf,Furniture,Online,Corporate,Debit Card,47,2,389.46,0,0,778.92,427.69,351.23,45.09,0,37.66,41.82,741.26,Completed,Q2,5,45-54,No Discount
+ORD-00926,2/22/2025,2025,February,Illinois,IL,Backpack,Accessories,Online,Consumer,PayPal,24,4,123.4,0,0,493.6,347.45,146.15,29.61,0,66.52,36.74,427.08,Completed,Q1,2,18-24,No Discount
+ORD-00927,9/9/2024,2024,September,South Dakota,SD,Tablet,Electronics,Retail Store,Consumer,Debit Card,72,14,872.69,10,1221.77,10995.89,8446.6,2549.29,23.18,2,10.76,465.15,10985.13,Returned,Q3,9,65+,Low
+ORD-00928,4/27/2025,2025,April,New Mexico,NM,Desk,Furniture,Online,Small Business,Debit Card,61,1,346.61,0,0,346.61,209.37,137.24,39.6,0,81.25,21.2,265.36,Completed,Q2,4,55-64,No Discount
+ORD-00929,3/3/2025,2025,March,Illinois,IL,Headphones,Accessories,Retail Store,Enterprise,Digital Wallet,23,5,69.86,0,0,349.3,199.96,149.34,42.75,0,6.45,26.59,342.85,Completed,Q1,3,18-24,No Discount
+ORD-00930,3/16/2024,2024,March,Florida,FL,Laptop,Electronics,Retail Store,Small Business,Bank Transfer,43,3,1274.59,15,573.57,3250.2,2906.98,343.22,10.56,0,40.76,171.61,3209.44,Completed,Q1,3,35-44,Medium
+ORD-00931,3/27/2024,2024,March,New York,NY,Mouse,Accessories,Wholesale,Enterprise,Credit Card,58,5,96.01,5,24,456.05,239.37,216.68,47.51,0,6.14,36.08,449.91,Completed,Q1,3,55-64,Low
+ORD-00932,10/25/2024,2024,October,Massachusetts,MA,Printer,Electronics,Online,Consumer,Bank Transfer,63,11,237.74,10,261.51,2353.63,1217.9,1135.72,48.25,0,10.75,162.34,2342.88,Completed,Q4,10,55-64,Low
+ORD-00933,5/13/2026,2026,May,Utah,UT,Monitor,Electronics,Retail Store,Consumer,PayPal,27,3,285.96,0,0,857.88,410.39,447.49,52.16,0,62.44,74.79,795.44,Completed,Q2,5,25-34,No Discount
+ORD-00934,10/24/2024,2024,October,Virginia,VA,Mouse,Accessories,Retail Store,Corporate,Digital Wallet,41,15,82.42,0,0,1236.3,637.7,598.6,48.42,0,50.53,73.1,1185.77,Completed,Q4,10,35-44,No Discount
+ORD-00935,1/1/2025,2025,January,Delaware,DE,Monitor,Electronics,Retail Store,Enterprise,PayPal,53,14,529.87,0,0,7418.18,3844.3,3573.88,48.18,0,15.26,395.09,7402.92,Completed,Q1,1,45-54,No Discount
+ORD-00936,11/20/2025,2025,November,Hawaii,HI,Office Chair,Furniture,Online,Corporate,PayPal,45,1,472.38,10,47.24,425.14,353.13,72.02,16.94,0,67.13,21.86,358.01,Completed,Q4,11,45-54,Low
+ORD-00937,1/30/2025,2025,January,Kansas,KS,Desk,Furniture,Wholesale,Corporate,Credit Card,67,11,656.86,0,0,7225.46,3376.62,3848.84,53.27,0,79.55,392.31,7145.91,Completed,Q1,1,65+,No Discount
+ORD-00938,2/12/2026,2026,February,Montana,MT,Bookshelf,Furniture,Wholesale,Consumer,Credit Card,62,6,351.01,0,0,2106.06,1253.63,852.43,40.48,0,53.78,95.89,2052.28,Completed,Q1,2,55-64,No Discount
+ORD-00939,1/20/2026,2026,January,Arizona,AZ,Monitor,Electronics,Retail Store,Corporate,Debit Card,55,6,495.35,0,0,2972.1,2194.91,777.19,26.15,0,39.07,146.7,2933.03,Completed,Q1,1,55-64,No Discount
+ORD-00940,2/8/2025,2025,February,Texas,TX,Office Chair,Furniture,Online,Consumer,PayPal,49,9,537.52,15,725.65,4112.03,3616.53,495.5,12.05,0,81.2,169.6,4030.83,Completed,Q1,2,45-54,Medium
+ORD-00941,1/30/2024,2024,January,Delaware,DE,Office Chair,Furniture,Online,Consumer,PayPal,56,15,308.48,5,231.36,4395.84,2399.93,1995.91,45.4,0,55.92,369.59,4339.92,Completed,Q1,1,55-64,Low
+ORD-00942,5/23/2024,2024,May,Washington,WA,Mouse,Accessories,Retail Store,Consumer,Credit Card,63,7,46.5,0,0,325.5,172.75,152.75,46.93,0,10.53,15.42,314.97,Completed,Q2,5,55-64,No Discount
+ORD-00943,12/1/2025,2025,December,Maryland,MD,Desk,Furniture,Marketplace,Consumer,Digital Wallet,35,15,375.12,5,281.34,5345.46,2950.93,2394.53,44.8,0,43.01,273.67,5302.45,Completed,Q4,12,35-44,Low
+ORD-00944,5/16/2024,2024,May,Minnesota,MN,Keyboard,Accessories,Online,Corporate,Credit Card,25,4,92.09,0,0,368.36,179.87,188.49,51.17,0,9.09,32.31,359.27,Completed,Q2,5,25-34,No Discount
+ORD-00945,8/21/2025,2025,August,Nevada,NV,Office Chair,Furniture,Online,Corporate,Debit Card,57,8,529.18,10,423.34,3810.1,2926.58,883.52,23.19,0,15.45,274.31,3794.65,Completed,Q3,8,55-64,Low
+ORD-00946,8/29/2024,2024,August,Alaska,AK,Laptop,Electronics,Online,Corporate,Credit Card,65,3,1818.93,0,0,5456.79,2661.99,2794.8,51.22,0,7.21,445.82,5449.58,Completed,Q3,8,65+,No Discount
+ORD-00947,11/12/2024,2024,November,New Hampshire,NH,Printer,Electronics,Online,Corporate,Debit Card,29,2,179.89,15,53.97,305.81,209.81,96,31.39,0,18.59,18.09,287.22,Completed,Q4,11,25-34,Medium
+ORD-00948,11/21/2025,2025,November,Hawaii,HI,Printer,Electronics,Marketplace,Enterprise,Credit Card,40,6,187.38,10,112.43,1011.85,574.66,437.19,43.21,0,37.33,73.54,974.52,Completed,Q4,11,35-44,Low
+ORD-00949,4/12/2024,2024,April,Iowa,IA,Backpack,Accessories,Wholesale,Corporate,Bank Transfer,18,15,85.75,0,0,1286.25,898.21,388.04,30.17,0,12,87.33,1274.25,Completed,Q2,4,18-24,No Discount
+ORD-00950,10/9/2025,2025,October,Wisconsin,WI,Mouse,Accessories,Marketplace,Consumer,Bank Transfer,19,12,60.47,0,0,725.64,372.22,353.42,48.71,0,61.64,60.54,664,Completed,Q4,10,18-24,No Discount
+ORD-00951,9/29/2024,2024,September,Alaska,AK,Backpack,Accessories,Retail Store,Consumer,PayPal,27,13,75.47,0,0,981.11,706.19,274.92,28.02,3,33.5,69.36,947.61,Returned,Q3,9,25-34,No Discount
+ORD-00952,1/23/2024,2024,January,New Mexico,NM,Desk,Furniture,Online,Small Business,PayPal,32,13,364,15,709.8,4022.2,3644.98,377.22,9.38,0,71.78,171.62,3950.42,Completed,Q1,1,25-34,Medium
+ORD-00953,9/17/2024,2024,September,Oregon,OR,Mouse,Accessories,Retail Store,Small Business,Bank Transfer,24,10,46.18,0,0,461.8,218.9,242.9,52.6,0,38.27,25.52,423.53,Completed,Q3,9,18-24,No Discount
+ORD-00954,5/16/2026,2026,May,Florida,FL,Backpack,Accessories,Wholesale,Corporate,PayPal,21,14,63.82,0,0,893.48,606.92,286.56,32.07,0,52.56,62.07,840.92,Completed,Q2,5,18-24,No Discount
+ORD-00955,12/2/2025,2025,December,New Hampshire,NH,Office Chair,Furniture,Online,Corporate,Digital Wallet,44,9,319.69,5,143.86,2733.35,2136.84,596.51,21.82,0,31.58,232.43,2701.77,Completed,Q4,12,35-44,Low
+ORD-00956,1/23/2025,2025,January,Michigan,MI,Monitor,Electronics,Online,Corporate,Debit Card,40,13,570.87,0,0,7421.31,5196.14,2225.17,29.98,0,71.11,396.04,7350.2,Completed,Q1,1,35-44,No Discount
+ORD-00957,9/4/2025,2025,September,Rhode Island,RI,Keyboard,Accessories,Retail Store,Corporate,Debit Card,26,12,60.74,15,109.33,619.55,537.1,82.45,13.31,0,11.5,44.21,608.05,Completed,Q3,9,25-34,Medium
+ORD-00958,4/4/2024,2024,April,Nevada,NV,Mouse,Accessories,Online,Consumer,PayPal,73,11,37.3,0,0,410.3,213.81,196.49,47.89,3,48.22,20.99,362.08,Returned,Q2,4,65+,No Discount
+ORD-00959,8/5/2025,2025,August,Vermont,VT,Laptop,Electronics,Wholesale,Corporate,Credit Card,27,15,1443.16,5,1082.37,20565.03,13861.5,6703.53,32.6,0,37.22,1175.73,20527.81,Completed,Q3,8,25-34,Low
+ORD-00960,3/7/2026,2026,March,New Jersey,NJ,Printer,Electronics,Wholesale,Corporate,Digital Wallet,38,11,423.57,0,0,4659.27,2937.76,1721.51,36.95,0,36.89,249.44,4622.38,Completed,Q1,3,35-44,No Discount
+ORD-00961,12/28/2024,2024,December,Alabama,AL,Laptop,Electronics,Online,Corporate,Bank Transfer,19,10,1361.85,15,2042.78,11575.72,6849.15,4726.57,40.83,0,31.82,487.36,11543.9,Completed,Q4,12,18-24,Medium
+ORD-00962,1/28/2026,2026,January,Alaska,AK,Desk,Furniture,Retail Store,Small Business,PayPal,48,4,394.12,10,157.65,1418.83,1196.25,222.58,15.69,0,61.7,92.74,1357.13,Completed,Q1,1,45-54,Low
+ORD-00963,12/5/2025,2025,December,North Dakota,ND,Smartphone,Electronics,Online,Consumer,Credit Card,68,1,1055.34,0,0,1055.34,508.08,547.26,51.86,0,67.65,60.69,987.69,Completed,Q4,12,65+,No Discount
+ORD-00964,9/11/2025,2025,September,Tennessee,TN,Printer,Electronics,Retail Store,Corporate,PayPal,22,4,436.45,0,0,1745.8,827.7,918.1,52.59,0,29.13,123.32,1716.67,Completed,Q3,9,18-24,No Discount
+ORD-00965,9/18/2024,2024,September,Maine,ME,Printer,Electronics,Marketplace,Corporate,PayPal,25,4,439.95,5,87.99,1671.81,1144.37,527.44,31.55,0,73.87,135.55,1597.94,Completed,Q3,9,25-34,Low
+ORD-00966,11/27/2025,2025,November,New York,NY,Office Chair,Furniture,Online,Consumer,Credit Card,75,11,139.99,0,0,1539.89,694.95,844.94,54.87,0,13.02,119.68,1526.87,Completed,Q4,11,65+,No Discount
+ORD-00967,7/27/2024,2024,July,New Mexico,NM,Bookshelf,Furniture,Online,Consumer,Bank Transfer,43,9,136.99,15,184.94,1047.97,787.49,260.49,24.86,0,44.64,68.2,1003.33,Completed,Q3,7,35-44,Medium
+ORD-00968,12/16/2024,2024,December,Connecticut,CT,Bookshelf,Furniture,Wholesale,Corporate,Credit Card,66,13,193.88,10,252.04,2268.4,1698.71,569.68,25.11,0,76.98,128.86,2191.42,Completed,Q4,12,65+,Low
+ORD-00969,12/4/2025,2025,December,California,CA,Printer,Electronics,Wholesale,Corporate,Credit Card,53,7,201.73,15,211.82,1200.29,695.68,504.62,42.04,0,9.38,90.22,1190.91,Completed,Q4,12,45-54,Medium
+ORD-00970,7/15/2024,2024,July,Nebraska,NE,Keyboard,Accessories,Marketplace,Consumer,Credit Card,71,12,154.95,0,0,1859.4,963.45,895.95,48.19,0,7,147.43,1852.4,Completed,Q3,7,65+,No Discount
+ORD-00971,2/18/2025,2025,February,New Jersey,NJ,Smartphone,Electronics,Online,Small Business,Credit Card,33,10,1280.74,0,0,12807.4,6064.96,6742.44,52.64,0,43.85,731.87,12763.55,Completed,Q1,2,25-34,No Discount
+ORD-00972,5/15/2024,2024,May,Kansas,KS,Smartphone,Electronics,Marketplace,Small Business,Bank Transfer,25,13,785.63,15,1531.98,8681.21,6936.3,1744.91,20.1,0,71.88,400.51,8609.33,Completed,Q2,5,25-34,Medium
+ORD-00973,7/9/2024,2024,July,South Carolina,SC,Headphones,Accessories,Wholesale,Consumer,Credit Card,33,4,131.63,5,26.33,500.19,286.66,213.53,42.69,0,35.5,32.54,464.69,Completed,Q3,7,25-34,Low
+ORD-00974,5/15/2025,2025,May,Alaska,AK,Printer,Electronics,Retail Store,Enterprise,Digital Wallet,43,15,261.31,0,0,3919.65,2460.38,1459.27,37.23,0,78.1,199.07,3841.55,Completed,Q2,5,35-44,No Discount
+ORD-00975,2/23/2025,2025,February,Pennsylvania,PA,Monitor,Electronics,Marketplace,Corporate,Credit Card,34,9,338.25,10,304.42,2739.82,2366.73,373.1,13.62,0,38.28,133.2,2701.54,Completed,Q1,2,25-34,Low
+ORD-00976,2/9/2024,2024,February,Arizona,AZ,Smartphone,Electronics,Online,Consumer,Credit Card,61,4,977.66,0,0,3910.64,2808.85,1101.79,28.17,0,65.49,175.61,3845.15,Completed,Q1,2,55-64,No Discount
+ORD-00977,7/2/2025,2025,July,Montana,MT,Keyboard,Accessories,Retail Store,Small Business,Digital Wallet,52,7,65.47,0,0,458.29,224,234.29,51.12,0,82.62,30.97,375.67,Completed,Q3,7,45-54,No Discount
+ORD-00978,10/23/2025,2025,October,Wisconsin,WI,Bookshelf,Furniture,Retail Store,Corporate,Credit Card,31,4,208.46,20,166.77,667.07,478.48,188.59,28.27,0,73.5,30.6,593.57,Completed,Q4,10,25-34,Medium
+ORD-00979,11/27/2025,2025,November,North Dakota,ND,Backpack,Accessories,Online,Corporate,Credit Card,35,5,97.42,0,0,487.1,238.66,248.44,51,0,44.48,33.42,442.62,Completed,Q4,11,35-44,No Discount
+ORD-00980,9/9/2025,2025,September,Nebraska,NE,Backpack,Accessories,Online,Consumer,Debit Card,73,5,82.96,0,0,414.8,248.17,166.63,40.17,0,54.87,29.96,359.93,Completed,Q3,9,65+,No Discount
+ORD-00981,12/23/2025,2025,December,Illinois,IL,Backpack,Accessories,Retail Store,Consumer,Digital Wallet,62,5,34.98,0,0,174.9,81.17,93.73,53.59,0,14.14,11.66,160.76,Completed,Q4,12,55-64,No Discount
+ORD-00982,1/26/2026,2026,January,New York,NY,Printer,Electronics,Online,Consumer,Debit Card,60,15,427.88,0,0,6418.2,4888.13,1530.07,23.84,0,10.95,518.78,6407.25,Completed,Q1,1,55-64,No Discount
+ORD-00983,10/26/2025,2025,October,Delaware,DE,Bookshelf,Furniture,Retail Store,Consumer,Credit Card,64,1,93.17,0,0,93.17,66.48,26.69,28.65,0,17.1,3.81,76.07,Completed,Q4,10,55-64,No Discount
+ORD-00984,6/2/2026,2026,June,Georgia,GA,Office Chair,Furniture,Retail Store,Small Business,PayPal,37,9,247.32,20,445.18,1780.7,1519.06,261.64,14.69,0,12.57,136.41,1768.13,Completed,Q2,6,35-44,Medium
+ORD-00985,11/24/2024,2024,November,West Virginia,WV,Tablet,Electronics,Wholesale,Consumer,Digital Wallet,34,3,368.88,0,0,1106.64,775.19,331.45,29.95,0,58.85,99.44,1047.79,Completed,Q4,11,25-34,No Discount
+ORD-00986,12/15/2024,2024,December,Kentucky,KY,Tablet,Electronics,Online,Corporate,Bank Transfer,56,13,625.67,10,813.37,7320.34,3799.06,3521.28,48.1,0,13.43,646.2,7306.91,Completed,Q4,12,55-64,Low
+ORD-00987,11/22/2025,2025,November,Virginia,VA,Tablet,Electronics,Online,Corporate,PayPal,72,4,394.04,5,78.81,1497.35,757.34,740.01,49.42,0,51.93,127.99,1445.42,Completed,Q4,11,65+,Low
+ORD-00988,3/25/2026,2026,March,Massachusetts,MA,Office Chair,Furniture,Online,Enterprise,Credit Card,24,10,138.12,10,138.12,1243.08,832.03,411.05,33.07,2,47.66,55.94,1195.42,Returned,Q1,3,18-24,Low
+ORD-00989,2/15/2024,2024,February,California,CA,Laptop,Electronics,Online,Consumer,Credit Card,23,6,1671.75,0,0,10030.5,6257.29,3773.21,37.62,0,55.08,416.55,9975.42,Completed,Q1,2,18-24,No Discount
+ORD-00990,11/14/2024,2024,November,New Jersey,NJ,Keyboard,Accessories,Marketplace,Consumer,Debit Card,73,4,172.89,5,34.58,656.98,338.59,318.39,48.46,0,33.54,52.3,623.44,Completed,Q4,11,65+,Low
+ORD-00991,8/4/2024,2024,August,Missouri,MO,Laptop,Electronics,Wholesale,Corporate,PayPal,20,11,2185.28,0,0,24038.08,10982.49,13055.59,54.31,0,55.37,2147.7,23982.71,Completed,Q3,8,18-24,No Discount
+ORD-00992,7/23/2025,2025,July,Wisconsin,WI,Office Chair,Furniture,Retail Store,Small Business,Digital Wallet,21,15,465.34,0,0,6980.1,3459.94,3520.16,50.43,0,61,281.33,6919.1,Completed,Q3,7,18-24,No Discount
+ORD-00993,6/4/2025,2025,June,Connecticut,CT,Backpack,Accessories,Online,Consumer,Credit Card,38,2,102.85,5,10.28,195.42,116.33,79.09,40.47,0,10.15,15.59,185.27,Completed,Q2,6,35-44,Low
+ORD-00994,3/27/2025,2025,March,Illinois,IL,Monitor,Electronics,Marketplace,Corporate,Credit Card,69,10,210.57,0,0,2105.7,1014.24,1091.46,51.83,0,81.59,189.04,2024.11,Completed,Q1,3,65+,No Discount
+ORD-00995,1/10/2025,2025,January,Michigan,MI,Office Chair,Furniture,Online,Enterprise,PayPal,51,14,207.36,15,435.46,2467.58,2254.01,213.57,8.66,0,84.82,128.89,2382.76,Completed,Q1,1,45-54,Medium
+ORD-00996,6/29/2024,2024,June,Pennsylvania,PA,Bookshelf,Furniture,Online,Enterprise,Credit Card,49,1,359.98,0,0,359.98,263.76,96.22,26.73,0,46.44,27.78,313.54,Completed,Q2,6,45-54,No Discount
+ORD-00997,9/25/2024,2024,September,Mississippi,MS,Bookshelf,Furniture,Retail Store,Consumer,Bank Transfer,69,15,218.98,15,492.7,2792,2470.9,321.1,11.5,0,20.03,148.16,2771.97,Completed,Q3,9,65+,Medium
+ORD-00998,12/26/2024,2024,December,Maryland,MD,Bookshelf,Furniture,Online,Consumer,Debit Card,71,2,313.77,5,31.38,596.16,286.48,309.68,51.95,0,72.55,49.03,523.61,Completed,Q4,12,65+,Low
+ORD-00999,11/3/2024,2024,November,California,CA,Mouse,Accessories,Wholesale,Consumer,Credit Card,65,11,31.57,0,0,347.27,178.76,168.51,48.52,0,41.24,29.13,306.03,Completed,Q4,11,65+,No Discount
+ORD-01000,7/18/2025,2025,July,Mississippi,MS,Laptop,Electronics,Wholesale,Consumer,Credit Card,38,4,1403.3,10,561.32,5051.88,3324.46,1727.42,34.19,0,7.27,377.7,5044.61,Completed,Q3,7,35-44,Low
