@@ -131,6 +131,6 @@ vertex-sales-dashboard/
 ## 8. Author
 
 **Taryila Emmanuel Bem**
-Data Analytics professional with skills in Excel, SQL, Power BI, and R, passionate about transforming data into actionable insights.
+Data Analytics professional with skills in Excel, SQL, Power BI, Machine Learning and R, passionate about transforming data into actionable insights.
 
 - Visuals: Customer Segment split, Sales by Age Group, Sales by Product, Quantity by Product, Average Order Value by Segment, Payment Method, Sales by State, Sales by Product Category
