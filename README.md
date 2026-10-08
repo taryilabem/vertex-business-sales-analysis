@@ -111,7 +111,7 @@ The report has three pages, connected by a navigation pane and shared slicers.
 5. **Review low-margin products** (for example Headphones, Office Chair, Monitor, Mouse) for pricing or cost improvements.
 6. **Test discounts carefully.** Run controlled comparisons before concluding that bigger discounts lift profit.
 7. **Keep returns low.** At 1.9% the return rate is healthy, so continue current quality and fulfilment practices.
-## 7. Repository Structure (suggested)
+## 7. Repository Structure
 
 ```
 vertex-sales-dashboard/
