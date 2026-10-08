@@ -7,7 +7,7 @@ Interactive 3-page Power BI dashboard analysing sales, profitability and custome
 ![Overview](https://github.com/taryilabem/vertex-business-sales-analysis/blob/main/screenshots/Screenshot%202026-10-07%201.png)
 
 ### Profitability Analysis
-![Profitability Analysis](Screenshot2026-10-07-2.png)
+![Profitability Analysis](https://github.com/taryilabem/vertex-business-sales-analysis/blob/main/screenshots/Screenshot%202026-10-07%202.png)
 
 ### Customer and Product Analysis
 ![Customer and Product Analysis](screenshot2026-10-07-3.png)
