@@ -4,7 +4,7 @@ Interactive 3-page Power BI dashboard analysing sales, profitability and custome
 ## Dashboard Preview
 
 ### Overview
-![Overview](Screenshot2026-10-07-1.png)
+![Overview]
 
 ### Profitability Analysis
 ![Profitability Analysis](Screenshot2026-10-07-2.png)
